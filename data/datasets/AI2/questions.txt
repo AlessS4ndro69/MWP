@@ -121,7 +121,6 @@ x = 33 + 44
 Sara tenía 21 quarters en su alcancía. Su papá le dio 49 quarters. ¿Cuántos quarters tiene Sara ahora?
 70
 x = 21 + 49
-Claro, aquí tienes el texto con las traducciones al español:
 Hay 41 lápices en el cajón. Mike colocó 30 lápices en el cajón. ¿Cuántos lápices hay ahora en total?
 71
 x = 41 + 30
