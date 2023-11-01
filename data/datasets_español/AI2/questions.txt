@@ -1,0 +1,1183 @@
+Joan encontró 70 conchas en la playa. Le dio algunas de sus conchas a Sam. Ahora tiene 27 conchas. ¿Cuántas conchas le dio a Sam?
+43
+x = 70 - 27
+Había 28 fardos de heno en el granero. Tim apiló fardos en el granero hoy. Ahora hay 54 fardos de heno en el granero. ¿Cuántos fardos almacenó en el granero?
+26
+x = 54 - 28
+Mary está horneando un pastel. La receta requiere 8 tazas de harina. Ya ha agregado 2 tazas. ¿Cuántas tazas necesita agregar?
+6
+x = 8 - 2
+El equipo de baloncesto de Sara jugó 12 partidos de baloncesto este año. El equipo ganó la mayoría de sus partidos. Fueron derrotados en 4 partidos. ¿Cuántos partidos ganaron?
+8
+x = 12 - 4
+Actualmente hay 22 árboles de nogal en el parque. Los trabajadores del parque plantarán árboles de nogal hoy. Cuando los trabajadores terminen, habrá 55 árboles de nogal en el parque. ¿Cuántos árboles de nogal plantaron los trabajadores hoy?
+33
+x = 55 - 22
+Mike tenía 34 duraznos en su puesto de frutas en la carretera. Fue al huerto y recogió duraznos para abastecerse. Ahora hay 86 duraznos. ¿Cuántos recogió?
+52
+x = 86 - 34
+Había 6 rosas en el florero. Mary cortó algunas rosas de su jardín de flores. Ahora hay 16 rosas en el florero. ¿Cuántas rosas cortó?
+10
+x = 16 - 6
+Joan fue a 4 partidos de fútbol este año. Fue a 9 partidos el año pasado. ¿Cuántos partidos de fútbol ha ido Joan en total?
+13
+x = 4 + 9
+Tom tiene 9 globos amarillos, Sara tiene 8 globos amarillos. ¿Cuántos globos amarillos tienen en total?
+17
+x = 9 + 8
+Actualmente hay 4 árboles de nogal en el parque. Los trabajadores del parque plantarán 6 árboles de nogal hoy. ¿Cuántos árboles de nogal tendrá el parque cuando los trabajadores terminen?
+10
+x = 4 + 6
+Sam tenía 9 dimes en su alcancía. Su papá le dio 7 dimes. ¿Cuántos dimes tiene Sam ahora?
+16
+x = 9 + 7
+Alyssa tenía 12 cachorros. Dio 7 a sus amigos. Ahora tiene 5 cachorros. ¿Cuántos cachorros tenía al principio?
+12
+x = 7 + 5
+Un restaurante sirvió 9 pasteles durante el almuerzo y 6 durante la cena hoy. ¿Cuántos pasteles se sirvieron en total hoy?
+15
+x = 9 + 6
+Actualmente hay 2 lápices en el cajón. Tim colocó 3 lápices en el cajón. ¿Cuántos lápices hay ahora en total?
+5
+x = 2 + 3
+Joan encontró 6 conchas y Jessica encontró 8 conchas en la playa. ¿Cuántas conchas encontraron juntas?
+14
+x = 6 + 8
+Sandy cultivó 6 zanahorias, Sam cultivó 3 zanahorias. ¿Cuántas zanahorias cultivaron en total?
+9
+x = 6 + 3
+Benny recogió 2 manzanas y Dan recogió 9 manzanas del manzano. ¿Cuántas manzanas recogieron en total?
+11
+x = 2 + 9
+Sally encontró 9 conchas, Tom encontró 7 conchas y Jessica encontró 5 conchas en la playa. ¿Cuántas conchas encontraron juntos?
+21
+x = 9 + 7 + 5
+El gato de Tim tuvo gatitos. Dio 3 a Jessica y 6 a Sara. Ahora tiene 9 gatitos. ¿Cuántos gatitos tenía al principio?
+18
+x = 3 + 6 + 9
+Joan tiene 9 globos azules, Sally tiene 5 globos azules y Jessica tiene 2 globos azules. ¿Cuántos globos azules tienen en total?
+16
+x = 9 + 5 + 2
+Melanie tenía 19 dimes en su alcancía. Su papá le dio 39 dimes y su mamá le dio 25 dimes. ¿Cuántos dimes tiene Melanie ahora?
+83
+x = 19 + 39 + 25
+Un restaurante sirvió 5 pasteles durante el almuerzo y 6 durante la cena hoy. El restaurante sirvió 3 pasteles ayer. ¿Cuántos pasteles se sirvieron en total?
+14
+x = 5 + 6 + 3
+Melanie recogió 4 ciruelas, Dan recogió 9 ciruelas y Sally recogió 3 ciruelas del árbol de ciruelas. ¿Cuántas ciruelas recogieron en total?
+16
+x = 4 + 9 + 3
+Actualmente hay 7 árboles de dogwood en el parque. Los trabajadores del parque plantarán 44 árboles de dogwood hoy y 20 árboles de dogwood mañana. ¿Cuántos árboles de dogwood tendrá el parque cuando los trabajadores terminen?
+71
+x = 7 + 44 + 20
+Sara cultivó 4 cebollas, Sally cultivó 5 cebollas y Fred cultivó 9 cebollas. ¿Cuántas cebollas cultivaron en total?
+18
+x = 4 + 5 + 9
+Jason tiene 43 canicas azules y 16 canicas rojas. Tom tiene 24 canicas azules. ¿Cuántas canicas azules tienen en total?
+67
+x = 43 + 24
+Sam encontró 18 conchas y Mary encontró 47 conchas en la playa. ¿Cuántas conchas encontraron juntos?
+65
+x = 18 + 47
+Jason cultivó 23 sandías y 18 rábanos. Nancy cultivó 28 sandías. ¿Cuántas sandías cultivaron en total?
+51
+x = 23 + 28
+Actualmente hay 11 reglas y 34 crayones en el cajón. Joan colocó 14 reglas en el cajón. ¿Cuántas reglas hay ahora en total?
+25
+x = 11 + 14
+Sara recogió 45 peras y Sally recogió 11 peras del árbol de peras. ¿Cuántas peras recogieron en total?
+56
+x = 45 + 11
+Keith tiene 20 libros. Jason tiene 21 libros. ¿Cuántos libros tienen juntos?
+41
+x = 20 + 21
+Jason tenía 49 cuartos en su alcancía. Su papá le dio 25 cuartos. ¿Cuántos cuartos tiene Jason ahora?
+74
+x = 49 + 25
+Tom encontró 15 conchas y Fred encontró 43 conchas en la playa. Cuando las limpiaron, descubrieron que 29 estaban rotas. ¿Cuántas conchas encontraron juntos?
+58
+x = 15 + 43
+Sara tiene 31 globos rojos y 15 globos verdes. Sandy tiene 24 globos rojos. ¿Cuántos globos rojos tienen en total?
+55
+x = 31 + 24
+Joan recogió 37 naranjas y Sara recogió 10 naranjas. Alyssa recogió 30 peras. ¿Cuántas naranjas se recogieron en total?
+47
+x = 37 + 10
+Fred fue a 36 partidos de baloncesto este año, pero se perdió 35. Fue a 11 partidos el año pasado. ¿A cuántos partidos de baloncesto fue Fred en total?
+47
+x = 36 + 11
+Actualmente hay 33 lápices y 44 crayones en el cajón. Joan colocó 27 lápices en el cajón. ¿Cuántos lápices hay ahora en total?
+60
+x = 33 + 27
+Sam tenía 49 centavos y 24 nickels en su alcancía. Su papá le dio 39 nickels y 31 quarters. ¿Cuántos nickels tiene ahora?
+63
+x = 24 + 39
+Dan cultivó 42 rábanos y 47 melones cantalupo. Jessica cultivó 47 rábanos. ¿Cuántos rábanos cultivaron en total?
+89
+x = 42 + 47
+Actualmente hay 33 árboles de nogal en el parque. Los trabajadores del parque plantarán 44 árboles de nogal hoy. ¿Cuántos árboles de nogal tendrá el parque cuando los trabajadores terminen?
+77
+x = 33 + 44
+Sara tenía 21 quarters en su alcancía. Su papá le dio 49 quarters. ¿Cuántos quarters tiene Sara ahora?
+70
+x = 21 + 49
+Claro, aquí tienes el texto con las traducciones al español:
+Hay 41 lápices en el cajón. Mike colocó 30 lápices en el cajón. ¿Cuántos lápices hay ahora en total?
+71
+x = 41 + 30
+Joan tiene 10 libros. Tom tiene 38 libros. ¿Cuántos libros tienen juntos?
+48
+x = 10 + 38
+Joan tiene 40 globos azules. Melanie tiene 41 globos azules. ¿Cuántos globos azules tienen en total?
+81
+x = 40 + 41
+Fred cultivó 38 melones. Tim cultivó 44 melones. ¿Cuántos melones cultivaron en total?
+82
+x = 38 + 44
+Sam asistió a 14 juegos de fútbol este año. Asistió a 29 juegos el año pasado. ¿A cuántos juegos de fútbol asistió Sam en total?
+43
+x = 14 + 29
+Mary encontró 18 conchas y Jessica encontró 41 conchas en la playa. ¿Cuántas conchas encontraron juntas?
+59
+x = 18 + 41
+Actualmente, hay 39 árboles de cornejos en el parque. Los trabajadores del parque plantarán 41 árboles de cornejo hoy y 20 árboles de cornejo mañana. ¿Cuántos árboles de cornejo tendrá el parque cuando los trabajadores hayan terminado?
+100
+x = 39 + 41 + 20
+Sandy tiene 10 libros, Benny tiene 24 libros y Tim tiene 33 libros. ¿Cuántos libros tienen en total?
+67
+x = 10 + 24 + 33
+Jason recogió 46 peras, Keith recogió 47 peras y Mike recogió 12 peras del árbol de peras. ¿Cuántas peras se recogieron en total?
+105
+x = 46 + 47 + 12
+Keith cultivó 29 melones, Fred cultivó 16 melones y Jason cultivó 20 melones. ¿Cuántos melones cultivaron en total?
+65
+x = 29 + 16 + 20
+Melanie tenía 19 monedas de diez centavos en su alcancía. Su papá le dio 39 monedas de diez centavos y su mamá le dio 25 monedas de diez centavos. ¿Cuántas monedas de diez centavos tiene Melanie ahora?
+83
+x = 19 + 39 + 25
+Alyssa tiene 37 globos azules, Sandy tiene 28 globos azules y Sally tiene 39 globos azules. ¿Cuántos globos azules tienen en total?
+104
+x = 37 + 28 + 39
+Sally tenía 27 cartas de Pokémon. Dan le dio 41 nuevas cartas de Pokémon. Sally compró 20 cartas de Pokémon. ¿Cuántas cartas de Pokémon tiene Sally ahora?
+88
+x = 27 + 41 + 20
+Jason asistió a 11 juegos de fútbol este mes. Asistió a 17 juegos el mes pasado y planea asistir a 16 juegos el próximo mes. ¿A cuántos juegos asistirá en total?
+44
+x = 11 + 17 + 16
+Hay 43 lápices en el cajón y 19 lápices en el escritorio. Dan colocó 16 lápices en el escritorio. ¿Cuántos lápices hay ahora en total?
+78
+x = 43 + 19 + 16
+Mike tiene 35 libros en su biblioteca. Compró varios libros en una venta de garaje durante el fin de semana. Ahora tiene 56 libros en su biblioteca. ¿Cuántos libros compró en la venta de garaje?
+21
+x = 56 - 35
+Actualmente, hay 53 árboles de arce en el parque. Los trabajadores del parque plantarán árboles de arce hoy. Cuando los trabajadores terminen, habrá 64 árboles de arce en el parque. ¿Cuántos árboles de arce plantaron los trabajadores hoy?
+11
+x = 64 - 53
+Dan encontró 56 conchas en la playa, él le dio algunas de sus conchas a Jessica. Ahora tiene 22 conchas. ¿Cuántas conchas le dio a Jessica?
+34
+x = 56 - 22
+Sally tenía 13 duraznos en su puesto de frutas en la carretera. Fue al huerto y recogió duraznos para abastecerse. Ahora tiene 55 duraznos. ¿Cuántos recogió?
+42
+x = 55 - 13
+Benny recibió 67 dólares por su cumpleaños. Fue a una tienda de artículos deportivos y compró un guante de béisbol, una pelota de béisbol y un bate. Le quedaron 33 dólares. ¿Cuánto gastó en el equipo de béisbol?
+34
+x = 67 - 33
+Había 3 rosas en el jarrón. Alyssa cortó algunas rosas de su jardín de flores. Ahora hay 14 rosas en el jarrón. ¿Cuántas rosas cortó?
+11
+x = 14 - 3
+La semana pasada, Tom tenía 74 dólares. Lavó autos durante el fin de semana y ahora tiene 86 dólares. ¿Cuánto dinero ganó lavando autos?
+12
+x = 86 - 74
+Había 73 fardos de heno en el granero. Jason almacenó fardos en el granero hoy. Ahora hay 96 fardos de heno en el granero. ¿Cuántos fardos almacenó en el granero?
+23
+x = 96 - 73
+Nancy cultivó 6 papas. Sandy cultivó 7 papas. ¿Cuántas papas cultivaron en total?
+13
+x = 6 + 7
+Hay 9 crayones en el cajón. Benny colocó 3 crayones en el cajón. ¿Cuántos crayones hay ahora en total?
+12
+x = 9 + 3
+Actualmente, hay 5 robles en el parque. Los trabajadores del parque plantarán 4 robles hoy. ¿Cuántos robles tendrá el parque cuando los trabajadores hayan terminado?
+9
+x = 5 + 4
+Tom encontró 7 conchas, pero 4 estaban rotas. ¿Cuántas conchas no rotas encontró Tom?
+3
+x = 7 - 4
+Sally recogió 7 limones y Mary recogió 9 limones del árbol de limón. ¿Cuántos limones se recogieron en total?
+16
+x = 7 + 9
+Un restaurante sirvió 6 pasteles durante el almuerzo y 9 durante la cena hoy. ¿Cuántos pasteles se sirvieron hoy?
+15
+x = 6 + 9
+Joan tiene 8 globos naranjas, pero perdió 2 de ellos. ¿Cuántos globos naranjas tiene Joan ahora?
+6
+x = 8 - 2
+Fred tenía 7 monedas de diez centavos en su alcancía. Su hermana le pidió prestadas 3 de sus monedas de diez centavos. ¿Cuántas monedas de diez centavos tiene Fred ahora?
+4
+x = 7 - 3
+La gata de Joan tuvo 8 gatitos. Ella le dio 2 a sus amigos. ¿Cuántos gatitos tiene ahora?
+6
+x = 8 - 2
+Actualmente, hay 34 árboles de cornejos en el parque. Los trabajadores del parque plantarán 49 árboles de cornejo hoy. ¿Cuántos árboles de cornejo tendrá el parque cuando los trabajadores hayan terminado?
+83
+x = 34 + 49
+Hay 27 lápices en el cajón. Nancy colocó 45 lápices en el cajón. ¿Cuántos lápices hay ahora en total?
+72
+x = 27 + 45
+Sam encontró 35 conchas en la playa, le dio 18 de las conchas a Joan. ¿Cuántas conchas tiene ahora?
+17
+x = 35 - 18
+Tim tiene 22 libros. Mike tiene 20 libros. ¿Cuántos libros tienen juntos?
+42
+x = 22 + 20
+Mike tiene 87 tarjetas de béisbol. Sam compró 13 de las tarjetas de béisbol de Mike. ¿Cuántas tarjetas de béisbol tiene Mike ahora?
+74
+x = 87 - 13
+Sandy cultivó 51 calabazas. Mike cultivó 23 calabazas. ¿Cuántas calabazas cultivaron en total?
+74
+x = 51 + 23
+Tim tiene 44 libros. Sam tiene 52 libros. ¿Cuántos libros tienen juntos?
+96
+x = 44 + 52
+Dan tiene 64 canicas violetas, le dio 14 de las canicas a Mary. ¿Cuántas canicas violetas tiene ahora?
+50
+x = 64 - 14
+Actualmente, hay 25 árboles de chopos en el parque. Los trabajadores del parque plantarán 73 árboles de chopos hoy. ¿Cuántos árboles de chopos tendrá el parque cuando los trabajadores hayan terminado?
+98
+x = 25 + 73
+Hay 54 tijeras en el cajón. Keith colocó 22 tijeras en el cajón. ¿Cuántas tijeras hay ahora en total?
+76
+x = 54 + 22
+Alyssa recogió 42 peras y Nancy recogió 17 peras del árbol de peras. ¿Cuántas peras se recogieron en total?
+59
+x = 42 + 17
+Sam tenía 98 centavos en su alcancía. Gastó 93 de sus centavos. ¿Cuántos centavos tiene ahora?
+5
+x = 98 - 93
+Joan encontró 79 conchas en la playa, le dio 63 de las conchas a Mike. ¿Cuántas conchas tiene ahora?
+16
+x = 79 - 63
+Sam tiene 110 libros. Joan tiene 102 libros. ¿Cuántos libros tienen juntos?
+212
+x = 110 + 102
+Mary recogió 122 naranjas y Jason recogió 105 naranjas del árbol de naranjas. ¿Cuántas naranjas se recogieron en total?
+227
+x = 122 + 105
+Sally tenía 760 cuartos en su alcancía. Gastó 418 de sus cuartos. ¿Cuántos cuartos tiene ahora?
+342
+x = 760 - 418
+Melanie cultivó 139 nabos. Benny cultivó 113 nabos. ¿Cuántos nabos cultivaron en total?
+252
+x = 139 + 113
+Jason tiene 676 cartas de Pokémon. Alyssa compró 224 de las cartas de Pokémon de Jason. ¿Cuántas cartas de Pokémon tiene Jason ahora?
+452
+x = 676 - 224
+Actualmente, hay 107 árboles de nogal en el parque. Los trabajadores del parque plantarán 104 árboles de nogal hoy. ¿Cuántos árboles de nogal tendrá el parque cuando los trabajadores hayan terminado?
+211
+x = 107 + 104
+Fred tiene 709 globos verdes, le dio 221 de los globos a Sandy. ¿Cuántos globos verdes tiene ahora?
+488
+x = 709 - 221
+Hay 115 lápices en el cajón. Sara colocó 100 lápices en el cajón. ¿Cuántos lápices hay ahora en total?
+215
+x = 115 + 100
+Jason tiene 3 cartas de Pokémon. Benny compró 2 de las cartas de Pokémon de Jason. ¿Cuántas cartas de Pokémon tiene Jason ahora?
+1
+x = 3 - 2
+Mike tiene 8 canicas naranjas, le dio 4 de las canicas a Sam. ¿Cuántas canicas naranjas tiene ahora?
+4
+x = 8 - 4
+Joan tenía 5 dimes en su alcancía. Gastó 2 de sus dimes. ¿Cuántos dimes tiene ahora?
+3
+x = 5 - 2
+Actualmente hay 2 arbustos de orquídeas en el parque. Los trabajadores del parque plantarán 4 arbustos de orquídeas hoy. ¿Cuántos arbustos de orquídeas tendrá el parque cuando los trabajadores terminen?
+6
+x = 2 + 4
+Sara recogió 6 peras y Tim recogió 5 peras del árbol de peras. ¿Cuántas peras se recogieron en total?
+11
+x = 6 + 5
+Sam cultivó 4 sandías, pero los conejos se comieron 3 sandías. ¿Cuántas sandías tiene Sam ahora?
+1
+x = 4 - 3
+Jason tenía cartas de Pokémon. Les dio 9 a sus amigos. Ahora tiene 4 cartas de Pokémon. ¿Cuántas cartas de Pokémon tenía al principio?
+13
+x = 4 + 9
+Mary tenía 7 monedas de cinco centavos en su alcancía. Su papá le dio 5 monedas de cinco centavos. ¿Cuántas monedas de cinco centavos tiene Mary ahora?
+12
+x = 7 + 5
+Keith cultivó 6 nabos. Alyssa cultivó 9 nabos. ¿Cuántos nabos cultivaron en total?
+15
+x = 6 + 9
+Mary tiene 9 canicas amarillas y Joan tiene 3 canicas amarillas. ¿Cuántas canicas amarillas tienen en total?
+12
+x = 9 + 3
+Sally cultivó 6 zanahorias. Fred cultivó 4 zanahorias. ¿Cuántas zanahorias cultivaron en total?
+10
+x = 6 + 4
+Tom encontró 5 conchas en la playa. Le dio 2 de las conchas a Jessica. ¿Cuántas conchas tiene ahora?
+3
+x = 5 - 2
+Fred tiene 5 tarjetas de béisbol. Melanie compró 3 de las tarjetas de béisbol de Fred. ¿Cuántas tarjetas de béisbol tiene Fred ahora?
+2
+x = 5 - 3
+Mary tenía 8 papas en el jardín. Los conejos se comieron 3 de las papas. ¿Cuántas papas tiene Mary ahora?
+5
+x = 8 - 3
+Actualmente hay 9 árboles de roble en el parque. Los trabajadores del parque tuvieron que cortar 2 árboles de roble que estaban dañados. ¿Cuántos árboles de roble habrá en el parque cuando los trabajadores terminen?
+7
+x = 9 - 2
+Jessica tenía 8 cuartos en su alcancía. Su hermana le pidió prestados 3 de sus cuartos. ¿Cuántos cuartos tiene Jessica ahora?
+5
+x = 8 - 3
+Un restaurante hizo 9 hamburguesas para servir durante el almuerzo. Solo se sirvieron 3. ¿Cuántas hamburguesas quedaron después del almuerzo?
+6
+x = 9 - 3
+Hay 7 crayones en el cajón. Mary sacó 3 crayones del cajón. ¿Cuántos crayones quedan ahora?
+4
+x = 7 - 3
+Dan recogió 9 limones y le dio 4 de los limones a Sara. ¿Cuántos limones tiene Dan ahora?
+5
+x = 9 - 4
+Joan tiene 9 globos azules, pero perdió 2 de ellos. ¿Cuántos globos azules tiene Joan ahora?
+7
+x = 9 - 2
+Joan recogió 43 manzanas del huerto y le dio 27 manzanas a Melanie. ¿Cuántas manzanas tiene Joan ahora?
+16
+x = 43 - 27
+Tom tiene 30 globos violetas. Le dio 16 de los globos a Fred. ¿Cuántos globos violetas tiene ahora?
+14
+x = 30 - 16
+Fred tiene 40 tarjetas de béisbol. Keith compró 22 de las tarjetas de béisbol de Fred. ¿Cuántas tarjetas de béisbol tiene Fred ahora?
+18
+x = 40 - 22
+Fred encontró 47 conchas en la playa. Le dio 25 de las conchas a Jessica. ¿Cuántas conchas tiene ahora?
+22
+x = 47 - 25
+Sara cultivó 43 calabazas, pero los conejos se comieron 23 calabazas. ¿Cuántas calabazas tiene Sara ahora?
+20
+x = 43 - 23
+Joan decidió vender todos sus libros viejos. Reunió 33 libros para vender. Vendió 26 libros en una venta de garaje. ¿Cuántos libros tiene Joan ahora?
+7
+x = 33 - 26
+Hay 46 reglas en el cajón. Tim sacó 25 reglas del cajón. ¿Cuántas reglas quedan en el cajón?
+21
+x = 46 - 25
+Actualmente hay 33 árboles de roble en el parque. Los trabajadores del parque tuvieron que cortar 18 árboles de roble que estaban dañados. ¿Cuántos árboles de roble habrá en el parque cuando los trabajadores terminen?
+15
+x = 33 - 18
+Jessica compró un juego de baloncesto por $5.20 y un juego de carreras por $4.23. ¿Cuánto gastó Jessica en videojuegos?
+9.43
+x = 5.20 + 4.23
+Mike se unió a la banda de su escuela. Compró una trompeta por $145.16 y un libro de canciones por $5.84. ¿Cuánto gastó Mike en la tienda de música?
+151
+x = 145.16 + 5.84
+Alyssa compró algunos juguetes. Compró un balón de fútbol por $5.71 y gastó $6.59 en canicas. En total, ¿cuánto gastó Alyssa en juguetes?
+12.3
+x = 5.71 + 6.59
+Jessica gastó $10.22 en un juguete para gatos, y una jaula le costó $11.73. ¿Cuál fue el costo total de las compras de Jessica?
+21.95
+x = 10.22 + 11.73
+Sara compró comida rápida para el almuerzo. Gastó $5.36 en un hotdog y $5.10 en una ensalada. ¿Cuál fue el total de la cuenta del almuerzo?
+10.46
+x = 5.36 + 5.10
+Jason fue al centro comercial el sábado para comprar ropa. Gastó $14.28 en pantalones cortos y $4.74 en una chaqueta. En total, ¿cuánto dinero gastó Jason en ropa?
+19.02
+x = 14.28 + 4.74
+Alyssa ama comer frutas. Pagó $12.08 por uvas y $9.85 por cerezas. En total, ¿cuánto dinero gastó Alyssa?
+21.93
+x = 12.08 + 9.85
+Mary ama comer frutas. Pagó $11.08 por bayas, $14.33 por manzanas y $9.31 por duraznos. En total, ¿cuánto dinero gastó?
+34.72
+x = 11.08 + 14.33 + 9.31
+Sandy fue al centro comercial para comprar ropa. Gastó $13.99 en pantalones cortos, $12.14 en una camisa y $7.43 en una chaqueta. ¿Cuánto dinero gastó Sandy en ropa?
+33.56
+x = 13.99 + 12.14 + 7.43
+Jason se unió a la banda de su escuela. Compró una flauta por $142.46, una herramienta musical por $8.89 y un libro de canciones por $7. ¿Cuánto gastó Jason en la tienda de música?
+158.35
+x = 142.46 + 8.89 + 7
+Tom compró un juego de fútbol americano por $14.02, un juego de estrategia por $9.46 y un juego de Batman por $12.04. ¿Cuánto gastó Tom en videojuegos?
+35.52
+x = 14.02 + 9.46 + 12.04
+Mike compró algunos juguetes. Compró canicas por $9.05, un balón de fútbol por $4.95 y gastó $6.52 en un béisbol. En total, ¿cuánto dinero gastó Mike en juguetes?
+20.52
+x = 9.05 + 4.95 + 6.52
+Un barco está lleno de 5973 toneladas de carga. Hace una parada en las Bahamas, donde los marineros cargan 8723 toneladas de carga a bordo. ¿Cuántas toneladas de carga tiene el barco ahora?
+14696
+x = 5973.0 + 8723.0
+Antes de diciembre, los clientes compraron 1346 calentadores de orejas en el centro comercial. Durante diciembre, compraron 6444, y no quedaron. En total, ¿cuántos calentadores de orejas compraron los clientes?
+7790
+x = 1346.0 + 6444.0
+Diane es apicultora. El año pasado cosechó 2479 libras de miel. Este año, compró algunas colmenas nuevas y aumentó su cosecha de miel en 6085 libras. ¿Cuántas libras de miel cosechó Diane este año?
+8564
+x = 2479.0 + 6085.0
+Un derrame de petróleo en el mar se rompió. Antes de que los ingenieros comenzaran a reparar el conducto, 6522 litros de petróleo se filtraron en el agua. Mientras los ingenieros trabajaban, el conducto filtró 5165 litros de petróleo. En total, ¿cuántos litros de petróleo se filtraron en el agua?
+11687
+x = 6522.0 + 5165.0
+Una compañía de automóviles produjo 3884 autos en América del Norte y 2871 autos en Europa. ¿Cuántos autos son en total?
+6755
+x = 3884.0 + 2871.0
+La familia de Abe se mudó de las Bahamas a Japón, por lo que tuvieron que convertir su dinero en yenes japoneses. Su cuenta corriente ahora tiene 6359 yenes y su cuenta de ahorros tiene 3485 yenes. ¿Cuántos yenes tienen?
+9844
+x = 6359.0 + 3485.0
+Hay 1986 libros en la biblioteca pública de Oak Grove. Además, hay 5106 libros en sus bibliotecas escolares. En total, ¿cuántos libros tienen las bibliotecas en Oak Grove?
+7092
+x = 1986.0 + 5106.0
+Originalmente, había 20817 casas en el condado de Lincoln. Durante un auge de la construcción, los desarrolladores construyeron 97741 casas. ¿Cuántas casas hay ahora en el condado de Lincoln?
+118558
+x = 20817.0 + 97741.0
+Un agricultor estima que cosechará 48097 bushels de trigo. El clima es perfecto durante la temporada de crecimiento, por lo que cosecha 684 bushels de trigo más de lo esperado. ¿Cuántos bushels de trigo cosecha el agricultor?
+48781
+x = 48097.0 + 684.0
+Christina acaba de transferir $69 de su cuenta bancaria. Como resultado, la cuenta ahora tiene $26935 en ella. ¿Cuánto dinero había en la cuenta antes de la transferencia?
+27004
+x = 69.0 + 26935.0
+El año pasado en el aeropuerto de Newberg, 14507 pasajeros aterrizaron a tiempo. Desafortunadamente, 213 pasajeros aterrizaron tarde. En total, ¿cuántos pasajeros aterrizaron en Newberg el año pasado?
+14720
+x = 14507.0 + 213.0
+Una tormenta de polvo cruza la pradera. Cubre 64535 acres de la pradera de polvo, pero deja 522 acres intactos. ¿Cuántos acres cubre la pradera en total?
+64013
+x = 64535.0 - 522.0
+Algunos insectos llamados pulgones atacan una granja. En respuesta, el granjero libera mariquitas en los campos. Hay 12170 mariquitas con puntos y 54912 mariquitas sin puntos. ¿Cuántas mariquitas hay en total?
+67082
+x = 12170.0 + 54912.0
+El año pasado, nacieron 90171 personas en un país y 16320 personas inmigraron a él. ¿Cuántas personas nuevas comenzaron a vivir en el país el año pasado?
+106491
+x = 90171.0 + 16320.0
+Un barco lleno de granos choca contra un arrecife de coral. Para cuando el barco se arregla, se han derramado 49952 toneladas de granos al agua. Solo quedan 918 toneladas de granos a bordo. ¿Cuántas toneladas de granos contenía originalmente el barco?
+50870
+x = 49952.0 + 918.0
+Para llenar un pedido, la fábrica tiñó 61921 yardas de seda de verde y 49500 yardas de rosa. ¿Cuántas yardas de seda tiñó para ese pedido?
+111421
+x = 61921.0 + 49500.0
+Una corporación multinacional tiene 2041 empleados a tiempo parcial y 63093 empleados a tiempo completo. ¿Cuántos empleados trabajan para la corporación?
+65134
+x = 2041.0 + 63093.0
+Cada año, los salmones viajan río arriba, desde el océano hasta los ríos donde nacieron. Este año, 712261 salmones machos y 259378 salmones hembras regresaron a sus ríos. ¿Cuántos salmones hicieron el viaje?
+971639
+x = 712261.0 + 259378.0
+Un fabricante de trajes de baño tiene un suministro de 14797 trajes de baño para hombres. Además, tiene 4969 trajes de baño para mujeres. ¿Cuántos trajes de baño están disponibles en total?
+19766
+x = 14797.0 + 4969.0
+Antes del reciente auge de la vivienda, había 1426 casas en el condado de Lawrence. Ahora hay 2000 casas. ¿Cuántas casas construyeron los desarrolladores durante el auge de la vivienda?
+574
+x = 2000.0 - 1426.0
+Un trabajador de un laboratorio médico está estudiando muestras de sangre. 2 muestras contenían un total de 7341 glóbulos rojos. La primera muestra contenía 4221 glóbulos rojos. ¿Cuántos glóbulos rojos había en la segunda muestra?
+3120
+x = 7341.0 - 4221.0
+Hasta ahora, un huerto ha vendido un total combinado de 9792 libras de frutas frescas y congeladas esta temporada. Si han vendido 3513 libras de frutas congeladas, ¿cuántas libras de frutas frescas se han vendido hasta ahora?
+6279
+x = 9792.0 - 3513.0
+Recientemente, el valor del fondo de jubilación de Kate disminuyó en $12. Si su fondo valía $1472 antes, ¿cuánto vale ahora?
+1460
+x = 1472.0 - 12.0
+Los Richmond Tigers vendieron un total de 9570 boletos la temporada pasada. Si vendieron 3867 boletos en la primera mitad de la temporada, ¿cuántos boletos vendieron en la segunda mitad?
+5703
+x = 9570.0 - 3867.0
+Una placa de Petri originalmente contenía 600 bacterias. Un científico dejó que las bacterias crecieran y ahora hay 8917 de ellas. ¿Cuántas bacterias más hay ahora?
+8317
+x = 8917.0 - 600.0
+Tori es una conserje de la escuela. La semana pasada, recogió un total de 1576 piezas de basura. Si recogió 344 piezas de basura en las aulas, ¿cuántas piezas de basura recogió Tori fuera de las aulas?
+1232
+x = 1576.0 - 344.0
+Molly es dueña de la Compañía de Pasteles Wafting. Esta mañana, sus empleados usaron 816 huevos para hornear pasteles de calabaza. Si sus empleados usaron un total de 1339 huevos hoy, ¿cuántos huevos usaron por la tarde?
+523
+x = 1339.0 - 816.0
+Cada uno de los 6048 corderos del granjero Cunningham es negro o blanco. Hay 193 que son blancos. ¿Cuántos de los corderos del granjero Cunningham son negros?
+5855
+x = 6048.0 - 193.0
+Los estudiantes de las escuelas de Arcadia participan en una campaña de abrigos. Hasta ahora se han recogido 9437 abrigos. Se recogieron 6922 abrigos de las escuelas secundarias y el resto de las escuelas primarias. ¿Cuántos abrigos se recogieron en las escuelas primarias?
+2515
+x = 9437.0 - 6922.0
+Una empresa pintó algunas casas en el condado de Hancock de blanco y azul utilizando un total de 6689 galones de pintura. Si usaron 660 galones de pintura blanca, ¿cuántos galones de pintura azul usó la empresa?
+6029
+x = 6689.0 - 660.0
+La Biblioteca Pública de Silvergrove usó una subvención para comprar 2647 libros. Ahora la biblioteca tiene un total de 8582 libros. ¿Cuántos libros tenía la biblioteca antes de la subvención?
+5935
+x = 8582.0 - 2647.0
+Una compañía de teléfonos móviles tiene un total de 7422 clientes en todo el mundo. Si 723 de sus clientes viven en los Estados Unidos, ¿cuántos de sus clientes viven en otros países?
+6699
+x = 7422.0 - 723.0
+El año pasado, los productores de huevos en el condado de Douglas produjeron 1416 huevos. Este año, esas mismas granjas produjeron 4636 huevos. ¿Cuántos huevos más produjeron las granjas este año?
+3220
+x = 4636.0 - 1416.0
+Un oleoducto en el mar se rompió. Antes de que los ingenieros comenzaran a arreglar el tubo, se filtraron 2475 galones de petróleo en el agua. Un total de 6206 galones de petróleo se filtraron antes de que se arreglara el tubo. ¿Cuántos galones de petróleo se filtraron mientras los ingenieros estaban arreglando el tubo?
+3731
+x = 6206.0 - 2475.0
+Un buscador de tesoros descubrió un cofre del tesoro enterrado lleno de un total de 5155 gemas. 45 de las gemas eran diamantes y el resto eran rubíes. ¿Cuántas de las gemas eran rubíes?
+5110
+x = 5155.0 - 45.0
+Shannon y su familia consumen mucha mermelada de fresa y arándano, ya que comen tostadas todas las mañanas. En este momento, tienen un total combinado de 6310 gramos de mermelada. Si tienen 4518 gramos de mermelada de arándano, ¿cuántos gramos de mermelada de fresa tienen?
+1792
+x = 6310.0 - 4518.0
+Mientras jugaba un videojuego, Paul anotó 3103 puntos. Él y su primo tienen un total de 5816 puntos. ¿Cuántos puntos tiene el primo de Paul?
+2713
+x = 5816.0 - 3103.0
+Una compañía de construcción está repavimentando una carretera dañada. Hasta ahora, han repavimentado un total de 4938 pulgadas de la carretera. Hoy, repavimentaron 805 pulgadas de la carretera. ¿Cuántas pulgadas de la carretera habían repavimentado antes de hoy?
+4133
+x = 4938.0 - 805.0
+El Lago Milford originalmente era azul porque solo tenía 809 plantas de algas. Ahora hay 3263 plantas de algas, y el lago se ha vuelto verde. ¿Cuántas plantas de algas más hay en el Lago Milford ahora?
+2454
+x = 3263.0 - 809.0
+El viaje en autobús de Oscar a la escuela es de 0.75 millas y el viaje en autobús de Charlie es de 0.25 millas. ¿Cuánto más largo es el viaje en autobús de Oscar que el de Charlie?
+0.5
+x = 0.75 - 0.25
+Karen agregó 0.25 taza de nueces a un lote de mezcla de frutos secos. Más tarde, agregó 0.25 taza de almendras. ¿Cuántas tazas de nueces puso Karen en la mezcla de frutos secos en total?
+0.5
+x = 0.25 + 0.25
+Kendall está aprendiendo a conducir, así que este fin de semana practicó manejando 0.16666666666666666 millas con su madre y otras 0.5 millas con su padre. ¿Cuánto condujo Kendall en total?
+0.6666666667
+x = 0.16666666666666666 + 0.5
+En un concurso de comer pasteles, Erik se comió 0.6666666666666666 pasteles antes de que se anunciara el final del tiempo; Frank terminó solo 0.3333333333333333 pasteles. ¿Cuánto más pastel se comió Erik que Frank?
+0.3333333333
+x = 0.6666666666666666 - 0.3333333333333333
+Un sastre cortó 0.75 pulgadas de una falda y 0.5 pulgadas de un par de pantalones. ¿Cuánto más cortó el sastre de la falda que de los pantalones?
+0.25
+x = 0.75 - 0.5
+En Lindsey's Vacation Wear, el 0.375 de las prendas son bikinis y el 0.25 son trajes de baño. ¿Qué fracción de las prendas son bikinis o trajes de baño?
+0.625
+x = 0.375 + 0.25
+Darnel corrió 0.875 vueltas y luego se tomó un descanso corriendo 0.75 vueltas. ¿Cuánto más corrió Darnel que corrió?
+0.125
+x = 0.875 - 0.75
+Un biólogo marino midió un pez que medía 0.3 pies de largo y un segundo pez que medía 0.2 pies de largo. ¿Cuánto más largo era el primer pez?
+0.1
+x = 0.3 - 0.2
+El Restaurante Vegetariano de Hannah compró 0.3333333333333333 libras de pimientos verdes y 0.3333333333333333 libras de pimientos rojos. ¿Cuántas libras de pimientos compró el Restaurante Vegetariano de Hannah en total?
+0.6666666667
+x = 0.3333333333333333 + 0.3333333333333333
+Ella tiene 2 perros. Cada día, 1 perro come 0.125 taza de comida para perros y el otro perro come 0.125 taza. ¿Cuánta comida para perros comen los 2 perros cada día?
+0.25
+x = 0.125 + 0.125
+Blake llenó un balde con 0.8 galones de agua. Más tarde, vertió 0.2 galones de agua. ¿Cuánta agua hay en el balde?
+0.6
+x = 0.8 - 0.2
+Mandy hizo una tarta de manzana. Usó 0.6666666666666666 cucharada de canela y 0.5 cucharada de nuez moscada. ¿Cuánta más canela que nuez moscada usó Mandy?
+0.1666666667
+x = 0.6666666666666666 - 0.5
+La familia Montoya gasta el 0.6 de su presupuesto en comestibles y otro 0.2 en comer fuera. En total, ¿qué fracción de su presupuesto gasta la familia Montoya en comida?
+0.8
+x = 0.6 + 0.2
+En la clase de matemáticas del Sr. Olsen, el 0.7 de los estudiantes obtuvo A's y el 0.2 obtuvo B's. ¿Qué fracción de los estudiantes obtuvo A's o B's?
+0.9
+x = 0.7 + 0.2
+Hay 0.16666666666666666 taza de aceite en la taza medidora de Scarlett. Si Scarlett agrega 0.6666666666666666 taza más, ¿cuánto aceite habrá en la taza medidora?
+0.8333333333
+x = 0.16666666666666666 + 0.6666666666666666
+Una noche, un restaurante sirvió un total de 0.2 pan de trigo y 0.4 pan de blanco. ¿Cuántos panes se sirvieron en total?
+0.6
+x = 0.2 + 0.4
+Stanley corrió 0.4 millas y caminó 0.2 millas. ¿Cuánto más corrió Stanley que caminó?
+0.2
+x = 0.4 - 0.2
+Dina hizo galletas. Usó 0.625 taza de harina y 0.25 taza de azúcar. ¿Cuánta más harina que azúcar usó Dina?
+0.375
+x = 0.625 - 0.25
+Cada día, el oso polar en el zoológico de Richmond se come 0.2 cubo de trucha y 0.4 cubo de salmón. ¿Cuántos cubos de pescado come el oso polar diariamente?
+0.6
+x = 0.2 + 0.4
+Jenny corrió 0.6 millas y caminó 0.4 millas. ¿Cuánto más corrió Jenny que caminó?
+0.2
+x = 0.6 - 0.4
+El 0.5 de los estudiantes en la banda está en la sección de trompetas. El 0.125 de los estudiantes en la banda está en la sección de trombones. ¿Qué fracción de los estudiantes en la banda está en la sección de trompetas o trombones?
+0.625
+x = 0.5 + 0.125
+Suzie encontró 2 gusanos en el jardín y los midió con una regla. Un gusano medía 0.8 pulgadas de largo. El otro gusano medía 0.1 pulgadas de largo. ¿Cuánto más largo era el gusano más largo?
+0.7
+x = 0.8 - 0.1
+Scarlett hizo una ensalada de frutas con 0.25 libras de melón y 0.375 libras de bayas. ¿Cuántas libras de fruta usó Scarlett en total?
+0.625
+x = 0.25 + 0.375
+El viaje en autobús de Vince a la escuela es de 0.625 millas y el viaje en autobús de Zachary es de 0.5 millas. ¿Cuánto más largo es el viaje en autobús de Vince que el de Zachary?
+0.125
+x = 0.625 - 0.5
+En 1 semana, la familia de Mitch bebió 0.5 cartón de leche regular y 0.1 cartón de leche de soya. ¿Cuánta leche bebieron en total?
+0.6
+x = 0.5 + 0.1
+Elizabeth fue a la peluquería y se cortó 0.375 pulgadas de cabello. Al día siguiente volvió y pidió que le cortaran otras 0.5 pulgadas. ¿Cuánto cabello se cortó en total?
+0.875
+x = 0.375 + 0.5
+En el complejo de apartamentos de Shannon, el 0.16666666666666666 de los apartamentos son de un dormitorio y el 0.3333333333333333 son de dos dormitorios. ¿Qué fracción de los apartamentos son de un dormitorio o de dos dormitorios?
+0.5
+x = 0.16666666666666666 + 0.3333333333333333
+En la playa, Miki y su hermana construyeron castillos de arena y luego midieron sus alturas. El castillo de arena de Miki medía 0.8333333333333334 pies de alto y el de su hermana medía 0.5 pies de alto. ¿Cuánto más alto era el castillo de arena de Miki que el de su hermana?
+0.3333333333
+x = 0.8333333333333334 - 0.5
+Michelle comenzó su ruta de entrega de pizzas con 0.5 tanque de gasolina en su coche. Cuando regresó a la pizzería, quedaba 0.16666666666666666 tanque de gasolina. ¿Cuánta gasolina usó Michelle?
+0.3333333333
+x = 0.5 - 0.16666666666666
+Mientras hacía inventario en su tienda de pasteles, Kelly se dio cuenta de que tenía 0.4 caja de levadura en polvo ayer, pero ahora la cantidad ha bajado a 0.3 caja. ¿Cuánta levadura en polvo más tenía Kelly ayer?
+0.1
+x = 0.4 - 0.3
+Craig caminó 0.2 millas desde la escuela hasta la casa de David y 0.7 millas desde la casa de David hasta su propia casa. ¿Cuántas millas caminó Craig en total?
+0.9
+x = 0.2 + 0.7
+Greg y Sharon son dueños de campos de maíz vecinos. Greg cosechó 0.4 acres de maíz el lunes y Sharon cosechó 0.1 acre. ¿Cuántos acres más cosechó Greg que Sharon?
+0.3
+x = 0.4 - 0.1
+En la tienda de herramientas, el 0.25 de los clavos son de tamaño 2d y el 0.5 son de tamaño 4d. ¿Qué fracción de los clavos son de tamaño 2d o 4d?
+0.75
+x = 0.25 + 0.5
+Mientras hacía postres para una venta de pasteles, Victor usó 0.625 cucharada de azúcar moreno y 0.25 cucharada de azúcar blanca. ¿Cuánto más azúcar moreno usó Victor?
+0.375
+x = 0.625 - 0.25
+Eve corrió 0.7 millas y caminó 0.6 millas. ¿Cuánto más corrió Eve que caminó?
+0.1
+x = 0.7 - 0.6
+Jonah añadió 0.3 taza de pasas amarillas y 0.4 taza de pasas negras a un lote de mezcla de frutos secos. ¿Cuántas tazas de pasas añadió Jonah en total?
+0.7
+x = 0.3 + 0.4
+Cuando Jake tenía 1 gato, necesitaba servir 0.5 lata de comida para gatos cada día. Ahora que Jake ha adoptado un segundo gato, necesita servir un total de 0.9 latas cada día. ¿Cuánta comida adicional se necesita para alimentar al segundo gato?
+0.4
+x = 0.9 - 0.5
+En Yardley nevó 0.125 pulgadas por la mañana y 0.5 pulgadas por la tarde. ¿Cuál fue la cantidad total de nieve?
+0.625
+x = 0.125 + 0.5
+Mientras hacía pasteles, una panadería utilizó 0.2 bolsa de harina de trigo y 0.1 bolsa de harina blanca. ¿Cuántas bolsas de harina utilizó la panadería en total?
+0.3
+x = 0.2 + 0.1
+Kaleen llenó un cubo con 0.75 galón de agua. Unos minutos después, se dio cuenta de que solo quedaban 0.5 galones de agua. ¿Cuánta agua se había filtrado del cubo?
+0.25
+x = 0.75 - 0.5
+La familia de Irwin fue de excursión a las montañas en un viaje de campamento. El primer día, caminaron desde su automóvil hasta el campamento. Primero, caminaron 0.2 millas desde el automóvil hasta un arroyo, y luego caminaron 0.4 millas desde el arroyo hasta un prado. Luego caminaron 0.1 milla desde el prado hasta el campamento. ¿Cuántas millas caminó la familia de Irwin en total?
+0.7
+x = 0.2 + 0.4 + 0.1
+Durante una visita a un huerto, Charlie recogió 0.16666666666666666 bolsa de manzanas Golden Delicious, 0.16666666666666666 bolsa de manzanas Macintosh y 0.3333333333333333 bolsa de manzanas Cortland. ¿Cuántas bolsas de frutas recogió Charlie en total?
+0.6666666667
+x = 0.16666666666666666
+Antes de comenzar su turno, una camarera verifica que haya suficiente mostaza para sus clientes. Encuentra 0.25 botella en la primera mesa, 0.25 botella en la segunda mesa y 0.375 botella en la tercera mesa. En total, ¿cuántas botellas de mostaza encuentra la camarera?
+0.875
+x = 0.25 + 0.25 + 0.375
+Una camarera guardó tarta sobrante en el refrigerador el jueves por la noche. Se dio cuenta de que el restaurante tenía 0.08333333333333333 tarta rellena de cerezas, 0.75 tarta rellena de arándanos y 0.08333333333333333 tarta rellena de duraznos. ¿Cuántas tartas sobrantes tenía el restaurante en total?
+0.9166666667
+x = 0.08333333333333333 + 0.75 + 0.08333333333333333
+En sus vacaciones el verano pasado, Trisha caminó por todo Nueva York para comprar recuerdos. Primero, caminó 0.1111111111111111 millas desde su hotel hasta una tienda de postales. Luego caminó 0.1111111111111111 millas desde la tienda de postales hasta una tienda de camisetas y 0.6666666666666666 millas desde la tienda de camisetas de regreso al hotel. ¿Cuántas millas caminó Trisha en total?
+0.8888888889
+x = 0.1111111111111111 + 0.1111111111111111 + 0.6666666666666666
+Brandy hizo una mezcla de frutos secos para un viaje de mochilero. Utilizó 0.16666666666666666 libra de cacahuetes, 0.16666666666666666 libra de chispas de chocolate y 0.08333333333333333 libra de pasas. ¿Cuántas libras de mezcla de frutos secos hizo Brandy?
+0.4166666667
+x = 0.16666666666666666 + 0.16666666666666666 + 0.08333333333333333
+Allie contó el helado sobrante después de una fiesta de sundae. Tenía 0.3333333333333333 cartón de helado de rocky road, 0.3333333333333333 cartón de helado de masa de galleta y 0.16666666666666666 cartón de helado de cheesecake de fresa. ¿Cuántos cartones de helado tenía Allie en total?
+0.8333333333
+x = 0.3333333333333333 + 0.3333333333333333 + 0.16666666666666666
+Durante una campaña de alimentos enlatados, los artículos se clasificaron en contenedores. La campaña resultó en 0.125 contenedor de sopa, 0.125 contenedor de verduras y 0.5 contenedor de pasta. En total, ¿cuántos contenedores ocuparían los alimentos enlatados?
+0.75
+x = 0.125 + 0.125 + 0.5
+La empresa de encimeras de Paco compró piezas de mármol de una cantera. Los pesos de las piezas que compraron fueron 0.3333333333333333 toneladas, 0.3333333333333333 toneladas y 0.08333333333333333 toneladas. ¿Cuántas toneladas de mármol compró la empresa de encimeras de Paco en total?
+0.75
+x = 0.3333333333333333 + 0.3333333333333333 + .08333333333333333
+La clase de ciencias de Bonnie registró la lluvia cada día. Registraron 0.16666666666666666 centímetros de lluvia el lunes, 0.4166666666666667 centímetros de lluvia el martes y 0.08333333333333333 centímetros de lluvia el miércoles. ¿Cuántos centímetros de lluvia registró la clase en total?
+0.6666666667
+x = 0.16666666666666666 + 0.4166666666666667 + 0.08333333333333333
+El sábado pasado, Spencer caminó por toda la ciudad haciendo recados. Primero, caminó 0.3 millas desde su casa hasta la biblioteca y 0.1 milla desde la biblioteca hasta la oficina de correos. Luego caminó 0.4 millas desde la oficina de correos de regreso a casa. ¿Cuántas millas caminó Spencer en total?
+0.8
+x = 0.3 + 0.1 + 0.4
+Una empresa de construcción ordenó 0.16666666666666666 toneladas de concreto, 0.16666666666666666 toneladas de ladrillos y 0.5 toneladas de piedra. ¿Cuántas toneladas de material ordenó la empresa en total?
+0.8333333333
+x = 0.16666666666666666 + 0.16666666666666666 + 0.5
+Kendra hizo ponche para la fiesta de cumpleaños de su amiga. Usó 0.25 galones de jugo de uva, 0.375 galones de jugo de arándano y 0.125 galones de agua con gas. ¿Cuántos galones de ponche hizo Kendra?
+0.75
+x = 0.25 + 0.375 + 0.125
+Una nave espacial viajó 0.5 años luz desde la Tierra hasta el Planeta X y 0.1 años luz desde el Planeta X hasta el Planeta Y. Luego viajó 0.1 años luz desde el Planeta Y de regreso a la Tierra. ¿Cuántos años luz viajó la nave espacial en total?
+0.7
+x = 0.5 + 0.1 + 0.1
+Logan registró la caída de nieve todos los días durante una tormenta de nieve. Registró 0.3333333333333333 centímetros el miércoles, 0.3333333333333333 centímetros el jueves y 0.2222222222222222 centímetros el viernes. ¿Cuántos centímetros de nieve registró Logan en total?
+0.8888888889
+x = 0.3333333333333333 + 0.3333333333333333 + 0.2222222222222222
+Ellen hizo batidos en la licuadora. Usó 0.2 taza de fresas, 0.1 taza de yogur y 0.2 taza de jugo de naranja. ¿Cuántas tazas de ingredientes usó Ellen para los batidos?
+0.5
+x = 0.2 + 0.1 + 0.2
+Durante una obra de teatro escolar, Jonah atendió la barra de aperitivos. Sirvió 0.25 jarras de limonada durante el primer intermedio, 0.4166666666666667 jarras durante el segundo y 0.25 jarras durante el tercero. ¿Cuántas jarras de limonada sirvió Jonah en total?
+0.9166666667
+x = 0.25 + 0.416666666666 + 0.25
+Heather fue a la feria del condado el fin de semana pasado. Cuando llegó allí, tuvo que caminar 0.3333333333333333 millas desde el automóvil hasta la entrada. Luego caminó 0.3333333333333333 millas hasta los juegos de carnaval y 0.08333333333333333 millas desde los juegos de carnaval de regreso al automóvil. ¿Cuántas millas caminó Heather en total?
+0.75
+x = 0.3333333333333333 + 0.3333333333333333 + 0.08333333333333333
+Un proyecto de renovación requirió 0.16666666666666666 camión de arena, 0.3333333333333333 camión de tierra y 0.16666666666666666 camión de cemento. ¿Cuántos camiones de material se necesitaron en total?
+0.6666666667
+x = 0.16666666666666666 + 0.3333333333333333 + 0.16666666666666666
+La clase de ciencias de Karin pesó anillos de plástico para un experimento. Descubrieron que el anillo naranja pesaba 0.08333333333333333 onzas, el anillo morado pesaba 0.3333333333333333 onzas y el anillo blanco pesaba 0.4166666666666667 onzas. ¿Cuál fue el peso total de los anillos de plástico?
+0.8333333333
+x = 0.08333333333333333 + 0.3333333333333333 + 0.4166666666666667
+Siguiendo cuidadosamente una receta, Kenny usó exactamente 0.16666666666666666 taza de aceite y 1.1666666666666667 tazas de agua. ¿Cuántas tazas de líquido usó Kenny en total?
+1.333333333
+x = 0.16666666666666666 + 1.166666666666666
+El Restaurante Vegetariano de Dale compró 2.8333333333333335 libras de pimientos verdes y 2.8333333333333335 libras de pimientos rojos. ¿Cuántas libras de pimientos compró el Restaurante Vegetariano de Dale en total?
+5.666666667
+x = 2.8333333333333335 + 2.8333333333333335
+Esta tarde, Craig salió de la escuela, viajó en autobús 3.8333333333333335 millas y luego caminó 0.16666666666666666 milla para llegar a casa. ¿Cuánto más viajó Craig que caminó?
+3.666666667
+x = 3.8333333333333335 - 0.166666
+Kelly compró un libro de química que pesa 7.125 libras y un libro de geometría que pesa 0.625 libras. ¿Cuánto más pesa el libro de química que el libro de geometría?
+6.5
+x = 7.125 - 0.625
+La Compañía de Pavimentación Roadster utilizó 10 toneladas de cemento para pavimentar la calle de Lexi y 5.1 toneladas de cemento para pavimentar la calle de Tess. ¿Cuánto cemento utilizó la Compañía de Pavimentación Roadster en total?
+15.1
+x = 10.0 + 5.1
+En un día caluroso, Sam vertió 1 cubo de agua en una piscina de plástico para chapotear. Unos minutos después agregó otros 8.8 cubos. ¿Cuánta agua vertió Sam en la piscina?
+9.8
+x = 1.0 + 8.8
+Kyle corrió 1.125 vueltas en clase de educación física y 2.125 vueltas durante la práctica de atletismo. ¿Cuántas vueltas corrió Kyle en total?
+3.25
+x = 1.125 + 2.125
+Un cubo contiene 3 galones de agua. Si Derek agrega 6.8 galones más, ¿cuántos galones habrá en total?
+9.8
+x = 3.0 + 6.8
+En una fiesta de pizza, Mason y sus amigos bebieron 2.6666666666666665 botellas de refresco de lima-limón y 2.6666666666666665 botellas de cola. ¿Cuánto refresco bebieron en total?
+5.333333333
+x = 2.6666666666666665 + 2.6666666666666665
+El profesor Ellison pesó 2 piezas de metal para un experimento. La pieza de hierro pesaba 11.166666666666666 libras y la pieza de aluminio pesaba 0.8333333333333334 libras. ¿Cuánto más pesaba la pieza de hierro que la pieza de aluminio?
+10.33333333
+x = 11.166666666666666 - 0.8333333333333334
+Como parte de una lección sobre terremotos, una clase de ciencias está investigando el movimiento de una falla cercana. La falla se movió 1.25 pulgadas durante el último año y 5.25 pulgadas el año anterior. ¿Cuánto se movió la falla en total?
+6.5
+x = 1.25 + 5.25
+Con la esperanza de ser nombrada Vendedora del Mes, Rosa llamó a los nombres de 10.2 páginas de la guía telefónica la semana pasada. Esta semana, llamó a las personas que figuraban en otras 8.6 páginas de la misma guía telefónica. ¿A cuántas páginas de personas llamó Rosa en total?
+18.8
+x = 10.2 + 8.6
+En la playa, Janet y su hermana construyeron castillos de arena y luego midieron sus alturas. El castillo de arena de Janet medía 3.6666666666666665 pies de alto y el de su hermana medía 2.3333333333333335 pies de alto. ¿Cuánto más alto era el castillo de arena de Janet que el de su hermana?
+1.333333333
+x = 3.6666666666666665 - 2.3333333333333335
+Nicole encontró una oruga naranja y una oruga verde en su patio trasero. La oruga verde medía 3 pulgadas de largo y la oruga naranja medía 1.1666666666666667 pulgadas de largo. ¿Cuánto más larga era la oruga verde que la oruga naranja?
+1.833333333
+x = 3.0 - 1.16666666666666
+Alec y sus compañeros de cuarto se comieron 3.25 pintas de helado el viernes por la noche y 0.25 pintas de helado el sábado por la noche. ¿Cuántas pintas se comieron en total?
+3.5
+x = 3.25 + 0.25
+Un agricultor comenzó el día con 8.75 cubos de semillas. Después de pasar la mañana sembrando semillas, ahora tiene 6 cubos. ¿Cuántos cubos de semillas sembró el agricultor?
+2.75
+x = 8.75 - 6.0
+Irene acaba de comprar una lámpara nueva para su mesita de noche. La lámpara vieja medía 1 pie de alto y la nueva lámpara mide 2.3333333333333335 pies de alto. ¿Cuánto más alta es la nueva lámpara que la lámpara vieja?
+1.333333333
+x = 2.3333333333333335 - 1
+Ezra dibujó una línea blanca que medía 7.666666666666667 pulgadas de largo. Luego dibujó una línea azul que medía 3.3333333333333335 pulgadas de largo. ¿Cuánto más larga era la línea blanca que la línea azul?
+4.333333333
+x = 7.666666666666667 - 3.3333333333333335
+Hay 7.75 galones de agua en el acuario de peces de Becky. Si Becky agrega 7 galones más, ¿cuántos galones habrá en total?
+14.75
+x = 7.75 + 7.0
+Wendy corrió 19.833333333333332 millas y caminó 9.166666666666666 millas. ¿Cuánto más corrió Wendy que caminó?
+10.66666667
+x = 19.833333333333332 - 9.166666666666666
+Kenji y sus compañeros de clase colocaron bloques de colores en una balanza durante un laboratorio de ciencias. El bloque amarillo pesaba 0.6 libras y el bloque verde pesaba 0.4 libras. ¿Cuánto más pesaba el bloque amarillo que el bloque verde?
+0.2
+x = 0.6 - 0.4
+Terrell caminó 8.2 millas el sábado. Luego, el domingo, caminó otras 1.6 millas. ¿Cuánto caminó Terrell en total?
+9.8
+x = 8.2 + 1.6
+Un carpintero compró un trozo de madera que medía 0.41 metros de largo. Luego serró 0.33 metros del extremo. ¿Cuánto mide el trozo de madera ahora?
+0.08
+x = 0.41 - 0.33
+Kelly compró 0.1 libras de cacahuetes y 0.4 libras de pasas. ¿Cuántas libras de aperitivos compró en total?
+0.5
+x = 0.1 + 0.4
+Kevin compró 2 sandías. La primera sandía pesaba 9.91 libras, y la segunda sandía pesaba 4.11 libras. ¿Cuántas libras de sandía compró Kevin?
+14.02
+x = 9.91 + 4.11
+En marzo llovió 0.81 pulgadas. Llovió 0.35 pulgadas menos en abril que en marzo. ¿Cuánto llovió en abril?
+0.46
+x = 0.81 - 0.35
+Ron pesó 2 bolas de metal de colores durante una clase de ciencias. La bola azul pesaba 6 libras y la bola marrón pesaba 3.12 libras. Si Ron coloca ambas bolas en la balanza al mismo tiempo, ¿cuánto marcará la balanza?
+9.12
+x = 6.0 + 3.12
+Una colonia de abejas produjo 0.36 libras de miel, pero los osos se comieron 0.05 libras de ella. ¿Cuánta miel queda?
+0.31
+x = 0.36 - 0.05
+Llovió 0.9 pulgadas el lunes. El martes, llovió 0.7 pulgadas menos que el lunes. ¿Cuánto llovió el martes?
+0.2
+x = 0.9 - 0.7
+Nevó 0.32 pulgadas el lunes y 0.21 pulgadas el martes. ¿Cuánto nevó en total el lunes y el martes?
+0.53
+x = 0.32 + 0.21
+Brennan tenía 0.25 gramos de pimienta. Luego usó 0.16 gramos de pimienta para hacer huevos revueltos. ¿Cuánta pimienta le queda a Brennan?
+0.09
+x = 0.25 - 0.16
+Una empresa de construcción compró 5.91 toneladas de grava y 8.11 toneladas de arena. ¿Cuántas toneladas de material compró la empresa en total?
+14.02
+x = 5.91 + 8.11
+Llovió 0.2 pulgadas el sábado y 0.4 pulgadas el domingo. ¿Cuánto llovió en total el sábado y el domingo?
+0.6
+x = 0.2 + 0.4
+Pamela compró 9.8 onzas de azúcar, y derramó 5.2 onzas de ella en el suelo. ¿Cuánto le queda?
+4.6
+x = 9.8 - 5.2
+Gordon compró 3.42 libras de frutas para una fiesta de clase. La clase se comió 2.2 libras de frutas. ¿Cuánta fruta queda?
+1.22
+x = 3.42 - 2.2
+Un chef compró 0.14 kilogramos de almendras y 0.38 kilogramos de nueces. ¿Cuántos kilogramos de frutos secos compró el chef en total?
+0.52
+x = 0.14 + 0.38
+Marta recogió 2 calabazas. La primera calabaza pesaba 4 libras, y la segunda calabaza pesaba 8.7 libras. ¿Cuánto pesaban las 2 calabazas juntas?
+12.7
+x = 4.0 + 8.7
+Un camión que transportaba 4.1 libras de arena viajó a un patio de construcción y perdió 2.4 libras de arena en el camino. ¿Cuánta arena tiene el camión cuando llega al patio?
+1.7
+x = 4.1 - 2.4
+Tori medía 4.4 pies de altura. Luego creció 2.86 pies más. ¿Cuánto mide Tori ahora?
+7.26
+x = 4.4 + 2.86
+Un carpintero compró un trozo de madera que medía 8.9 centímetros de largo. Luego serró 2.3 centímetros del extremo. ¿Cuánto mide el trozo de madera ahora?
+6.6
+x = 8.9 - 2.3
+Jason encontró 49 conchas marinas y 48 estrellas de mar en la playa. Le dio 13 de las conchas a Tim. ¿Cuántas conchas marinas tiene Jason ahora?
+36
+x = 49 - 13
+Joan cultivó 29 zanahorias y 14 sandías. Jessica cultivó 11 zanahorias. ¿Cuántas zanahorias cultivaron en total?
+40
+x = 29 + 11
+Sally tenía 39 tarjetas de béisbol, y 9 estaban rotas. Sara compró 24 de las tarjetas de béisbol de Sally. ¿Cuántas tarjetas de béisbol tiene Sally ahora?
+15
+x = 39 - 24
+Dan tiene 32 canicas verdes y 38 canicas violetas. Mike tomó 23 de las canicas verdes de Dan. ¿Cuántas canicas verdes tiene Dan ahora?
+9
+x = 32 - 23
+Jason tiene 18 libros y ha leído 9 de ellos. Mary tiene 42 libros. ¿Cuántos libros tienen juntos?
+60
+x = 18 + 42
+Jason cultivó 32 sandías y 22 melones. Dan cultivó 31 sandías. ¿Cuántas sandías cultivaron en total?
+63
+x = 32 + 31
+Benny encontró 66 conchas marinas y 49 estrellas de mar en la playa. Le dio 52 de las conchas a Jason. ¿Cuántas conchas marinas tiene Benny ahora?
+14
+x = 66 - 52
+Hay 41 crayones y 26 lápices en el cajón. Sam colocó 12 crayones en el cajón. ¿Cuántos crayones hay en total ahora?
+53
+x = 41 + 12
+Mike tenía 33 cuartos y 87 níqueles en su alcancía. Su papá tomó prestados 75 níqueles de Mike. ¿Cuántos níqueles tiene ahora?
+12
+x = 87 - 75
+Sam tiene 86 canicas amarillas y 20 canicas verdes. Joan tomó 25 de las canicas amarillas de Sam. ¿Cuántas canicas amarillas tiene Sam ahora?
+61
+x = 86 - 25
+Dan tenía 97 tarjetas de béisbol, y 8 estaban rotas. Sam compró 15 de las tarjetas de béisbol de Dan. ¿Cuántas tarjetas de béisbol tiene Dan ahora?
+82
+x = 97 - 15
+Hay 41 árboles bajos y 44 árboles altos en el parque en este momento. Los trabajadores del parque plantarán 57 árboles bajos hoy. ¿Cuántos árboles bajos tendrá el parque cuando los trabajadores terminen?
+98
+x = 41 + 57
+Alyssa recogió 25 limones y Mike recogió 32 limones. Tom recogió 12 ciruelas. ¿Cuántos limones se recogieron en total?
+57
+x = 25 + 32
+Tim encontró 679 conchas marinas y 110 estrellas de mar en la playa. Le dio 172 de las conchas a Sara. ¿Cuántas conchas marinas tiene Tim ahora?
+507
+x = 679 - 172
+Hay 139 borradores y 118 tijeras en el cajón. Jason colocó 131 borradores en el cajón. ¿Cuántos borradores hay en total ahora?
+270
+x = 139 + 131
+Mike recogió 123 naranjas y Melanie recogió 104 naranjas. Fred recogió 130 manzanas. ¿Cuántas naranjas se recogieron en total?
+227
+x = 123 + 104
+Joan tenía 695 tarjetas de Pokémon, y 6 estaban rotas. Sara compró 133 de las tarjetas de Pokémon de Joan. ¿Cuántas tarjetas de Pokémon tiene Joan ahora?
+562
+x = 695 - 133
+Sally cultivó 113 nabos y 118 calabazas. Mary cultivó 129 nabos. ¿Cuántos nabos cultivaron en total?
+242
+x = 113 + 129
+Sara tiene 792 canicas negras y 122 canicas rojas. Fred tomó 233 de las canicas negras de Sara. ¿Cuántas canicas negras tiene Sara ahora?
+559
+x = 792 - 233
+La preparatoria de Joan jugó 864 partidos de béisbol este año, 128 de los partidos se jugaron por la noche. Ella asistió a 395 partidos. ¿Cuántos partidos de béisbol se perdió Joan?
+469
+x = 864 - 395
+Hay 112 árboles bajos y 119 árboles altos en el parque en este momento. Los trabajadores del parque plantarán 105 árboles bajos hoy. ¿Cuántos árboles bajos tendrá el parque cuando los trabajadores terminen?
+217
+x = 112 + 105
+Sara tenía 100 centavos y 783 cuartos en su alcancía. Su papá tomó prestados 271 cuartos de Sara. ¿Cuántos cuartos tiene ahora?
+512
+x = 783 - 271
+Un restaurante preparó 9 hamburguesas y 4 hot dogs para servir durante el almuerzo. Solo se sirvieron 3 hamburguesas. ¿Cuántas hamburguesas quedaron sin servir?
+6
+x = 9 - 3
+Melanie recogió 7 ciruelas y 4 naranjas del huerto. Le dio 3 ciruelas a Sam. ¿Cuántas ciruelas tiene ahora?
+4
+x = 7 - 3
+Hay 6 arbustos bajos y 4 árboles altos en el parque en este momento. Los trabajadores del parque tuvieron que cortar 2 arbustos bajos que estaban dañados. ¿Cuántos arbustos bajos tendrá el parque cuando los trabajadores terminen?
+4
+x = 6 - 2
+Hubo un total de 8 partidos de fútbol americano este año, 4 se jugaron por la noche. Keith se perdió 4 de los partidos. ¿Cuántos partidos de fútbol americano asistió Keith en total?
+4
+x = 8 - 4
+Hay 9 lápices y 4 reglas en el cajón. Sally sacó 4 lápices del cajón. ¿Cuántos lápices hay ahora?
+5
+x = 9 - 4
+Jason tiene 7 globos violetas y 4 globos rojos. Perdió 3 de los globos violetas. ¿Cuántos globos violetas tiene Jason ahora?
+4
+x = 7 - 3
+Dan tenía 7 papas y 4 melones en el jardín. Los conejos se comieron 4 de las papas. ¿Cuántas papas tiene Dan ahora?
+3
+x = 7 - 4
+Sara tenía 4 cuartos y 8 diez centavos en su alcancía. Su hermana tomó prestados 4 diez centavos. ¿Cuántos diez centavos tiene Sara ahora?
+4
+x = 8 - 4
+La perra de Sandy tuvo 8 cachorros y 4 tenían manchas. Dio 4 a sus amigos. ¿Cuántos cachorros tiene ahora?
+4
+x = 8 - 4
+Mike encontró 6 conchas marinas y 4 estrellas de mar, pero 4 de las conchas marinas estaban rotas. ¿Cuántas conchas marinas sin romper encontró Mike?
+2
+x = 6 - 4
+Melanie tenía 30 tarjetas de béisbol, y 9 estaban rotas. Sara compró 18 de las tarjetas de béisbol de Melanie. ¿Cuántas tarjetas de béisbol tiene Melanie ahora?
+12
+x = 30 - 18
+Sara recogió 35 peras y 27 manzanas del huerto. Le dio 28 peras a Dan. ¿Cuántas peras tiene Sara?
+7
+x = 35 - 28
+Jessica cultivó 35 sandías y 30 zanahorias, pero los conejos se comieron 27 sandías. ¿Cuántas sandías tiene Jessica?
+8
+x = 35 - 27
+Nancy encontró 35 conchas marinas y 25 estrellas de mar en la playa. Le dio 17 de las conchas a Jason. ¿Cuántas conchas marinas tiene Nancy ahora?
+18
+x = 35 - 17
+Joan tiene 47 canicas verdes y 48 canicas rojas. Fred tomó 24 de las canicas verdes de Joan. ¿Cuántas canicas verdes tiene Joan ahora?
+23
+x = 47 - 24
+Hay 42 nogales y 12 naranjos en el parque en este momento. Los trabajadores del parque tuvieron que talar 13 nogales que estaban dañados. ¿Cuántos nogales habrá en el parque cuando los trabajadores terminen?
+29
+x = 42 - 13
+Sandy tenía 36 centavos y 31 monedas de cinco centavos en su alcancía. Su papá tomó prestadas 20 monedas de cinco centavos de Sandy. ¿Cuántas monedas de cinco centavos tiene ahora?
+11
+x = 31 - 20
+Hay 34 lápices y 49 crayones en el cajón. Dan tomó 22 lápices del cajón. ¿Cuántos lápices hay ahora en el cajón?
+12
+x = 34 - 22
+Sally pagó $12.32 en total por duraznos, después de un cupón de $3, y $11.54 por cerezas. En total, ¿cuánto dinero gastó Sally?
+23.86
+x = 12.32 + 11.54
+Dan gastó $11.76 en un juguete de serpiente y una jaula le costó $14.54. Dan también encontró un billete de un dólar en el suelo. ¿Cuál fue el costo total de las compras de Dan?
+26.3
+x = 11.76 + 14.54
+Mary fue al centro comercial. Gastó $13.04 en una camisa y $12.27 en una chaqueta. Fue a 2 tiendas. En total, ¿cuánto dinero gastó Mary en ropa?
+25.31
+x = 13.04 + 12.27
+Dan se unió a la banda de su escuela. Compró una clarinete por $130.30, y un libro de canciones que costó $11.24. Dan encontró $12.32 en su bolsillo. ¿Cuánto gastó Dan en la tienda de música?
+141.54
+x = 130.30 + 11.24
+Tomó un patineta por $9.46, y gastó $9.56 en canicas. También gastó $14.50 en pantalones cortos. En total, ¿cuánto gastó Tom en juguetes?
+19.02
+x = 9.46 + 9.56
+Mary compró comida rápida para el almuerzo. Gastó $1.08 en sopa y $4.80 en una ensalada. Pagó con un billete de 20 dólares. ¿Cuál fue el total de la cuenta del almuerzo?
+5.88
+x = 1.08 + 4.80
+Para su automóvil, Mike gastó $118.54 en parlantes y $106.33 en neumáticos nuevos. Mike quería 3 CD por $4.58 pero decidió no comprarlos. En total, ¿cuánto gastó Mike en piezas de automóvil?
+224.87
+x = 118.54 + 106.33
+Tom compró un juego de Batman por $13.60 y un juego de Superman por $5.06. Tom ya tiene 2 juegos. ¿Cuánto gastó Tom en videojuegos?
+18.66
+x = 13.60 + 5.06
+Joan gastó $15 en pantalones cortos, $14.82 en una chaqueta y $12.51 en una camisa. Fue a 3 tiendas. En total, ¿cuánto dinero gastó Joan en ropa?
+42.33
+x = 15 + 14.82 + 12.51
+Joan se unió a la banda de su escuela. Compró una trompeta por $149.16, una herramienta musical por $9.98 y un libro de canciones que costó $4.14. Joan encontró $8.65 en su bolsillo. ¿Cuánto gastó Joan en la tienda de música?
+163.28
+x = 149.16 + 9.98 + 4.14
+Melanie compró un juego de Batman por $6.95, un juego de estrategia por $7.90 y un juego de Superman por $7.73. Melanie ya tiene 4 juegos. ¿Cuánto gastó Melanie en videojuegos?
+22.58
+x = 6.95 + 7.90 + 7.73
+Keith gastó $6.51 en un juguete para su conejo, $5.79 en comida para mascotas y una jaula le costó $12.51. Encontró un billete de un dólar en el suelo. ¿Cuál fue el costo total de las compras de Keith?
+24.81
+x = 6.51 + 5.79 + 12.51
+Keith gastó $136.01 en parlantes, $139.38 en un reproductor de CD y $112.46 en neumáticos nuevos. Quería 3 CD por $6.16, pero no los compró. En total, ¿cuánto gastó?
+387.85
+x = 136.01 + 139.38 + 112.46
+Joan compró autos de juguete por $14.88, una patineta por $4.88 y recibió camiones de juguete por $5.86. Gastó $14.55 en pantalones. En total, ¿cuánto gastó Joan en juguetes?
+25.62
+x = 14.88 + 4.88 + 5.86
+Después de pagar 6 dólares por el pastel, Mary tiene 52 dólares y su amiga tiene 43 dólares. ¿Cuánto dinero tenía antes de comprar el pastel?
+58
+x = 52 + 6
+Había 46 fardos de heno en el granero y 32 fardos en el cobertizo. Tomó fardos en el granero hoy. Ahora hay 60 fardos de heno en el granero. ¿Cuántos fardos almacenó en el granero?
+14
+x = 60 - 46
+Mary está horneando un pastel. La receta requiere 7 tazas de harina y 3 tazas de azúcar. Ella ya ha agregado 2 tazas de harina. ¿Cuántas tazas de harina necesita agregar?
+5
+x = 7 - 2
+La semana pasada, Fred tenía 23 dólares y Jason tenía 46 dólares. Fred lavó autos durante el fin de semana y ahora tiene 86 dólares. ¿Cuánto dinero ganó Fred lavando autos?
+63
+x = 86 - 23
+Hay 31 árboles bajos y 32 árboles altos en el parque en este momento. Los trabajadores del parque plantarán árboles bajos hoy. Cuando los trabajadores terminen, habrá 95 árboles bajos en el parque. ¿Cuántos árboles bajos plantaron los trabajadores hoy?
+64
+x = 95 - 31
+Había 9 orquídeas rojas y 3 orquídeas blancas en el jarrón. Sally cortó algunas orquídeas rojas de su jardín de flores. Ahora hay 15 orquídeas rojas en el jarrón. ¿Cuántas orquídeas rojas cortó?
+6
+x = 15 - 9
+Sara tenía 24 duraznos y 37 peras en su frutero. Fue al huerto y recogió duraznos. Ahora hay 61 duraznos. ¿Cuántos recogió?
+37
+x = 61 - 24
+Joan encontró 72 conchas de mar y 12 estrellas de mar en la playa. Le dio algunas de sus conchas de mar a Alyssa. Ahora tiene 28 conchas de mar. ¿Cuántas conchas de mar le dio a Alyssa?
+44
+x = 72 - 28
+Hay 6 lápices y 7 reglas en el cajón. Benny colocó 3 lápices en el cajón. ¿Cuántos lápices hay ahora en total?
+9
+x = 6 + 3
+Sara tiene 3 canicas verdes y 5 canicas rojas. Tom tiene 4 canicas verdes. ¿Cuántas canicas verdes tienen en total?
+7
+x = 3 + 4
+Joan cultivó 8 sandías y 4 nabos. Tom cultivó 9 sandías. ¿Cuántas sandías cultivaron en total?
+17
+x = 8 + 9
+Hay 2 árboles de arce y 5 árboles de álamo en el parque en este momento. Los trabajadores del parque plantarán 9 árboles de arce hoy. ¿Cuántos árboles de arce tendrá el parque cuando los trabajadores terminen?
+11
+x = 2 + 9
+Mary encontró 2 conchas de mar y Keith encontró 5 conchas de mar en la playa. Cuando las limpiaron, descubrieron que 9 estaban rotas. ¿Cuántas conchas de mar encontraron juntos?
+7
+x = 2 + 5
+Mike recogió 8 peras, Nancy recogió 3 peras y Keith recogió 6 manzanas en el huerto. ¿Cuántas peras se recogieron en total?
+15
+x = 8 + 3
+Tim tenía 7 cuartos y 9 monedas de cinco centavos en su alcancía. Su papá le dio 3 monedas de cinco centavos y su mamá le dio 2 monedas de cinco centavos. ¿Cuántas monedas de cinco centavos tiene Tim ahora?
+12
+x = 9 + 3
+Un restaurante sirvió 7 rebanadas de pastel durante el almuerzo y 5 durante la cena hoy. Sirvió 8 de ellas ayer. ¿Cuántas rebanadas de pastel se sirvieron hoy?
+12
+x = 7 + 5
+Tomó 4 juegos de hockey este año, pero se perdió 7. Fue a 9 juegos el año pasado. ¿Cuántos juegos de hockey ha ido Tom en total?
+13
+x = 4 + 9
+El perro de Sam tuvo cachorros y 8 tenían manchas. Le dio 2 a sus amigos. Ahora tiene 6 cachorros. ¿Cuántos cachorros tenía originalmente?
+8
+x = 6 + 2
+Mike recogió 7 manzanas, Nancy recogió 3 manzanas y Keith recogió 6 manzanas y 4 peras en la granja. ¿Cuántas manzanas se recogieron en total?
+16
+x = 7 + 3 + 6
+Hay 7 árboles de cornejo en el parque en este momento. Los trabajadores del parque plantarán 5 árboles de cornejo hoy y 4 árboles de cornejo mañana. Se necesitaron 8 trabajadores para terminar el trabajo. ¿Cuántos árboles de cornejo tendrá el parque cuando los trabajadores terminen?
+16
+x = 7 + 5 + 4
+El gato de Dan tuvo gatitos y 5 tenían manchas. Le dio 7 a Tim y 4 a Jason. Ahora tiene 5 gatitos. ¿Cuántos gatitos tenía originalmente?
+16
+x = 5 + 7 + 4
+Hay 7 crayones en el cajón y 6 crayones en el escritorio. Sam colocó 4 crayones y 8 tijeras en el escritorio. ¿Cuántos crayones hay ahora en total?
+17
+x = 7 + 6 + 4
+Sally tenía 8 centavos y 7 monedas de cinco centavos en su alcancía. Su papá le dio 9 monedas de cinco centavos y su mamá le dio 2 monedas de cinco centavos. ¿Cuántas monedas de cinco centavos tiene Sally ahora?
+18
+x = 7 + 9 + 2
+Nancy fue a 9 juegos de fútbol este mes. Fue a 8 juegos el mes pasado y planea ir a 7 juegos el próximo mes. Pagó 3 dólares por los boletos. ¿Cuántos juegos asistirá en total?
+24
+x = 9 + 8 + 7
+Keith encontró 6 conchas, Jessica encontró 8 conchas y Tim encontró 7 conchas en la playa. Cuando las limpiaron, descubrieron que 3 estaban rotas. ¿Cuántas conchas encontraron en total?
+21
+x = 6 + 8 + 7
+Nancy cultivó 2 cebollas, Dan cultivó 9 cebollas y Mike cultivó 4 cebollas. Trabajaron durante 6 días en la granja. ¿Cuántas cebollas cultivaron en total?
+15
+x = 2 + 9 + 4
+Fred tiene 5 globos amarillos, Sam tiene 6 globos amarillos y Mary tiene 7 globos amarillos. Los globos cuestan 5 dólares. ¿Cuántos globos amarillos tienen en total?
+18
+x = 5 + 6 + 7
+Un restaurante sirvió 4 pasteles durante el almuerzo y 9 durante la cena hoy. El restaurante sirvió 7 pasteles y 2 pizzas ayer. ¿Cuántos pasteles se sirvieron en total?
+20
+x = 4 + 9 + 7
+Tim encontró 37 conchas de mar y Sally encontró 13 conchas de mar en la playa. Cuando las limpiaron, descubrieron que 25 estaban rotas. ¿Cuántas conchas de mar encontraron juntos?
+50
+x = 37 + 13
+Tom tenía 27 centavos y 15 monedas de diez centavos en su alcancía. Su papá le dio 33 monedas de diez centavos y 49 monedas de cinco centavos. ¿Cuántas monedas de diez centavos tiene ahora?
+48
+x = 15 + 33
+Hay 39 tijeras y 22 lápices en el cajón. Dan colocó 13 tijeras en el cajón. ¿Cuántas tijeras hay ahora en total?
+52
+x = 39 + 13
+Sam tiene 16 globos azules y 25 globos verdes. Alyssa tiene 21 globos azules. ¿Cuántos globos azules tienen en total?
+37
+x = 16 + 21
+Hay 22 arbustos de orquídeas y 40 árboles de naranja en el parque en este momento. Los trabajadores del parque plantarán 13 arbustos de orquídeas hoy. ¿Cuántos arbustos de orquídeas tendrá el parque cuando los trabajadores terminen?
+35
+x = 22 + 13
+Mary tenía 33 tarjetas de Pokémon, y 6 estaban rotas. Sam le dio 23 tarjetas nuevas de Pokémon. ¿Cuántas tarjetas de Pokémon tiene Mary ahora?
+56
+x = 33 + 23
+Mary recogió 14 naranjas y Jason recogió 41 naranjas. Keith recogió 38 manzanas. ¿Cuántas naranjas se recogieron en total?
+55
+x = 14 + 41
+Jason cultivó 37 sandías y 30 calabazas. Sandy cultivó 11 sandías. ¿Cuántas sandías cultivaron en total?
+48
+x = 37 + 11
+Mike fue a 15 juegos de baloncesto este año, pero se perdió 41. Fue a 39 juegos el año pasado. ¿A cuántos juegos de baloncesto fue Mike en total?
+54
+x = 15 + 39
+Melanie tenía 10 cuartos y 17 centavos en su alcancía. Su papá le dio 27 centavos y su mamá le dio 19 centavos. ¿Cuántos centavos tiene Melanie ahora?
+63
+x = 17 + 27 + 19
+Joan cultivó 24 calabazas, Keith cultivó 42 calabazas y Alyssa cultivó 13 calabazas. Trabajaron durante 34 días en la granja. ¿Cuántas calabazas cultivaron en total?
+79
+x = 24 + 42 + 13
+Mary tenía 18 tarjetas de béisbol, y 8 estaban rotas. Fred le dio 26 tarjetas nuevas de béisbol. Mary compró 40 tarjetas de béisbol. ¿Cuántas tarjetas de béisbol tiene Mary ahora?
+84
+x = 18 + 26 + 40
+Alyssa asistió a 11 partidos de fútbol este año, pero se perdió 12. Asistió a 13 partidos el año pasado y planea asistir a 15 partidos el próximo año. ¿A cuántos partidos de fútbol asistirá Alyssa en total?
+39
+x = 11 + 13 + 15
+Hay 48 gomas de borrar en el cajón y 30 gomas de borrar en el escritorio. Alyssa colocó 39 gomas de borrar y 45 reglas en el escritorio. ¿Cuántas gomas de borrar hay ahora en total?
+117
+x = 48 + 30 + 39
+Actualmente, hay 47 arbustos de orquídeas en el parque. Los trabajadores del parque plantarán 37 arbustos de orquídeas hoy y 25 arbustos de orquídeas mañana. Se necesitaron 35 trabajadores para terminar el trabajo. ¿Cuántos arbustos de orquídeas tendrá el parque cuando los trabajadores terminen?
+109
+x = 47 + 37 + 25
+Fred tiene 10 globos rojos, Sam tiene 46 globos rojos y Dan tiene 16 globos rojos. Los globos cuestan 10 dólares. ¿Cuántos globos rojos tienen en total?
+72
+x = 10 + 46 + 16
+Mary encontró 45 conchas de mar, Melanie encontró 23 conchas de mar y Jason encontró 32 conchas de mar en la playa. Cuando las limpiaron, descubrieron que 31 estaban rotas. ¿Cuántas conchas de mar encontraron juntos?
+100
+x = 45 + 23 + 32
+Fred recogió 36 limones, Alyssa recogió 32 limones y Nancy recogió 35 limones y 18 peras en la granja. ¿Cuántos limones se recogieron en total?
+103
+x = 36 + 32 + 35
+Benny recibió 79 dólares y 9 boletos de cine para su cumpleaños. Fue a una tienda de artículos deportivos y compró un guante de béisbol, una pelota de béisbol y un bate. Le sobraron 32 dólares, ¿cuánto gastó en el equipo de béisbol?
+47
+x = 79 - 32
+Actualmente, hay 43 árboles de arce y 22 árboles de naranja en el parque. Los trabajadores del parque plantarán árboles de arce hoy. Cuando los trabajadores terminen, habrá 54 árboles de arce en el parque. ¿Cuántos árboles de arce plantaron los trabajadores hoy?
+11
+x = 54 - 43
+Dan tenía 14 duraznos y 10 peras en su puesto de frutas en la carretera. Fue a la huerta y recogió duraznos para abastecerse. Ahora hay 85 duraznos. ¿Cuántos recogió?
+71
+x = 85 - 14
+Melanie tiene 41 libros y 31 revistas en su biblioteca. Compró varios libros en una venta de garaje durante el fin de semana. Ahora tiene 87 libros en su biblioteca. ¿Cuántos libros compró en la venta de garaje?
+46
+x = 87 - 41
+Había 2 orquídeas rojas y 4 orquídeas blancas en el jarrón. Jessica cortó algunas orquídeas rojas de su jardín de flores. Ahora hay 18 orquídeas rojas en el jarrón. ¿Cuántas orquídeas rojas cortó?
+16
+x = 18 - 2
+La semana pasada, Tim tenía 12 dólares y Keith tenía 36 dólares. Tim lavó coches durante el fin de semana y ahora tiene 75 dólares. ¿Cuánto dinero ganó Tim lavando coches?
+63
+x = 75 - 12
+Joan encontró 75 conchas de mar y 14 estrellas de mar en la playa. Le dio algunas de sus conchas de mar a Tim. Ahora tiene 62 conchas de mar. ¿Cuántas conchas de mar le dio a Tim?
+13
+x = 75 - 62
+Había 32 fardos de heno en el granero y 26 fardos en el cobertizo. Jason almacenó fardos en el granero hoy. Ahora hay 98 fardos de heno en el granero. ¿Cuántos almacenó en el granero?
+66
+x = 98 - 32
+Jessica está horneando un pastel. La receta requiere 8 tazas de harina y 2 tazas de azúcar. Ella ya puso 4 tazas de harina. ¿Cuántas tazas de harina necesita agregar?
+4
+x = 8 - 4
+Keith recogió 3 peras y Jason recogió 2 peras del árbol de peras. Joan recogió 5 manzanas. ¿Cuántas peras se recogieron en total?
+5
+x = 3 + 2
+Sally tiene 9 globos naranjas y 4 globos azules. Perdió 2 de los globos naranjas. ¿Cuántos globos naranjas tiene Sally ahora?
+7
+x = 9 - 2
+Sandy cultivó 8 zanahorias y 7 nabos. Mary cultivó 6 zanahorias. ¿Cuántas zanahorias cultivaron en total?
+14
+x = 8 + 6
+Hay 5 tijeras y 3 lápices en el cajón. Jason colocó 4 tijeras en el cajón. ¿Cuántas tijeras hay ahora en total?
+9
+x = 5 + 4
+El gato de Alyssa tuvo 8 gatitos y 8 tenían manchas. Le dio 4 a sus amigos. ¿Cuántos gatitos tiene ahora?
+4
+x = 8 - 4
+Sam tenía 7 centavos y 8 monedas de diez centavos en su alcancía. Su hermana le prestó 4 monedas de diez centavos. ¿Cuántas monedas de diez centavos tiene Sam ahora?
+4
+x = 8 - 4
+Un restaurante sirvió 9 hot dogs durante el almuerzo y 2 durante la cena hoy. Sirvió 5 de ellos ayer. ¿Cuántos hot dogs se sirvieron hoy?
+11
+x = 9 + 2
+Actualmente, hay 3 árboles bajos y 6 árboles altos en el parque. Los trabajadores del parque plantarán 9 árboles bajos hoy. ¿Cuántos árboles bajos tendrá el parque cuando los trabajadores terminen?
+12
+x = 3 + 9
+Mary tenía 21 monedas de diez centavos y 38 centavos en su alcancía. Su papá le pidió prestados 18 centavos a Mary. ¿Cuántos centavos tiene ahora?
+20
+x = 38 - 18
+Alyssa recogió 17 ciruelas y Jason recogió 10 ciruelas. Melanie recogió 35 peras. ¿Cuántas ciruelas se recogieron en total?
+27
+x = 17 + 10
+Hay 48 lápices y 40 tijeras en el cajón. Joan colocó 29 lápices en el cajón. ¿Cuántos lápices hay ahora en total?
+77
+x = 48 + 29
+Actualmente, hay 37 arbustos bajos y 30 árboles altos en el parque. Los trabajadores del parque plantarán 20 arbustos bajos hoy. ¿Cuántos arbustos bajos tendrá el parque cuando los trabajadores terminen?
+57
+x = 37 + 20

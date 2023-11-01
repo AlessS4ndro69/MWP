@@ -1,0 +1,4228 @@
+[
+  {
+    "iIndex": 0,
+    "sQuestion": "Para Halloween, Debby y su hermana combinaron los dulces que recibieron. Debby tenía 32 piezas de dulces, mientras que su hermana tenía 42. Si comieron 35 piezas la primera noche, ¿cuántas piezas les quedan?",
+    "lAlignments": [80, 120, 136],
+    "lSolutions": [39.0],
+    "lEquations": ["x = ( ( 32.0 + 42.0 ) - 35.0 )"]
+  },
+  {
+    "iIndex": 1,
+    "sQuestion": "Una tienda de mascotas tenía 13 gatos siameses y 5 gatos caseros. Durante una oferta, vendieron 10 gatos. ¿Cuántos gatos les quedan?",
+    "lAlignments": [17, 37, 75],
+    "lSolutions": [8.0],
+    "lEquations": ["x = ( ( 13.0 + 5.0 ) - 10.0 )"]
+  },
+  {
+    "iIndex": 2,
+    "sQuestion": "Luke intentaba ampliar su colección de juegos. Compró 2 juegos a un amigo y compró 2 más en una venta de garaje. Si 2 de los juegos no funcionaban, ¿cuántos juegos buenos terminó teniendo?",
+    "lAlignments": [58, 91, 119],
+    "lSolutions": [2.0],
+    "lEquations": ["x = ( ( 2.0 + 2.0 ) - 2.0 )"]
+  },
+  {
+    "iIndex": 3,
+    "sQuestion": "La cafetería de la escuela ordenó 42 manzanas rojas y 7 manzanas verdes para el almuerzo de los estudiantes. Sin embargo, solo 9 estudiantes querían fruta. ¿Cuántas manzanas adicionales quedaron en la cafetería?",
+    "lAlignments": [30, 48, 98],
+    "lSolutions": [40.0],
+    "lEquations": ["x = ( ( 42.0 + 7.0 ) - 9.0 )"]
+  },
+  {
+    "iIndex": 4,
+    "sQuestion": "Lana recogió 36 tulipanes y 37 rosas para hacer ramos de flores. Sin embargo, solo usó 70 de las flores. ¿Cuántas flores adicionales recogió Lana?",
+    "lAlignments": [13, 27, 78],
+    "lSolutions": [3.0],
+    "lEquations": ["x = ( ( 36.0 + 37.0 ) - 70.0 )"]
+  },
+  {
+    "iIndex": 5,
+    "sQuestion": "Carol y su mamá estaban recogiendo zanahorias de su jardín. Carol recogió 29 y su madre recogió 16. Sin embargo, solo 38 de las zanahorias estaban en buen estado. ¿Cuántas zanahorias en mal estado tenían?",
+    "lAlignments": [72, 97, 109],
+    "lSolutions": [7.0],
+    "lEquations": ["x = ( ( 29.0 + 16.0 ) - 38.0 )"]
+  },
+  {
+    "iIndex": 6,
+    "sQuestion": "Roger tenía 16 dólares. Para su cumpleaños, recibió 28 dólares adicionales, pero gastó 25 en un juego nuevo. ¿Cuánto dinero tiene ahora?",
+    "lAlignments": [11, 47, 73],
+    "lSolutions": [19.0],
+    "lEquations": ["x = ( ( 16.0 + 28.0 ) - 25.0 )"]
+  },
+  {
+    "iIndex": 7,
+    "sQuestion": "Mientras estaba de vacaciones, Megan tomó 15 fotos en el zoológico y 18 en el museo. Más tarde eliminó 31 de las fotos. ¿Cuántas fotos de sus vacaciones todavía tiene?",
+    "lAlignments": [31, 58, 97],
+    "lSolutions": [2.0],
+    "lEquations": ["x = ( ( 15.0 + 18.0 ) - 31.0 )"]
+  },
+  {
+    "iIndex": 8,
+    "sQuestion": "Rachel compró dos libros para colorear. Uno tenía 23 imágenes y el otro tenía 32. Después de una semana, ya había coloreado 44 de las imágenes. ¿Cuántas imágenes le quedan por colorear?",
+    "lAlignments": [43, 73, 116],
+    "lSolutions": [11.0],
+    "lEquations": ["x = ( ( 23.0 + 32.0 ) - 44.0 )"]
+  },
+  {
+    "iIndex": 9,
+    "sQuestion": "Ned tenía que lavar 9 camisetas de manga corta y 21 camisetas de manga larga antes de la escuela. Sin embargo, solo había lavado 29 de ellas cuando comenzó la escuela. ¿Cuántas camisetas no lavó?",
+    "lAlignments": [17, 43, 102],
+    "lSolutions": [1.0],
+    "lEquations": ["x = ( ( 9.0 + 21.0 ) - 29.0 )"]
+  },
+  {
+    "iIndex": 10,
+    "sQuestion": "Oliver tenía que lavar 39 camisetas de manga corta y 47 camisetas de manga larga antes de la escuela. Sin embargo, solo había lavado 20 de ellas cuando comenzó la escuela. ¿Cuántas camisetas no lavó?",
+    "lAlignments": [20, 47, 106],
+    "lSolutions": [66.0],
+    "lEquations": ["x = ( ( 39.0 + 47.0 ) - 20.0 )"]
+  },
+  {
+    "iIndex": 11,
+    "sQuestion": "Para la venta de pasteles de la escuela, Katie hizo pasteles. Horneó 4 cupcakes y 29 galletas. Después de la venta, le quedaban 24 para llevar a casa. ¿Cuántos pasteles vendió?",
+    "lAlignments": [57, 72, 107],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ( ( 4.0 + 29.0 ) - 24.0 )"]
+  },
+  {
+    "iIndex": 12,
+    "sQuestion": "Mientras estaba de vacaciones, Debby tomó 24 fotos en el zoológico y 12 en el museo. Si más tarde eliminó 14 de las fotos, ¿cuántas fotos de sus vacaciones todavía tiene?",
+    "lAlignments": [31, 58, 97],
+    "lSolutions": [22.0],
+    "lEquations": ["x = ( ( 24.0 + 12.0 ) - 14.0 )"]
+  },
+  {
+    "iIndex": 13,
+    "sQuestion": "Katie recogió 3 tulipanes y 9 rosas para hacer ramos de flores. Sin embargo, solo usó 10 de las flores. ¿Cuántas flores adicionales recogió Katie?",
+    "lAlignments": [14, 27, 77],
+    "lSolutions": [2.0],
+    "lEquations": ["x = ( ( 3.0 + 9.0 ) - 10.0 )"]
+  },
+  {
+    "iIndex": 14,
+    "sQuestion": "Faye tenía 46 problemas de matemáticas y 9 problemas de ciencias para la tarea. Si terminó 40 de los problemas en la escuela, ¿cuántos problemas tuvo que hacer para la tarea?",
+    "lAlignments": [10, 31, 80],
+    "lSolutions": [15.0],
+    "lEquations": ["x = ( ( 46.0 + 9.0 ) - 40.0 )"]
+  },
+  {
+    "iIndex": 15,
+    "sQuestion": "Amy tenía 4 archivos de música y 21 archivos de video en su unidad flash. Si eliminó 23 de los archivos, ¿cuántos archivos le quedaron en su unidad flash?",
+    "lAlignments": [9, 27, 77],
+    "lSolutions": [2.0],
+    "lEquations": ["x = ( ( 4.0 + 21.0 ) - 23.0 )"]
+  },
+  {
+    "iIndex": 16,
+    "sQuestion": "Ned intentaba ampliar su colección de juegos. Compró 11 juegos a un amigo y compró 22 más en una venta de garaje. Si 19 de los juegos no funcionaban, ¿cuántos juegos buenos terminó teniendo?",
+    "lAlignments": [57, 91, 120],
+    "lSolutions": [14.0],
+    "lEquations": ["x = ( ( 11.0 + 22.0 ) - 19.0 )"]
+  },
+  {
+    "iIndex": 17,
+    "sQuestion": "Chloe estaba jugando a un juego de trivia. En la primera ronda, obtuvo 40 puntos y en la segunda ronda, obtuvo 50 puntos. En la última ronda, perdió 4 puntos. ¿Cuántos puntos tenía al final del juego?",
+    "lAlignments": [64, 109, 147],
+    "lSolutions": [86.0],
+    "lEquations": ["x = ( ( 40.0 + 50.0 ) - 4.0 )"]
+  },
+  {
+    "iIndex": 18,
+    "sQuestion": "En la sala de juegos, Tom ganó 32 boletos jugando a 'golpea al topo' y 25 boletos jugando a 'lanza la pelota'. Si gastó 7 de sus boletos en un sombrero, ¿cuántos boletos tiene Tom todavía?",
+    "lAlignments": [24, 62, 106],
+    "lSolutions": [50.0],
+    "lEquations": ["x = ( ( 32.0 + 25.0 ) - 7.0 )"]
+  },
+  {
+    "iIndex": 19,
+    "sQuestion": "Bianca y su mamá estaban recogiendo zanahorias de su jardín. Bianca recogió 26 y su madre recogió 15. Sin embargo, solo 16 de las zanahorias estaban en buen estado. ¿Cuántas zanahorias en mal estado tenían?",
+    "lAlignments": [74, 99, 111],
+    "lSolutions": [25.0],
+    "lEquations": ["x = ( ( 26.0 + 15.0 ) - 16.0 )"]
+  },
+  {
+    "iIndex": 20,
+    "sQuestion": "Para la venta de pasteles de la escuela, Katie hizo pasteles. Horneó 7 cupcakes y 5 galletas. Después de la venta, le quedaban 8 para llevar a casa. ¿Cuántos pasteles vendió?",
+    "lAlignments": [57, 72, 106],
+    "lSolutions": [4.0],
+    "lEquations": ["x = ( ( 7.0 + 5.0 ) - 8.0 )"]
+  },
+  {
+    "iIndex": 21,
+    "sQuestion": "Zoe compró dos libros para colorear. Uno tenía 44 imágenes y el otro tenía 44. Después de una semana, ya había coloreado 20 de las imágenes. ¿Cuántas imágenes le quedan por colorear?",
+    "lAlignments": [40, 70, 113],
+    "lSolutions": [68.0],
+    "lEquations": ["x = ( ( 44.0 + 44.0 ) - 20.0 )"]
+  },
+  {
+    "iIndex": 22,
+    "sQuestion": "John estaba tratando de ampliar su colección de juegos. Compró 21 juegos de un amigo y compró 8 más en una venta de garaje. Si 23 de los juegos no funcionaban, ¿cuántos juegos buenos terminó teniendo?",
+    "lAlignments": [58, 92, 120],
+    "lSolutions": [6.0],
+    "lEquations": ["x = ( ( 21.0 + 8.0 ) - 23.0 )"]
+  },
+  {
+    "iIndex": 23,
+    "sQuestion": "Henry tenía 11 dólares. Para su cumpleaños, recibió 18 dólares más pero gastó 10 en un juego nuevo. ¿Cuánto dinero tiene ahora?",
+    "lAlignments": [11, 47, 73],
+    "lSolutions": [19.0],
+    "lEquations": ["x = ( ( 11.0 + 18.0 ) - 10.0 )"]
+  },
+  {
+    "iIndex": 24,
+    "sQuestion": "Mientras estaba de vacaciones, Gwen tomó 41 fotos en el zoológico y 29 en el museo. Si más tarde eliminó 15 de las fotos, ¿cuántas fotos de sus vacaciones todavía tiene?",
+    "lAlignments": [30, 57, 96],
+    "lSolutions": [55.0],
+    "lEquations": ["x = ( ( 41.0 + 29.0 ) - 15.0 )"]
+  },
+  {
+    "iIndex": 25,
+    "sQuestion": "Sam tenía que lavar 40 camisetas de manga corta y 23 camisetas de manga larga antes de la escuela. Si solo lavó 29 de ellas antes de que comenzara la escuela, ¿cuántas no lavó?",
+    "lAlignments": [17, 44, 103],
+    "lSolutions": [34.0],
+    "lEquations": ["x = ( ( 40.0 + 23.0 ) - 29.0 )"]
+  },
+  {
+    "iIndex": 26,
+    "sQuestion": "Una tienda de mascotas tenía 12 gatos siameses y 20 gatos comunes. Durante una oferta, vendieron 20 gatos. ¿Cuántos gatos les quedan?",
+    "lAlignments": [17, 37, 76],
+    "lSolutions": [12.0],
+    "lEquations": ["x = ( ( 12.0 + 20.0 ) - 20.0 )"]
+  },
+  {
+    "iIndex": 27,
+    "sQuestion": "Faye y su mamá estaban recogiendo zanahorias de su jardín. Faye recogió 23 y su madre recogió 5. Si solo 12 de las zanahorias estaban en buen estado, ¿cuántas zanahorias en mal estado tenían?",
+    "lAlignments": [70, 95, 106],
+    "lSolutions": [16.0],
+    "lEquations": ["x = ( ( 23.0 + 5.0 ) - 12.0 )"]
+  },
+  {
+    "iIndex": 28,
+    "sQuestion": "La cafetería de la escuela ordenó 43 manzanas rojas y 32 manzanas verdes para el almuerzo de los estudiantes. Pero, si solo 2 estudiantes querían fruta, ¿cuántas manzanas adicionales tuvo la cafetería?",
+    "lAlignments": [30, 48, 99],
+    "lSolutions": [73.0],
+    "lEquations": ["x = ( ( 43.0 + 32.0 ) - 2.0 )"]
+  },
+  {
+    "iIndex": 29,
+    "sQuestion": "Había 39 niñas y 4 niños haciendo una audición para el equipo de baloncesto de la escuela. Si solo 26 de ellos fueron llamados de regreso, ¿cuántos estudiantes no lo lograron?",
+    "lAlignments": [12, 25, 84],
+    "lSolutions": [17.0],
+    "lEquations": ["x = ( ( 39.0 + 4.0 ) - 26.0 )"]
+  },{
+    "iIndex": 30,
+    "sQuestion": "Una tienda de mascotas tenía 38 gatos siameses y 25 gatos caseros. Durante una venta, vendieron 45 gatos. ¿Cuántos gatos les quedan?",
+    "lAlignments": [17, 37, 76],
+    "lSolutions": [18.0],
+    "lEquations": ["x = ( ( 38.0 + 25.0 ) - 45.0 )"]
+  },
+  {
+    "iIndex": 31,
+    "sQuestion": "Para la venta de pasteles de la escuela, Paige hizo repostería. Horneó 36 cupcakes y 9 galletas. Después de la venta, le quedaron 4 para llevar a casa. ¿Cuántas pastas vendió?",
+    "lAlignments": [57, 73, 107],
+    "lSolutions": [41.0],
+    "lEquations": ["x = ( ( 36.0 + 9.0 ) - 4.0 )"]
+  },
+  {
+    "iIndex": 32,
+    "sQuestion": "Carol estaba jugando a un juego de trivia. En la primera ronda, obtuvo 17 puntos y en la segunda ronda, obtuvo 6 puntos. En la última ronda, perdió 16 puntos. ¿Cuántos puntos tenía al final del juego?",
+    "lAlignments": [64, 109, 146],
+    "lSolutions": [7.0],
+    "lEquations": ["x = ( ( 17.0 + 6.0 ) - 16.0 )"]
+  },
+  {
+    "iIndex": 33,
+    "sQuestion": "Gwen compró dos libros para colorear. Uno tenía 10 imágenes y el otro tenía 39. Después de una semana, ya había coloreado 13 de las imágenes. ¿Cuántas imágenes le quedan por colorear?",
+    "lAlignments": [41, 71, 114],
+    "lSolutions": [36.0],
+    "lEquations": ["x = ( ( 10.0 + 39.0 ) - 13.0 )"]
+  },
+  {
+    "iIndex": 34,
+    "sQuestion": "Para Halloween, Janet y su hermana combinaron los caramelos que recibieron. Janet tenía 34 piezas de caramelo mientras que su hermana tenía 33. Si se comieron 4 piezas la primera noche, ¿cuántas piezas les quedan?",
+    "lAlignments": [80, 120, 136],
+    "lSolutions": [63.0],
+    "lEquations": ["x = ( ( 34.0 + 33.0 ) - 4.0 )"]
+  },
+  {
+    "iIndex": 35,
+    "sQuestion": "Haley y su mamá estaban recogiendo zanahorias de su jardín. Haley recogió 39 y su madre recogió 38. Si solo 64 de las zanahorias estaban en buen estado, ¿cuántas zanahorias en mal estado tenían?",
+    "lAlignments": [72, 97, 109],
+    "lSolutions": [13.0],
+    "lEquations": ["x = ( ( 39.0 + 38.0 ) - 64.0 )"]
+  },
+  {
+    "iIndex": 36,
+    "sQuestion": "Había 30 niñas y 36 niños que hacían una prueba para el equipo de baloncesto de la escuela. Si solo 10 de ellos fueron llamados de regreso, ¿cuántos estudiantes no lo lograron?",
+    "lAlignments": [12, 25, 85],
+    "lSolutions": [56.0],
+    "lEquations": ["x = ( ( 30.0 + 36.0 ) - 10.0 )"]
+  },
+  {
+    "iIndex": 37,
+    "sQuestion": "Roger tenía 29 dólares. Para su cumpleaños, recibió 20 dólares adicionales pero gastó 34 en un juego nuevo. ¿Cuánto dinero tiene ahora?",
+    "lAlignments": [11, 47, 73],
+    "lSolutions": [15.0],
+    "lEquations": ["x = ( ( 29.0 + 20.0 ) - 34.0 )"]
+  },
+  {
+    "iIndex": 38,
+    "sQuestion": "Dave tenía que lavar 29 camisetas de manga corta y 11 camisetas de manga larga antes de la escuela. Si solo lavó 35 de ellas antes de que comenzara la escuela, ¿cuántas no lavó?",
+    "lAlignments": [18, 45, 104],
+    "lSolutions": [5.0],
+    "lEquations": ["x = ( ( 29.0 + 11.0 ) - 35.0 )"]
+  },
+  {
+    "iIndex": 39,
+    "sQuestion": "Edward estaba tratando de ampliar su colección de juegos. Compró 41 juegos de un amigo y compró 14 más en una venta de garaje. Si 31 de los juegos no funcionaban, ¿cuántos juegos buenos terminó teniendo?",
+    "lAlignments": [60, 94, 123],
+    "lSolutions": [24.0],
+    "lEquations": ["x = ( ( 41.0 + 14.0 ) - 31.0 )"]
+  },
+  {
+    "iIndex": 40,
+    "sQuestion": "En la feria del libro de la escuela, Sam compró 13 libros de aventuras y 17 libros de misterio. Si 15 de los libros estaban usados, ¿cuántos libros nuevos compró?",
+    "lAlignments": [37, 60, 81],
+    "lSolutions": [15.0],
+    "lEquations": ["x = ( ( 13.0 + 17.0 ) - 15.0 )"]
+  },
+  {
+    "iIndex": 41,
+    "sQuestion": "Amy tenía 26 archivos de música y 36 archivos de video en su memoria USB. Si eliminó 48 de los archivos, ¿cuántos archivos le quedaban en la memoria USB?",
+    "lAlignments": [9, 28, 78],
+    "lSolutions": [14.0],
+    "lEquations": ["x = ( ( 26.0 + 36.0 ) - 48.0 )"]
+  },
+  {
+    "iIndex": 42,
+    "sQuestion": "Oliver tenía 35 dólares. Para su cumpleaños recibió 50 dólares más, pero gastó 84 en un juego nuevo. ¿Cuánto dinero tiene ahora?",
+    "lAlignments": [12, 48, 74],
+    "lSolutions": [1.0],
+    "lEquations": ["x = ( ( 35.0 + 50.0 ) - 84.0 )"]
+  },
+  {
+    "iIndex": 43,
+    "sQuestion": "Emily estaba jugando a un juego de trivia. En la primera ronda anotó 16 puntos y en la segunda ronda anotó 33 puntos. En la última ronda perdió 48 puntos. ¿Cuántos puntos tenía al final del juego?",
+    "lAlignments": [64, 109, 147],
+    "lSolutions": [1.0],
+    "lEquations": ["x = ( ( 16.0 + 33.0 ) - 48.0 )"]
+  },
+  {
+    "iIndex": 44,
+    "sQuestion": "Paige tenía 43 problemas de matemáticas y 12 problemas de ciencias para la tarea. Si terminó 44 de los problemas en la escuela, ¿cuántos problemas le quedaban por hacer para la tarea?",
+    "lAlignments": [11, 32, 82],
+    "lSolutions": [11.0],
+    "lEquations": ["x = ( ( 43.0 + 12.0 ) - 44.0 )"]
+  },
+  {
+    "iIndex": 45,
+    "sQuestion": "La cafetería de la escuela pidió 33 manzanas rojas y 23 manzanas verdes para los almuerzos de los estudiantes. Pero, si solo 21 estudiantes querían fruta, ¿cuántas manzanas adicionales quedaron en la cafetería?",
+    "lAlignments": [30, 48, 99],
+    "lSolutions": [35.0],
+    "lEquations": ["x = ( ( 33.0 + 23.0 ) - 21.0 )"]
+  },
+  {
+    "iIndex": 46,
+    "sQuestion": "Dave tenía que lavar 9 camisetas de manga corta y 27 camisetas de manga larga antes de la escuela. Si solo lavó 20 de ellas para cuando comenzó la escuela, ¿cuántas no lavó?",
+    "lAlignments": [18, 44, 103],
+    "lSolutions": [16.0],
+    "lEquations": ["x = ( ( 9.0 + 27.0 ) - 20.0 )"]
+  },
+  {
+    "iIndex": 47,
+    "sQuestion": "Mientras estaba de vacaciones, Rachel tomó 6 fotos en el zoológico y 9 en el museo. Si luego eliminó 11 de las fotos, ¿cuántas fotos de sus vacaciones le quedaban?",
+    "lAlignments": [32, 58, 96],
+    "lSolutions": [4.0],
+    "lEquations": ["x = ( ( 6.0 + 9.0 ) - 11.0 )"]
+  },
+  {
+    "iIndex": 48,
+    "sQuestion": "Vanessa y su mamá estaban recogiendo zanahorias de su jardín. Vanessa recogió 17 y su madre recogió 14. Si solo 24 de las zanahorias estaban en buen estado, ¿cuántas zanahorias en mal estado tenían?",
+    "lAlignments": [76, 101, 113],
+    "lSolutions": [7.0],
+    "lEquations": ["x = ( ( 17.0 + 14.0 ) - 24.0 )"]
+  },
+  {
+    "iIndex": 49,
+    "sQuestion": "Una tienda de mascotas tenía 41 gatos siameses y 28 gatos domésticos. Durante una venta, vendieron 15 gatos. ¿Cuántos gatos les quedan?",
+    "lAlignments": [17, 37, 76],
+    "lSolutions": [54.0],
+    "lEquations": ["x = ( ( 41.0 + 28.0 ) - 15.0 )"]
+  },
+  {
+    "iIndex": 50,
+    "sQuestion": "En la feria del libro de la escuela, Sam compró 13 libros de aventuras y 17 libros de misterio. Si 15 de los libros eran usados, ¿cuántos libros nuevos compró?",
+    "lAlignments": [37, 60, 81],
+    "lSolutions": [15.0],
+    "lEquations": ["x = ( ( 13.0 + 17.0 ) - 15.0 )"]
+  },
+  {
+    "iIndex": 51,
+    "sQuestion": "Amy tenía 26 archivos de música y 36 archivos de video en su memoria USB. Si eliminó 48 de los archivos, ¿cuántos archivos le quedaron en su memoria USB?",
+    "lAlignments": [9, 28, 78],
+    "lSolutions": [14.0],
+    "lEquations": ["x = ( ( 26.0 + 36.0 ) - 48.0 )"]
+  },
+  {
+    "iIndex": 52,
+    "sQuestion": "Oliver tenía 35 dólares. Para su cumpleaños recibió 50 dólares más, pero gastó 84 en un juego nuevo. ¿Cuánto dinero tiene ahora?",
+    "lAlignments": [12, 48, 74],
+    "lSolutions": [1.0],
+    "lEquations": ["x = ( ( 35.0 + 50.0 ) - 84.0 )"]
+  },
+  {
+    "iIndex": 53,
+    "sQuestion": "Emily estaba jugando a un juego de trivia. En la primera ronda anotó 16 puntos y en la segunda ronda anotó 33 puntos. En la última ronda perdió 48 puntos. ¿Cuántos puntos tenía al final del juego?",
+    "lAlignments": [64, 109, 147],
+    "lSolutions": [1.0],
+    "lEquations": ["x = ( ( 16.0 + 33.0 ) - 48.0 )"]
+  },
+  {
+    "iIndex": 54,
+    "sQuestion": "Paige tenía 43 problemas de matemáticas y 12 problemas de ciencias para la tarea. Si terminó 44 de los problemas en la escuela, ¿cuántos problemas le quedaban por hacer para la tarea?",
+    "lAlignments": [11, 32, 82],
+    "lSolutions": [11.0],
+    "lEquations": ["x = ( ( 43.0 + 12.0 ) - 44.0 )"]
+  },
+  {
+    "iIndex": 55,
+    "sQuestion": "La cafetería de la escuela pidió 33 manzanas rojas y 23 manzanas verdes para los almuerzos de los estudiantes. Pero, si solo 21 estudiantes querían fruta, ¿cuántas manzanas adicionales quedaron en la cafetería?",
+    "lAlignments": [30, 48, 99],
+    "lSolutions": [35.0],
+    "lEquations": ["x = ( ( 33.0 + 23.0 ) - 21.0 )"]
+  },
+  {
+    "iIndex": 56,
+    "sQuestion": "Dave tenía que lavar 9 camisetas de manga corta y 27 camisetas de manga larga antes de la escuela. Si solo lavó 20 de ellas para cuando comenzó la escuela, ¿cuántas no lavó?",
+    "lAlignments": [18, 44, 103],
+    "lSolutions": [16.0],
+    "lEquations": ["x = ( ( 9.0 + 27.0 ) - 20.0 )"]
+  },
+  {
+    "iIndex": 57,
+    "sQuestion": "Mientras estaba de vacaciones, Rachel tomó 6 fotos en el zoológico y 9 en el museo. Si luego eliminó 11 de las fotos, ¿cuántas fotos de sus vacaciones le quedaban?",
+    "lAlignments": [32, 58, 96],
+    "lSolutions": [4.0],
+    "lEquations": ["x = ( ( 6.0 + 9.0 ) - 11.0 )"]
+  },
+  {
+    "iIndex": 58,
+    "sQuestion": "Vanessa y su mamá estaban recogiendo zanahorias de su jardín. Vanessa recogió 17 y su madre recogió 14. Si solo 24 de las zanahorias estaban en buen estado, ¿cuántas zanahorias en mal estado tenían?",
+    "lAlignments": [76, 101, 113],
+    "lSolutions": [7.0],
+    "lEquations": ["x = ( ( 17.0 + 14.0 ) - 24.0 )"]
+  },
+  {
+    "iIndex": 59,
+    "sQuestion": "Una tienda de mascotas tenía 41 gatos siameses y 28 gatos domésticos. Durante una venta, vendieron 15 gatos. ¿Cuántos gatos les quedan?",
+    "lAlignments": [17, 37, 76],
+    "lSolutions": [54.0],
+    "lEquations": ["x = ( ( 41.0 + 28.0 ) - 15.0 )"]
+  },
+  {
+    "iIndex": 60,
+    "sQuestion": "Janet recogió 4 tulipanes y 11 rosas para hacer ramos de flores. Sin embargo, solo usó 11 de las flores. ¿Cuántas flores adicionales recogió Janet?",
+    "lAlignments": [14, 27, 78],
+    "lSolutions": [4.0],
+    "lEquations": ["x = ( ( 4.0 + 11.0 ) - 11.0 )"]
+  },
+  {
+    "iIndex": 61,
+    "sQuestion": "Vanessa tenía 13 archivos de música y 30 archivos de video en su memoria USB. Si eliminó 10 de los archivos, ¿cuántos archivos le quedaron en su memoria USB?",
+    "lAlignments": [13, 32, 82],
+    "lSolutions": [33.0],
+    "lEquations": ["x = ( ( 13.0 + 30.0 ) - 10.0 )"]
+  },
+  {
+    "iIndex": 62,
+    "sQuestion": "Debby compró dos libros para colorear. Uno tenía 16 imágenes y el otro tenía 40. Después de una semana, ya había coloreado 33 de las imágenes. ¿Cuántas imágenes le quedan por colorear a Debby?",
+    "lAlignments": [42, 72, 115],
+    "lSolutions": [23.0],
+    "lEquations": ["x = ( ( 16.0 + 40.0 ) - 33.0 )"]
+  },
+  {
+    "iIndex": 63,
+    "sQuestion": "La cafetería de la escuela pidió 8 manzanas rojas y 43 manzanas verdes para los almuerzos de los estudiantes. Pero, si solo 42 estudiantes querían fruta, ¿cuántas manzanas adicionales quedaron en la cafetería?",
+    "lAlignments": [30, 47, 98],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ( ( 8.0 + 43.0 ) - 42.0 )"]
+  },
+  {
+    "iIndex": 64,
+    "sQuestion": "Edward comenzó su propio negocio de cortar césped. En la primavera ganó 2 dólares cortando céspedes y en el verano ganó 27 dólares. Si tuvo que gastar 5 dólares en comprar suministros, ¿cuánto dinero terminó teniendo?",
+    "lAlignments": [68, 117, 148],
+    "lSolutions": [24.0],
+    "lEquations": ["x = ( ( 2.0 + 27.0 ) - 5.0 )"]
+  },
+  {
+    "iIndex": 65,
+    "sQuestion": "Una tienda de mascotas tenía 36 gatos siameses y 18 gatos domésticos. Durante una venta, vendieron 26 gatos. ¿Cuántos gatos les quedan?",
+    "lAlignments": [17, 37, 76],
+    "lSolutions": [28.0],
+    "lEquations": ["x = ( ( 36.0 + 18.0 ) - 26.0 )"]
+  },
+  {
+    "iIndex": 66,
+    "sQuestion": "Olivia y su mamá estaban recogiendo zanahorias de su jardín. Olivia recogió 20 y su madre recogió 14. Si solo 19 de las zanahorias estaban en buen estado, ¿cuántas zanahorias en mal estado tenían?",
+    "lAlignments": [74, 99, 111],
+    "lSolutions": [15.0],
+    "lEquations": ["x = ( ( 20.0 + 14.0 ) - 19.0 )"]
+  },
+  {
+    "iIndex": 67,
+    "sQuestion": "George tenía 30 dólares. Para su cumpleaños recibió 16 dólares adicionales, pero gastó 38 dólares en un juego nuevo. ¿Cuánto dinero tiene ahora?",
+    "lAlignments": [12, 48, 74],
+    "lSolutions": [8.0],
+    "lEquations": ["x = ( ( 30.0 + 16.0 ) - 38.0 )"]
+  },
+  {
+    "iIndex": 68,
+    "sQuestion": "Había 6 niñas y 48 niños que se presentaron a las pruebas para el equipo de baloncesto de la escuela. Si solo 7 de ellos fueron llamados de regreso, ¿cuántos estudiantes no pasaron la selección?",
+    "lAlignments": [12, 24, 84],
+    "lSolutions": [47.0],
+    "lEquations": ["x = ( ( 6.0 + 48.0 ) - 7.0 )"]
+  },
+  {
+    "iIndex": 69,
+    "sQuestion": "Para la venta de pasteles de la escuela, Amy hizo pasteles. Horneó 15 cupcakes y 48 galletas. Después de la venta, tenía 12 para llevar a casa. ¿Cuántos pasteles vendió Amy?",
+    "lAlignments": [55, 71, 106],
+    "lSolutions": [51.0],
+    "lEquations": ["x = ( ( 15.0 + 48.0 ) - 12.0 )"]
+  },
+  {
+    "iIndex": 70,
+    "sQuestion": "En la feria del libro de la escuela, Victor compró 32 libros de aventuras y 37 libros de misterio. Si 16 de los libros eran usados, ¿cuántos libros nuevos compró?",
+    "lAlignments": [40, 63, 84],
+    "lSolutions": [53.0],
+    "lEquations": ["x = ( ( 32.0 + 37.0 ) - 16.0 )"]
+  },
+  {
+    "iIndex": 72,
+    "sQuestion": "La cafetería de la escuela ordenó 37 manzanas rojas y 45 manzanas verdes para los almuerzos de los estudiantes. Pero, si solo 51 estudiantes querían fruta, ¿cuántas manzanas adicionales le quedaron a la cafetería?",
+    "lAlignments": [30, 48, 99],
+    "lSolutions": [31.0],
+    "lEquations": ["x = ( ( 37.0 + 45.0 ) - 51.0 )"]
+  },
+  {
+    "iIndex": 73,
+    "sQuestion": "Mientras hacía compras, María compró 35 toallas verdes y 21 toallas blancas. Si le dio 34 de ellas a su madre, ¿cuántas toallas le quedaron a María?",
+    "lAlignments": [30, 50, 90],
+    "lSolutions": [22.0],
+    "lEquations": ["x = ( ( 35.0 + 21.0 ) - 34.0 )"]
+  },
+  {
+    "iIndex": 74,
+    "sQuestion": "Había 17 niñas y 32 niños que se presentaron a las pruebas para el equipo de baloncesto de la escuela. Si solo 10 de ellos fueron llamados de regreso, ¿cuántos estudiantes no pasaron la selección?",
+    "lAlignments": [12, 25, 85],
+    "lSolutions": [39.0],
+    "lEquations": ["x = ( ( 17.0 + 32.0 ) - 10.0 )"]
+  },
+  {
+    "iIndex": 75,
+    "sQuestion": "Nancy y su mamá estaban recogiendo zanahorias de su jardín. Nancy recogió 38 y su madre recogió 47. Si solo 71 de las zanahorias estaban en buen estado, ¿cuántas zanahorias en mal estado tenían?",
+    "lAlignments": [72, 97, 109],
+    "lSolutions": [14.0],
+    "lEquations": ["x = ( ( 38.0 + 47.0 ) - 71.0 )"]
+  },
+  {
+    "iIndex": 76,
+    "sQuestion": "Un camarero en el restaurante 'The Greasy Spoon' tenía 29 clientes para atender. Durante la hora del almuerzo, se sumaron otros 20 clientes. Si 34 de los clientes no le dejaron propina, ¿cuántos clientes sí dejaron propina?",
+    "lAlignments": [47, 111, 128],
+    "lSolutions": [15.0],
+    "lEquations": ["x = ( ( 29.0 + 20.0 ) - 34.0 )"]
+  },
+  {
+    "iIndex": 77,
+    "sQuestion": "Tom tenía que lavar 10 camisas de manga corta y 25 camisas de manga larga antes de la escuela. Si solo lavó 5 de ellas antes de que comenzara la escuela, ¿cuántas no lavó?",
+    "lAlignments": [17, 44, 103],
+    "lSolutions": [30.0],
+    "lEquations": ["x = ( ( 10.0 + 25.0 ) - 5.0 )"]
+  },
+  {
+    "iIndex": 78,
+    "sQuestion": "Vanessa tenía 16 archivos de música y 48 archivos de video en su memoria USB. Si eliminó 30 de los archivos, ¿cuántos archivos le quedaron en su memoria USB?",
+    "lAlignments": [13, 32, 82],
+    "lSolutions": [34.0],
+    "lEquations": ["x = ( ( 16.0 + 48.0 ) - 30.0 )"]
+  },
+  {
+    "iIndex": 79,
+    "sQuestion": "Kaleb comenzó su propio negocio de cortar césped. En la primavera ganó 4 dólares cortando céspedes y en el verano ganó 50 dólares. Si tuvo que gastar 4 dólares en comprar suministros, ¿cuánto dinero terminó teniendo?",
+    "lAlignments": [67, 116, 147],
+    "lSolutions": [50.0],
+    "lEquations": ["x = ( ( 4.0 + 50.0 ) - 4.0 )"]
+  },
+  {
+    "iIndex": 80,
+    "sQuestion": "La cafetería de la escuela ordenó 6 manzanas rojas y 15 manzanas verdes para los almuerzos de los estudiantes. Pero, si solo 5 estudiantes querían fruta, ¿cuántas manzanas adicionales le quedaron a la cafetería?",
+    "lAlignments": [30, 47, 98],
+    "lSolutions": [16.0],
+    "lEquations": ["x = ( ( 6.0 + 15.0 ) - 5.0 )"]
+  },
+  {
+    "iIndex": 81,
+    "sQuestion": "Bianca recogió 39 tulipanes y 49 rosas para hacer ramos de flores. Sin embargo, solo usó 81 de las flores. ¿Cuántas flores adicionales recogió Bianca?",
+    "lAlignments": [15, 29, 80],
+    "lSolutions": [7.0],
+    "lEquations": ["x = ( ( 39.0 + 49.0 ) - 81.0 )"]
+  },
+  {
+    "iIndex": 82,
+    "sQuestion": "Mientras estaba de vacaciones, Nancy tomó 49 fotos en el zoológico y 8 en el museo. Si luego eliminó 38 de las fotos, ¿cuántas fotos de sus vacaciones le quedaron?",
+    "lAlignments": [31, 58, 96],
+    "lSolutions": [19.0],
+    "lEquations": ["x = ( ( 49.0 + 8.0 ) - 38.0 )"]
+  },
+  {
+    "iIndex": 83,
+    "sQuestion": "Gwen tenía 18 problemas de matemáticas y 11 problemas de ciencias para la tarea. Si terminó 24 de los problemas en la escuela, ¿cuántos problemas le quedaron por hacer para la tarea?",
+    "lAlignments": [10, 31, 81],
+    "lSolutions": [5.0],
+    "lEquations": ["x = ( ( 18.0 + 11.0 ) - 24.0 )"]
+  },
+  {
+    "iIndex": 84,
+    "sQuestion": "Para Halloween, Katie y su hermana combinaron los caramelos que recibieron. Katie tenía 10 piezas de caramelo mientras que su hermana tenía 6. Si comieron 9 piezas la primera noche, ¿cuántas piezas les quedan?",
+    "lAlignments": [80, 120, 135],
+    "lSolutions": [7.0],
+    "lEquations": ["x = ( ( 10.0 + 6.0 ) - 9.0 )"]
+  },
+  {
+    "iIndex": 85,
+    "sQuestion": "Una tienda de mascotas tenía 15 gatos siameses y 49 gatos comunes. Durante una venta, vendieron 19 gatos. ¿Cuántos gatos les quedan?",
+    "lAlignments": [17, 37, 76],
+    "lSolutions": [45.0],
+    "lEquations": ["x = ( ( 15.0 + 49.0 ) - 19.0 )"]
+  },
+  {
+    "iIndex": 86,
+    "sQuestion": "Había 9 niñas y 14 niños que intentaron unirse al equipo de baloncesto de la escuela. Si solo 2 de ellos fueron llamados de regreso, ¿cuántos estudiantes no lo lograron?",
+    "lAlignments": [12, 24, 84],
+    "lSolutions": [21.0],
+    "lEquations": ["x = ( ( 9.0 + 14.0 ) - 2.0 )"]
+  },
+  {
+    "iIndex": 87,
+    "sQuestion": "Haley tenía 27 archivos de música y 42 archivos de video en su memoria USB. Si eliminó 11 de los archivos, ¿cuántos archivos le quedaron en su memoria USB?",
+    "lAlignments": [11, 30, 80],
+    "lSolutions": [58.0],
+    "lEquations": ["x = ( ( 27.0 + 42.0 ) - 11.0 )"]
+  },
+  {
+    "iIndex": 88,
+    "sQuestion": "Mientras hacía compras, María compró 40 toallas verdes y 44 toallas blancas. Si le dio 65 de ellas a su madre, ¿cuántas toallas le quedaron a María?",
+    "lAlignments": [30, 50, 90],
+    "lSolutions": [19.0],
+    "lEquations": ["x = ( ( 40.0 + 44.0 ) - 65.0 )"]
+  },
+  {
+    "iIndex": 89,
+    "sQuestion": "Un camarero en el restaurante 'The Greasy Spoon' tenía 39 clientes para atender. Durante la hora del almuerzo, se sumaron otros 12 clientes. Si 49 de los clientes no le dejaron propina, ¿cuántos clientes dejaron propina?",
+    "lAlignments": [47, 111, 128],
+    "lSolutions": [2.0],
+    "lEquations": ["x = ( ( 39.0 + 12.0 ) - 49.0 )"]
+  },
+  {
+    "iIndex": 90,
+    "sQuestion": "Una tienda de mascotas tenía 19 gatos siameses y 45 gatos comunes. Durante una venta, vendieron 56 gatos. ¿Cuántos gatos les quedan?",
+    "lAlignments": [17, 37, 76],
+    "lSolutions": [8.0],
+    "lEquations": ["x = ( ( 19.0 + 45.0 ) - 56.0 )"]
+  },
+  {
+    "iIndex": 91,
+    "sQuestion": "Un camarero en el restaurante 'The Greasy Spoon' tenía 26 clientes para atender. Durante la hora del almuerzo, se sumaron otros 27 clientes. Si 27 de los clientes no le dejaron propina, ¿cuántos clientes dejaron propina?",
+    "lAlignments": [47, 111, 128],
+    "lSolutions": [26.0],
+    "lEquations": ["x = ( ( 26.0 + 27.0 ) - 27.0 )"]
+  },
+  {
+    "iIndex": 92,
+    "sQuestion": "Rachel compró dos libros para colorear. Uno tenía 24 imágenes y el otro tenía 39. Después de una semana, ya había coloreado 4 de las imágenes. ¿Cuántas imágenes le quedan por colorear?",
+    "lAlignments": [43, 73, 116],
+    "lSolutions": [59.0],
+    "lEquations": ["x = ( ( 24.0 + 39.0 ) - 4.0 )"]
+  },
+  {
+    "iIndex": 93,
+    "sQuestion": "Mientras hacía compras, Emily compró 5 toallas verdes y 30 toallas blancas. Si le dio 26 de ellas a su madre, ¿cuántas toallas le quedaron a Emily?",
+    "lAlignments": [30, 49, 89],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ( ( 5.0 + 30.0 ) - 26.0 )"]
+  },
+  {
+    "iIndex": 94,
+    "sQuestion": "Para Halloween, Katie y su hermana combinaron los caramelos que recibieron. Katie tenía 8 piezas de caramelo mientras que su hermana tenía 23. Si comieron 8 piezas la primera noche, ¿cuántas piezas les quedan?",
+    "lAlignments": [80, 119, 135],
+    "lSolutions": [23.0],
+    "lEquations": ["x = ( ( 8.0 + 23.0 ) - 8.0 )"]
+  },
+  {
+    "iIndex": 95,
+    "sQuestion": "Ned estaba tratando de ampliar su colección de juegos. Compró 50 juegos a un amigo y compró 27 más en una venta de garaje. Si 74 de los juegos no funcionaban, ¿cuántos juegos buenos obtuvo al final?",
+    "lAlignments": [57, 91, 120],
+    "lSolutions": [3.0],
+    "lEquations": ["x = ( ( 50.0 + 27.0 ) - 74.0 )"]
+  },
+  {
+    "iIndex": 96,
+    "sQuestion": "Para la venta de pasteles de la escuela, Wendy hizo pasteles. Horneó 41 cupcakes y 31 galletas. Después de la venta, tenía 32 para llevar a casa. ¿Cuántos pasteles vendió Wendy?",
+    "lAlignments": [57, 73, 108],
+    "lSolutions": [40.0],
+    "lEquations": ["x = ( ( 41.0 + 31.0 ) - 32.0 )"]
+  },
+  {
+    "iIndex": 97,
+    "sQuestion": "La cafetería de la escuela ordenó 25 manzanas rojas y 17 manzanas verdes para el almuerzo de los estudiantes. Sin embargo, solo 10 estudiantes querían fruta. ¿Cuántas manzanas extras tenía la cafetería al final?",
+    "lAlignments": [30, 48, 99],
+    "lSolutions": [32.0],
+    "lEquations": ["x = ( ( 25.0 + 17.0 ) - 10.0 )"]
+  },
+  {
+    "iIndex": 98,
+    "sQuestion": "En la sala de juegos, Jerry ganó 29 boletos jugando 'Whack a Mole' y 17 boletos jugando 'Skee Ball'. Si gastó 12 de sus boletos en un sombrero, ¿cuántos boletos le quedan a Jerry?",
+    "lAlignments": [26, 64, 108],
+    "lSolutions": [34.0],
+    "lEquations": ["x = ( ( 29.0 + 17.0 ) - 12.0 )"]
+  },
+  {
+    "iIndex": 99,
+    "sQuestion": "Cody tenía 45 dólares. Para su cumpleaños recibió 9 dólares más pero gastó 19 en un juego nuevo. ¿Cuánto dinero tiene ahora Cody?",
+    "lAlignments": [10, 46, 71],
+    "lSolutions": [35.0],
+    "lEquations": ["x = ( ( 45.0 + 9.0 ) - 19.0 )"]
+  },
+  {
+    "iIndex": 100,
+    "sQuestion": "Para la venta de pasteles de la escuela, Carol hizo 30 cupcakes. Si vendió 9 de ellos y luego hizo 28 más, ¿cuántos cupcakes tendría Carol?",
+    "lAlignments": [37, 86, 62],
+    "lSolutions": [49.0],
+    "lEquations": ["x = ( ( 30.0 + 28.0 ) - 9.0 )"]
+  },
+  {
+    "iIndex": 101,
+    "sQuestion": "Para Halloween, Faye obtuvo 47 piezas de caramelo. Se comió 25 piezas la primera noche y luego su hermana le dio 40 piezas más. ¿Cuántas piezas de caramelo tiene Faye ahora?",
+    "lAlignments": [27, 110, 55],
+    "lSolutions": [62.0],
+    "lEquations": ["x = ( ( 47.0 + 40.0 ) - 25.0 )"]
+  },
+  {
+    "iIndex": 102,
+    "sQuestion": "Kaleb tenía 34 libros. Si vendió 17 de ellos y usó el dinero que ganó para comprar 7 libros nuevos, ¿cuántos libros tendría Kaleb?",
+    "lAlignments": [11, 79, 32],
+    "lSolutions": [24.0],
+    "lEquations": ["x = ( ( 34.0 + 7.0 ) - 17.0 )"]
+  },
+  {
+    "iIndex": 103,
+    "sQuestion": "En cuarto grado, al comienzo del año había 10 estudiantes. Durante el año, 4 estudiantes se fueron y 42 nuevos estudiantes llegaron a la escuela. ¿Cuántos estudiantes había en cuarto grado al final?",
+    "lAlignments": [28, 102, 82],
+    "lSolutions": [48.0],
+    "lEquations": ["x = ( ( 10.0 + 42.0 ) - 4.0 )"]
+  },
+  {
+    "iIndex": 104,
+    "sQuestion": "Oliver tenía 33 dólares en enero. En marzo, gastó 4 dólares. Si luego recibió otros 32 dólares de su mamá, ¿cuánto dinero tendría ahora?",
+    "lAlignments": [12, 86, 57],
+    "lSolutions": [61.0],
+    "lEquations": ["x = ( ( 33.0 + 32.0 ) - 4.0 )"]
+  },
+  {
+    "iIndex": 105,
+    "sQuestion": "Una florista tenía 37 rosas. Si vendió 16 de ellas y luego recogió 19 más, ¿cuántas rosas tendría en total?",
+    "lAlignments": [15, 70, 37],
+    "lSolutions": [40.0],
+    "lEquations": ["x = ( ( 37.0 + 19.0 ) - 16.0 )"]
+  },
+  {
+    "iIndex": 106,
+    "sQuestion": "Un maestro tenía 6 hojas de trabajo para calificar. Si calificó 4 de ellas, pero luego se entregaron otras 18, ¿cuántas hojas de trabajo tendría que calificar?",
+    "lAlignments": [15, 72, 52],
+    "lSolutions": [20.0],
+    "lEquations": ["x = ( ( 6.0 + 18.0 ) - 4.0 )"]
+  },
+  {
+    "iIndex": 107,
+    "sQuestion": "Una tienda tenía 41 libros en la sección de ofertas. Si vendieron 33 libros, pero luego pusieron 2 más en la sección, ¿cuántos libros habría en la sección de ofertas?",
+    "lAlignments": [18, 82, 59],
+    "lSolutions": [10.0],
+    "lEquations": ["x = ( ( 41.0 + 2.0 ) - 33.0 )"]
+  },
+  {
+    "iIndex": 108,
+    "sQuestion": "Un camarero tenía 19 clientes para atender. Si 14 clientes se fueron y recibió otros 36 clientes, ¿cuántos clientes tendría?",
+    "lAlignments": [14, 79, 42],
+    "lSolutions": [41.0],
+    "lEquations": ["x = ( ( 19.0 + 36.0 ) - 14.0 )"]
+  },
+  {
+    "iIndex": 109,
+    "sQuestion": "En la feria, había 9 personas en la fila de los autos chocones. Si 6 de ellos se cansaron de esperar y se fueron, y otras 3 se unieron a la fila, ¿cuántas personas estarían en la fila?",
+    "lAlignments": [24, 109, 65],
+    "lSolutions": [6.0],
+    "lEquations": ["x = ( ( 9.0 + 3.0 ) - 6.0 )"]
+  },
+  {
+    "iIndex": 110,
+    "sQuestion": "Un maestro tenía 7 hojas de trabajo para calificar. Si calificó 2, pero luego recibió otras 46 hojas de trabajo para calificar, ¿cuántas hojas de trabajo tendría que calificar?",
+    "lAlignments": [15, 72, 52],
+    "lSolutions": [51.0],
+    "lEquations": ["x = ( ( 7.0 + 46.0 ) - 2.0 )"]
+  },
+  {
+    "iIndex": 111,
+    "sQuestion": "Paige tenía 8 canciones en su reproductor de MP3. Si eliminó 5 canciones antiguas y luego agregó 30 canciones nuevas, ¿cuántas canciones tendría en su reproductor de MP3?",
+    "lAlignments": [11, 88, 53],
+    "lSolutions": [33.0],
+    "lEquations": ["x = ( ( 8.0 + 30.0 ) - 5.0 )"]
+  },
+  {
+    "iIndex": 112,
+    "sQuestion": "Maria recogió 48 zanahorias de su jardín. Si tiró 11 de ellas y luego recogió 15 más al día siguiente, ¿cuántas zanahorias tendría en total?",
+    "lAlignments": [14, 86, 59],
+    "lSolutions": [52.0],
+    "lEquations": ["x = ( ( 48.0 + 15.0 ) - 11.0 )"]
+  },
+  {
+    "iIndex": 113,
+    "sQuestion": "Una tienda tenía 34 naranjas en un recipiente. Si tiraron 20 de las viejas y pusieron 13 nuevas en el recipiente, ¿cuántas naranjas habría en el recipiente?",
+    "lAlignments": [13, 80, 53],
+    "lSolutions": [27.0],
+    "lEquations": ["x = ( ( 34.0 + 13.0 ) - 20.0 )"]
+  },
+  {
+    "iIndex": 114,
+    "sQuestion": "Un camarero tenía 47 clientes para atender. Si 41 clientes se fueron y recibió otros 20 clientes, ¿cuántos clientes tendría?",
+    "lAlignments": [14, 79, 42],
+    "lSolutions": [26.0],
+    "lEquations": ["x = ( ( 47.0 + 20.0 ) - 41.0 )"]
+  },
+  {
+    "iIndex": 115,
+    "sQuestion": "En cuarto grado, al comienzo del año había 33 estudiantes. Durante el año, 18 estudiantes se fueron y 14 estudiantes nuevos llegaron a la escuela. ¿Cuántos estudiantes había en cuarto grado al final?",
+    "lAlignments": [28, 103, 82],
+    "lSolutions": [29.0],
+    "lEquations": ["x = ( ( 33.0 + 14.0 ) - 18.0 )"]
+  },
+  {
+    "iIndex": 116,
+    "sQuestion": "Para la venta de pasteles de la escuela, Katie hizo 26 cupcakes. Si vendió 20 de ellos y luego hizo 20 más, ¿cuántos cupcakes tendría?",
+    "lAlignments": [37, 87, 62],
+    "lSolutions": [26.0],
+    "lEquations": ["x = ( ( 26.0 + 20.0 ) - 20.0 )"]
+  },
+  {
+    "iIndex": 117,
+    "sQuestion": "Adam tenía 5 dólares. En la tienda gastó $2 en un nuevo juego. Si luego recibió otros 5 dólares como suallowance, ¿cuánto dinero tiene ahora?",
+    "lAlignments": [10, 79, 44],
+    "lSolutions": [8.0],
+    "lEquations": ["x = ( ( 5.0 + 5.0 ) - 2.0 )"]
+  },
+  {
+    "iIndex": 118,
+    "sQuestion": "Tiffany estaba jugando un videojuego y tenía 43 vidas. En una parte difícil del juego, perdió 14 vidas. Si obtuvo 27 vidas más en el siguiente nivel, ¿cuántas vidas tendría?",
+    "lAlignments": [42, 109, 88],
+    "lSolutions": [56.0],
+    "lEquations": ["x = ( ( 43.0 + 27.0 ) - 14.0 )"]
+  },
+  {
+    "iIndex": 119,
+    "sQuestion": "En la feria, había 12 personas en la fila para los autos chocones. Si 10 de ellas se cansaron de esperar y se fueron y 15 más se unieron a la fila, ¿cuántas personas estarían en la fila?",
+    "lAlignments": [24, 111, 66],
+    "lSolutions": [17.0],
+    "lEquations": ["x = ( ( 12.0 + 15.0 ) - 10.0 )"]
+  },
+  {
+    "iIndex": 120,
+    "sQuestion": "Un camarero tenía 14 clientes para atender. Si 3 clientes se fueron y recibió otros 39 clientes, ¿cuántos clientes tendría?",
+    "lAlignments": [14, 78, 42],
+    "lSolutions": [50.0],
+    "lEquations": ["x = ( ( 14.0 + 39.0 ) - 3.0 )"]
+  },
+  {
+    "iIndex": 121,
+    "sQuestion": "En la feria, había 30 personas en la fila para los autos chocones. Si 10 de ellas se cansaron de esperar y se fueron y 5 más se unieron a la fila, ¿cuántas personas estarían en la fila?",
+    "lAlignments": [24, 111, 66],
+    "lSolutions": [25.0],
+    "lEquations": ["x = ( ( 30.0 + 5.0 ) - 10.0 )"]
+  },
+  {
+    "iIndex": 122,
+    "sQuestion": "Faye tenía 34 libros para colorear. Si regaló 3 de ellos, pero luego compró 48 más, ¿cuántos tendría en total?",
+    "lAlignments": [10, 73, 46],
+    "lSolutions": [79.0],
+    "lEquations": ["x = ( ( 34.0 + 48.0 ) - 3.0 )"]
+  },
+  {
+    "iIndex": 123,
+    "sQuestion": "Paige tenía 11 canciones en su reproductor de MP3. Si eliminó 9 canciones antiguas y luego agregó 8 canciones nuevas, ¿cuántas canciones tiene en su reproductor de MP3?",
+    "lAlignments": [11, 89, 54],
+    "lSolutions": [10.0],
+    "lEquations": ["x = ( ( 11.0 + 8.0 ) - 9.0 )"]
+  },
+  {
+    "iIndex": 124,
+    "sQuestion": "Un profesor tenía 38 hojas de trabajo para calificar. Si calificó 4, pero luego le entregaron otras 15 hojas de trabajo para calificar, ¿cuántas hojas de trabajo tendría que calificar?",
+    "lAlignments": [15, 73, 53],
+    "lSolutions": [49.0],
+    "lEquations": ["x = ( ( 38.0 + 15.0 ) - 4.0 )"]
+  },
+  {
+    "iIndex": 125,
+    "sQuestion": "En cuarto grado, había 40 estudiantes al comienzo del año. Durante el año, 14 estudiantes se fueron y 26 estudiantes nuevos llegaron a la escuela. ¿Cuántos estudiantes había en cuarto grado al final?",
+    "lAlignments": [28, 103, 82],
+    "lSolutions": [52.0],
+    "lEquations": ["x = ( ( 40.0 + 26.0 ) - 14.0 )"]
+  },
+  {
+    "iIndex": 126,
+    "sQuestion": "Wendy estaba jugando un videojuego y tenía 43 vidas. En una parte difícil del juego, perdió 8 vidas. Si obtuvo 39 vidas más en el siguiente nivel, ¿cuántas vidas tendría?",
+    "lAlignments": [40, 106, 86],
+    "lSolutions": [74.0],
+    "lEquations": ["x = ( ( 43.0 + 39.0 ) - 8.0 )"]
+  },
+  {
+    "iIndex": 127,
+    "sQuestion": "Una tienda tenía 4 libros en la sección de ofertas. Si vendieron 3 libros, pero luego pusieron 10 más en la sección de ofertas, ¿cuántos libros habría en la sección de ofertas?",
+    "lAlignments": [18, 80, 58],
+    "lSolutions": [11.0],
+    "lEquations": ["x = ( ( 4.0 + 10.0 ) - 3.0 )"]
+  },
+  {
+    "iIndex": 128,
+    "sQuestion": "En la sala de juegos, Cody ganó 49 boletos. Si gastó 25 boletos en un gorro y luego ganó 6 boletos más, ¿cuántos boletos tendría?",
+    "lAlignments": [24, 85, 48],
+    "lSolutions": [30.0],
+    "lEquations": ["x = ( ( 49.0 + 6.0 ) - 25.0 )"]
+  },
+  {
+    "iIndex": 129,
+    "sQuestion": "Para la venta de pasteles de la escuela, Bianca hizo 14 cupcakes. Si vendió 6 de ellos y luego hizo 17 más, ¿cuántos cupcakes tendría?",
+    "lAlignments": [38, 87, 63],
+    "lSolutions": [25.0],
+    "lEquations": ["x = ( ( 14.0 + 17.0 ) - 6.0 )"]
+  },
+  {
+    "iIndex": 130,
+    "sQuestion": "Bianca tenía 45 libros para colorear. Si regaló 6 de ellos, pero luego compró 20 más, ¿cuántos tendría en total?",
+    "lAlignments": [12, 75, 48],
+    "lSolutions": [59.0],
+    "lEquations": ["x = ( ( 45.0 + 20.0 ) - 6.0 )"]
+  },
+  {
+    "iIndex": 131,
+    "sQuestion": "Zoe tenía 15 canciones en su reproductor de MP3. Si eliminó 8 canciones antiguas y luego agregó 50 canciones nuevas, ¿cuántas canciones tendría en su reproductor de MP3?",
+    "lAlignments": [9, 87, 52],
+    "lSolutions": [57.0],
+    "lEquations": ["x = ( ( 15.0 + 50.0 ) - 8.0 )"]
+  },
+  {
+    "iIndex": 132,
+    "sQuestion": "En la sala de juegos, Jerry ganó 4 boletos. Si gastó 2 boletos en un gorro y luego ganó 47 boletos más, ¿cuántos boletos tendría?",
+    "lAlignments": [25, 84, 48],
+    "lSolutions": [49.0],
+    "lEquations": ["x = ( ( 4.0 + 47.0 ) - 2.0 )"]
+  },
+  {
+    "iIndex": 133,
+    "sQuestion": "Una tienda tenía 31 naranjas en un recipiente. Si tiraron 9 de las viejas y pusieron 38 nuevas en el recipiente, ¿cuántas naranjas habría en el recipiente?",
+    "lAlignments": [13, 79, 53],
+    "lSolutions": [60.0],
+    "lEquations": ["x = ( ( 31.0 + 38.0 ) - 9.0 )"]
+  },
+  {
+    "iIndex": 134,
+    "sQuestion": "Adam tenía 33 libros. Si vendió 11 de ellos y usó el dinero que ganó para comprar 23 libros nuevos, ¿cuántos libros tendría Adam?",
+    "lAlignments": [10, 78, 31],
+    "lSolutions": [45.0],
+    "lEquations": ["x = ( ( 33.0 + 23.0 ) - 11.0 )"]
+  },
+  {
+    "iIndex": 135,
+    "sQuestion": "En la feria, había 10 personas en la fila de los autos chocones. Si 2 de ellas se cansaron de esperar y se fueron y otras 2 se unieron a la fila, ¿cuántas personas estarían en la fila?",
+    "lAlignments": [24, 110, 66],
+    "lSolutions": [10.0],
+    "lEquations": ["x = ( ( 10.0 + 2.0 ) - 2.0 )"]
+  },
+  {
+    "iIndex": 136,
+    "sQuestion": "La cafetería de la escuela tenía 38 manzanas. Si usaron 20 para hacer el almuerzo de los estudiantes y luego compraron 28 más, ¿cuántas manzanas tendrían?",
+    "lAlignments": [26, 100, 50],
+    "lSolutions": [46.0],
+    "lEquations": ["x = ( ( 38.0 + 28.0 ) - 20.0 )"]
+  },
+  {
+    "iIndex": 137,
+    "sQuestion": "George tenía 28 calcetines. Si tiró 4 de los antiguos que ya no le quedaban bien y compró 36 nuevos, ¿cuántos calcetines tendría?",
+    "lAlignments": [12, 77, 39],
+    "lSolutions": [60.0],
+    "lEquations": ["x = ( ( 28.0 + 36.0 ) - 4.0 )"]
+  },
+  {
+    "iIndex": 138,
+    "sQuestion": "Para Halloween, Robin consiguió 23 piezas de dulces. Se comió 7 piezas la primera noche y luego su hermana le dio 21 piezas más. ¿Cuántas piezas de dulces tiene Robin ahora?",
+    "lAlignments": [28, 110, 56],
+    "lSolutions": [37.0],
+    "lEquations": ["x = ( ( 23.0 + 21.0 ) - 7.0 )"]
+  },
+  {
+    "iIndex": 139,
+    "sQuestion": "Rachel estaba jugando un videojuego y tenía 10 vidas. En una parte difícil del juego, perdió 4 vidas. Si obtuvo 26 vidas más en el siguiente nivel, ¿cuántas vidas tendría?",
+    "lAlignments": [41, 107, 87],
+    "lSolutions": [32.0],
+    "lEquations": ["x = ( ( 10.0 + 26.0 ) - 4.0 )"]
+  },
+  {
+    "iIndex": 140,
+    "sQuestion": "Un florista tenía 6 rosas. Si vendió 5 de ellas y luego recogió 12 más, ¿cuántas rosas tendría?",
+    "lAlignments": [15, 68, 36],
+    "lSolutions": [13.0],
+    "lEquations": ["x = ( ( 6.0 + 12.0 ) - 5.0 )"]
+  },
+  {
+    "iIndex": 141,
+    "sQuestion": "Para Halloween, Haley consiguió 33 piezas de dulces. Se comió 17 piezas la primera noche y luego su hermana le dio 19 piezas más. ¿Cuántas piezas de dulces tiene Haley ahora?",
+    "lAlignments": [28, 111, 56],
+    "lSolutions": [35.0],
+    "lEquations": ["x = ( ( 33.0 + 19.0 ) - 17.0 )"]
+  },
+  {
+    "iIndex": 142,
+    "sQuestion": "La cafetería de la escuela tenía 14 manzanas. Si usaron 13 para hacer el almuerzo de los estudiantes y luego compraron 49 más, ¿cuántas manzanas tendrían?",
+    "lAlignments": [26, 100, 50],
+    "lSolutions": [50.0],
+    "lEquations": ["x = ( ( 14.0 + 49.0 ) - 13.0 )"]
+  },
+  {
+    "iIndex": 143,
+    "sQuestion": "Edward tenía 43 libros. Si vendió 19 de ellos y usó el dinero que ganó para comprar 14 libros nuevos, ¿cuántos libros tendría Edward?",
+    "lAlignments": [12, 80, 33],
+    "lSolutions": [38.0],
+    "lEquations": ["x = ( ( 43.0 + 14.0 ) - 19.0 )"]
+  },
+  {
+    "iIndex": 144,
+    "sQuestion": "Un profesor tenía 29 hojas de trabajo para calificar. Si calificó 25, pero luego le entregaron otras 29 hojas de trabajo para calificar, ¿cuántas hojas de trabajo tendría que calificar?",
+    "lAlignments": [15, 74, 53],
+    "lSolutions": [33.0],
+    "lEquations": ["x = ( ( 29.0 + 29.0 ) - 25.0 )"]
+  },{
+    "iIndex": 145,
+    "sQuestion": "En cuarto grado, había 35 estudiantes al comienzo del año. Durante el año, 10 estudiantes se fueron y 10 estudiantes nuevos llegaron a la escuela. ¿Cuántos estudiantes había en cuarto grado al final?",
+    "lAlignments": [28, 103, 82],
+    "lSolutions": [35.0],
+    "lEquations": ["x = ( ( 35.0 + 10.0 ) - 10.0 )"]
+  },
+  {
+    "iIndex": 146,
+    "sQuestion": "Para la venta de pasteles de la escuela, Carol hizo 19 cupcakes. Si vendió 6 de ellos y luego hizo 27 más, ¿cuántos cupcakes tendría?",
+    "lAlignments": [37, 86, 62],
+    "lSolutions": [40.0],
+    "lEquations": ["x = ( ( 19.0 + 27.0 ) - 6.0 )"]
+  },
+  {
+    "iIndex": 147,
+    "sQuestion": "Una tienda tenía 40 naranjas en un recipiente. Si tiraron 37 de las viejas y pusieron 7 nuevas en el recipiente, ¿cuántas naranjas habría en el recipiente?",
+    "lAlignments": [13, 80, 53],
+    "lSolutions": [10.0],
+    "lEquations": ["x = ( ( 40.0 + 7.0 ) - 37.0 )"]
+  },
+  {
+    "iIndex": 148,
+    "sQuestion": "En la sala de juegos, Victor ganó 46 boletos. Si gastó 27 boletos en un gorro y luego ganó 39 boletos más, ¿cuántos boletos tendría?",
+    "lAlignments": [26, 87, 50],
+    "lSolutions": [58.0],
+    "lEquations": ["x = ( ( 46.0 + 39.0 ) - 27.0 )"]
+  },
+  {
+    "iIndex": 149,
+    "sQuestion": "Chloe recogió 48 zanahorias de su jardín. Si tiró 45 de ellas y luego recogió 42 más al día siguiente, ¿cuántas zanahorias tendría en total?",
+    "lAlignments": [14, 86, 59],
+    "lSolutions": [45.0],
+    "lEquations": ["x = ( ( 48.0 + 42.0 ) - 45.0 )"]
+  },
+  {
+    "iIndex": 150,
+    "sQuestion": "Sam tenía 10 calcetines. Si tiró 3 de los antiguos que ya no le quedaban bien y compró 36 calcetines nuevos, ¿cuántos calcetines tendría?",
+    "lAlignments": [9, 74, 36],
+    "lSolutions": [43.0],
+    "lEquations": ["x = ( ( 10.0 + 36.0 ) - 3.0 )"]
+  },
+  {
+    "iIndex": 151,
+    "sQuestion": "Maria tenía 14 botellas de agua en su nevera. Si bebió 8 de ellas y luego compró 45 botellas más, ¿cuántas botellas tendría Maria?",
+    "lAlignments": [11, 85, 59],
+    "lSolutions": [51.0],
+    "lEquations": ["x = ( ( 14.0 + 45.0 ) - 8.0 )"]
+  },
+  {
+    "iIndex": 152,
+    "sQuestion": "Un profesor tenía 34 hojas de trabajo para calificar. Si calificó 7, pero luego le entregaron otras 36 hojas de trabajo para calificar, ¿cuántas hojas de trabajo tendría que calificar?",
+    "lAlignments": [15, 73, 53],
+    "lSolutions": [63.0],
+    "lEquations": ["x = ( ( 34.0 + 36.0 ) - 7.0 )"]
+  },
+  {
+    "iIndex": 153,
+    "sQuestion": "En la feria, había 7 personas en la fila de los autos chocones. Si 4 de ellas se cansaron de esperar y se fueron y otras 8 se unieron a la fila, ¿cuántas personas estarían en la fila?",
+    "lAlignments": [24, 109, 65],
+    "lSolutions": [11.0],
+    "lEquations": ["x = ( ( 7.0 + 8.0 ) - 4.0 )"]
+  },
+  {
+    "iIndex": 154,
+    "sQuestion": "Emily tenía 7 libros para colorear. Si regaló 2 de ellos, pero luego compró 14 más, ¿cuántos libros tendría en total?",
+    "lAlignments": [11, 73, 46],
+    "lSolutions": [19.0],
+    "lEquations": ["x = ( ( 7.0 + 14.0 ) - 2.0 )"]
+  },
+  {
+    "iIndex": 155,
+    "sQuestion": "En la sala de juegos, Dave ganó 25 boletos. Si gastó 22 boletos en un gorro y luego ganó 15 boletos más, ¿cuántos boletos tendría?",
+    "lAlignments": [24, 85, 48],
+    "lSolutions": [18.0],
+    "lEquations": ["x = ( ( 25.0 + 15.0 ) - 22.0 )"]
+  },
+  {
+    "iIndex": 156,
+    "sQuestion": "Robin tenía 30 canciones en su reproductor de MP3. Si eliminó 8 canciones antiguas y luego agregó 10 canciones nuevas, ¿cuántas canciones tendría en su reproductor de MP3?",
+    "lAlignments": [11, 89, 54],
+    "lSolutions": [32.0],
+    "lEquations": ["x = ( ( 30.0 + 10.0 ) - 8.0 )"]
+  },
+  {
+    "iIndex": 157,
+    "sQuestion": "La cafetería de la escuela tenía 23 manzanas. Si usaron 20 para preparar el almuerzo de los estudiantes y luego compraron 6 más, ¿cuántas manzanas tendrían?",
+    "lAlignments": [26, 100, 50],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ( ( 23.0 + 6.0 ) - 20.0 )"]
+  },
+  {
+    "iIndex": 158,
+    "sQuestion": "Janet estaba jugando a un videojuego y tenía 38 vidas. En una parte difícil del juego, perdió 16 vidas. Si obtuvo 32 vidas más en el siguiente nivel, ¿cuántas vidas tendría?",
+    "lAlignments": [40, 107, 86],
+    "lSolutions": [54.0],
+    "lEquations": ["x = ( ( 38.0 + 32.0 ) - 16.0 )"]
+  },
+  {
+    "iIndex": 159,
+    "sQuestion": "Megan recogió 19 zanahorias de su jardín. Si tiró 4 de ellas y luego recogió 46 más al día siguiente, ¿cuántas zanahorias tendría en total?",
+    "lAlignments": [14, 85, 59],
+    "lSolutions": [61.0],
+    "lEquations": ["x = ( ( 19.0 + 46.0 ) - 4.0 )"]
+  },
+  {
+    "iIndex": 160,
+    "sQuestion": "Roger tenía 45 dólares en enero. Para marzo había gastado 20 dólares. Si recibió otros 46 dólares de su mamá, ¿cuánto dinero tendría?",
+    "lAlignments": [11, 86, 56],
+    "lSolutions": [71.0],
+    "lEquations": ["x = ( ( 45.0 + 46.0 ) - 20.0 )"]
+  },
+  {
+    "iIndex": 161,
+    "sQuestion": "La cafetería de la escuela tenía 17 manzanas. Si usaron 2 para preparar el almuerzo de los estudiantes y luego compraron 23 más, ¿cuántas manzanas tendrían?",
+    "lAlignments": [26, 99, 50],
+    "lSolutions": [38.0],
+    "lEquations": ["x = ( ( 17.0 + 23.0 ) - 2.0 )"]
+  },
+  {
+    "iIndex": 162,
+    "sQuestion": "Janet estaba jugando a un videojuego y tenía 47 vidas. En una parte difícil del juego, perdió 23 vidas. Si obtuvo 46 vidas más en el siguiente nivel, ¿cuántas vidas tendría?",
+    "lAlignments": [40, 107, 86],
+    "lSolutions": [70.0],
+    "lEquations": ["x = ( ( 47.0 + 46.0 ) - 23.0 )"]
+  },
+  {
+    "iIndex": 163,
+    "sQuestion": "Nancy recogió 12 zanahorias de su jardín. Si tiró 2 de ellas y luego recogió 21 más al día siguiente, ¿cuántas zanahorias tendría en total?",
+    "lAlignments": [14, 85, 59],
+    "lSolutions": [31.0],
+    "lEquations": ["x = ( ( 12.0 + 21.0 ) - 2.0 )"]
+  },
+  {
+    "iIndex": 164,
+    "sQuestion": "Bianca tenía 34 canciones en su reproductor de MP3. Si eliminó 14 canciones antiguas y luego agregó 44 canciones nuevas, ¿cuántas canciones tendría en su reproductor de MP3?",
+    "lAlignments": [12, 91, 55],
+    "lSolutions": [64.0],
+    "lEquations": ["x = ( ( 34.0 + 44.0 ) - 14.0 )"]
+  },
+  {
+    "iIndex": 165,
+    "sQuestion": "Tom tenía 5 libros. Si vendió 4 de ellos y usó el dinero que ganó para comprar 38 libros nuevos, ¿cuántos libros tendría Tom?",
+    "lAlignments": [9, 75, 29],
+    "lSolutions": [39.0],
+    "lEquations": ["x = ( (5.0 + 38.0) - 4.0)"]
+  },
+  {
+    "iIndex": 166,
+    "sQuestion": "John tenía 33 calcetines. Si tiró 19 de los viejos que ya no le servían y compró 13 calcetines nuevos, ¿cuántos calcetines tendría?",
+    "lAlignments": [10, 76, 37],
+    "lSolutions": [27.0],
+    "lEquations": ["x = ( (33.0 + 13.0) - 19.0)"]
+  },
+  {
+    "iIndex": 167,
+    "sQuestion": "Para la venta de pasteles de la escuela, María hizo 19 cupcakes. Si vendió 5 de ellos y luego hizo 10 más, ¿cuántos cupcakes tendría?",
+    "lAlignments": [37, 86, 62],
+    "lSolutions": [24.0],
+    "lEquations": ["x = ( (19.0 + 10.0) - 5.0)"]
+  },
+  {
+    "iIndex": 168,
+    "sQuestion": "Una tienda tenía 50 naranjas en un cajón. Si tiraron 40 de las viejas y pusieron 24 nuevas en el cajón, ¿cuántas naranjas habría en el cajón?",
+    "lAlignments": [13, 80, 53],
+    "lSolutions": [34.0],
+    "lEquations": ["x = ( (50.0 + 24.0) - 40.0)"]
+  },
+  {
+    "iIndex": 169,
+    "sQuestion": "En cuarto grado, había 8 estudiantes al comienzo del año. Durante el año, 5 estudiantes se fueron y 8 estudiantes nuevos llegaron a la escuela. ¿Cuántos estudiantes había en cuarto grado al final?",
+    "lAlignments": [28, 101, 81],
+    "lSolutions": [11.0],
+    "lEquations": ["x = ( (8.0 + 8.0) - 5.0)"]
+  },
+  {
+    "iIndex": 170,
+    "sQuestion": "Bianca recogió 23 zanahorias de su jardín. Si tiró 10 de ellas y recogió 47 más al día siguiente, ¿cuántas zanahorias tendría en total?",
+    "lAlignments": [15, 87, 60],
+    "lSolutions": [60.0],
+    "lEquations": ["x = ( (23.0 + 47.0) - 10.0)"]
+  },
+  {
+    "iIndex": 171,
+    "sQuestion": "Zoe tenía 42 botellas de agua en su nevera. Si se bebió 25 de ellas y luego compró 30 más, ¿cuántas botellas de agua tendría?",
+    "lAlignments": [9, 84, 57],
+    "lSolutions": [47.0],
+    "lEquations": ["x = ( (42.0 + 30.0) - 25.0)"]
+  },
+  {
+    "iIndex": 172,
+    "sQuestion": "Katie tenía 11 canciones en su reproductor de MP3. Si eliminó 7 canciones antiguas y luego agregó 24 canciones nuevas, ¿cuántas canciones tendría en su reproductor de MP3?",
+    "lAlignments": [11, 89, 54],
+    "lSolutions": [28.0],
+    "lEquations": ["x = ( (11.0 + 24.0) - 7.0)"]
+  },
+  {
+    "iIndex": 173,
+    "sQuestion": "Una tienda tenía 5 naranjas en un cajón. Si tiraron 2 de las viejas y pusieron 28 nuevas en el cajón, ¿cuántas naranjas habría en el cajón?",
+    "lAlignments": [13, 78, 52],
+    "lSolutions": [31.0],
+    "lEquations": ["x = ( (5.0 + 28.0) - 2.0)"]
+  },
+  {
+    "iIndex": 174,
+    "sQuestion": "Adam tenía 48 libros. Si vendió 19 de ellos y usó el dinero que ganó para comprar 38 libros nuevos, ¿cuántos libros tendría Adam?",
+    "lAlignments": [10, 78, 31],
+    "lSolutions": [67.0],
+    "lEquations": ["x = ( (48.0 + 38.0) - 19.0)"]
+  },
+  {
+    "iIndex": 175,
+    "sQuestion": "En cuarto grado, había 31 estudiantes al comienzo del año. Durante el año, 5 estudiantes se fueron y 11 estudiantes nuevos llegaron a la escuela. ¿Cuántos estudiantes había en cuarto grado al final?",
+    "lAlignments": [28, 102, 82],
+    "lSolutions": [37.0],
+    "lEquations": ["x = ( (31.0 + 11.0) - 5.0)"]
+  },
+  {
+    "iIndex": 176,
+    "sQuestion": "Para la venta de pasteles de la escuela, Robin hizo 42 cupcakes. Si vendió 22 de ellos y luego hizo 39 más, ¿cuántos cupcakes tendría?",
+    "lAlignments": [37, 87, 62],
+    "lSolutions": [59.0],
+    "lEquations": ["x = ( (42.0 + 39.0) - 22.0)"]
+  },
+  {
+    "iIndex": 177,
+    "sQuestion": "Una florista tenía 11 rosas. Si vendió 2 de ellas y luego recogió 32 más, ¿cuántas rosas tendría?",
+    "lAlignments": [15, 69, 37],
+    "lSolutions": [41.0],
+    "lEquations": ["x = ( (11.0 + 32.0) - 2.0)"]
+  },
+  {
+    "iIndex": 178,
+    "sQuestion": "Frank tenía 11 dólares. En la tienda gastó $3 en un juego nuevo. Si luego recibió otros 14 dólares como asignación, ¿cuánto dinero tiene ahora?",
+    "lAlignments": [11, 81, 46],
+    "lSolutions": [22.0],
+    "lEquations": ["x = ( (11.0 + 14.0) - 3.0)"]
+  },
+  {
+    "iIndex": 179,
+    "sQuestion": "Haley estaba jugando a un videojuego y tenía 14 vidas. En una parte difícil del juego, perdió 4 vidas. Si luego obtuvo 36 vidas más en el siguiente nivel, ¿cuántas vidas tendría?",
+    "lAlignments": [40, 106, 86],
+    "lSolutions": [46.0],
+    "lEquations": ["x = ( (14.0 + 36.0) - 4.0)"]
+  },
+  {
+    "iIndex": 180,
+    "sQuestion": "Luke tenía 48 dólares en enero. En marzo gastó 11 dólares. Si luego recibió otros 21 dólares de su mamá, ¿cuánto dinero tendría?",
+    "lAlignments": [10, 85, 55],
+    "lSolutions": [58.0],
+    "lEquations": ["x = ( (48.0 + 21.0) - 11.0)"]
+  },
+  {
+    "iIndex": 181,
+    "sQuestion": "Emily estaba jugando a un videojuego y tenía 42 vidas. En una parte difícil del juego, perdió 25 vidas. Si luego obtuvo 24 vidas más en el siguiente nivel, ¿cuántas vidas tendría?",
+    "lAlignments": [40, 107, 86],
+    "lSolutions": [41.0],
+    "lEquations": ["x = ( (42.0 + 24.0) - 25.0)"]
+  },
+  {
+    "iIndex": 182,
+    "sQuestion": "Debby tenía 30 libros para colorear. Si regaló 7 de ellos, pero luego compró 35 más, ¿cuántos tendría en total?",
+    "lAlignments": [11, 74, 47],
+    "lSolutions": [58.0],
+    "lEquations": ["x = ( (30.0 + 35.0) - 7.0)"]
+  },
+  {
+    "iIndex": 183,
+    "sQuestion": "La cafetería de la escuela tenía 12 manzanas. Si usaron 8 para hacer el almuerzo de los estudiantes y luego compraron 19 más, ¿cuántas manzanas tendrían?",
+    "lAlignments": [26, 99, 50],
+    "lSolutions": [23.0],
+    "lEquations": ["x = ( (12.0 + 19.0) - 8.0)"]
+  },
+  {
+    "iIndex": 184,
+    "sQuestion": "En la feria, había 31 personas en la fila para los autos chocones. Si 25 de ellas se cansaron de esperar y se fueron, y otras 25 se unieron a la fila, ¿cuántas personas estarían en la fila?",
+    "lAlignments": [24, 111, 66],
+    "lSolutions": [31.0],
+    "lEquations": ["x = ( (31.0 + 25.0) - 25.0)"]
+  },
+  {
+    "iIndex": 185,
+    "sQuestion": "Una florista tenía 50 rosas. Si vendió 15 de ellas y luego recogió 21 más, ¿cuántas rosas tendría?",
+    "lAlignments": [15, 70, 37],
+    "lSolutions": [56.0],
+    "lEquations": ["x = ( (50.0 + 21.0) - 15.0)"]
+  },
+  {
+    "iIndex": 186,
+    "sQuestion": "Zoe tenía 6 canciones en su reproductor de MP3. Si eliminó 3 canciones antiguas y luego agregó 20 canciones nuevas, ¿cuántas canciones tendría en su reproductor de MP3?",
+    "lAlignments": [9, 86, 51],
+    "lSolutions": [23.0],
+    "lEquations": ["x = ( (6.0 + 20.0) - 3.0)"]
+  },
+  {
+    "iIndex": 187,
+    "sQuestion": "En la sala de juegos, Dave ganó 11 boletos. Si gastó 5 boletos en una gorra y luego ganó 10 boletos más, ¿cuántos tendría?",
+    "lAlignments": [24, 84, 48],
+    "lSolutions": [16.0],
+    "lEquations": ["x = ( (11.0 + 10.0) - 5.0)"]
+  },
+  {
+    "iIndex": 188,
+    "sQuestion": "Un camarero tenía 33 clientes para atender. Si 31 clientes se fueron y luego llegaron 26 clientes más, ¿cuántos clientes tendría en total?",
+    "lAlignments": [14, 79, 42],
+    "lSolutions": [28.0],
+    "lEquations": ["x = ( (33.0 + 26.0) - 31.0)"]
+  },
+  {
+    "iIndex": 189,
+    "sQuestion": "En cuarto grado, había 11 estudiantes al comienzo del año. Durante el año, 6 estudiantes se fueron y 42 estudiantes nuevos llegaron a la escuela. ¿Cuántos estudiantes había en cuarto grado al final?",
+    "lAlignments": [28, 102, 82],
+    "lSolutions": [47.0],
+    "lEquations": ["x = ( (11.0 + 42.0) - 6.0)"]
+  },
+  {
+    "iIndex": 190,
+    "sQuestion": "Oliver tenía 11 calcetines. Si tiró 4 de los viejos que no le quedaban bien y compró 26 calcetines nuevos, ¿cuántos calcetines tendría?",
+    "lAlignments": [12, 77, 39],
+    "lSolutions": [33.0],
+    "lEquations": ["x = ( (11.0 + 26.0) - 4.0)"]
+  },
+  {
+    "iIndex": 191,
+    "sQuestion": "Una tienda tenía 40 naranjas en un cesto. Si tiraron 25 de las viejas y pusieron 21 nuevas en el cesto, ¿cuántas naranjas habría en el cesto?",
+    "lAlignments": [13, 80, 53],
+    "lSolutions": [36.0],
+    "lEquations": ["x = ( (40.0 + 21.0) - 25.0)"]
+  },
+  {
+    "iIndex": 192,
+    "sQuestion": "En la sala de juegos, Edward ganó 9 boletos. Si gastó 4 boletos en un gorro y luego ganó 4 boletos más, ¿cuántos boletos tendría?",
+    "lAlignments": [26, 85, 49],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ( (9.0 + 4.0) - 4.0)"]
+  },
+  {
+    "iIndex": 193,
+    "sQuestion": "En cuarto grado, había 4 estudiantes al comienzo del año. Durante el año, 3 estudiantes se fueron y 42 estudiantes nuevos llegaron a la escuela. ¿Cuántos estudiantes había en cuarto grado al final?",
+    "lAlignments": [28, 101, 81],
+    "lSolutions": [43.0],
+    "lEquations": ["x = ( (4.0 + 42.0) - 3.0)"]
+  },
+  {
+    "iIndex": 194,
+    "sQuestion": "Haley recogió 28 zanahorias de su jardín. Si tiró 11 de ellas y luego recogió 9 más al día siguiente, ¿cuántas zanahorias tendría en total?",
+    "lAlignments": [14, 86, 59],
+    "lSolutions": [26.0],
+    "lEquations": ["x = ( (28.0 + 9.0) - 11.0)"]
+  },
+  {
+    "iIndex": 195,
+    "sQuestion": "Roger tenía 25 libros. Si vendió 21 de ellos y usó el dinero que ganó para comprar 30 libros nuevos, ¿cuántos libros tendría Roger?",
+    "lAlignments": [11, 79, 32],
+    "lSolutions": [34.0],
+    "lEquations": ["x = ( (25.0 + 30.0) - 21.0)"]
+  },
+  {
+    "iIndex": 196,
+    "sQuestion": "Una florista tenía 5 rosas. Si vendió 3 de ellas y luego recogió 34 más, ¿cuántas rosas tendría?",
+    "lAlignments": [15, 68, 36],
+    "lSolutions": [36.0],
+    "lEquations": ["x = ( (5.0 + 34.0) - 3.0)"]
+  },
+  {
+    "iIndex": 197,
+    "sQuestion": "Wendy estaba jugando un videojuego y tenía 10 vidas. En una parte difícil del juego, perdió 6 vidas. Si obtuvo 37 vidas más en el siguiente nivel, ¿cuántas vidas tendría?",
+    "lAlignments": [40, 106, 86],
+    "lSolutions": [41.0],
+    "lEquations": ["x = ( (10.0 + 37.0) - 6.0)"]
+  },
+  {
+    "iIndex": 198,
+    "sQuestion": "John tenía 5 dólares. En la tienda, gastó $2 en un nuevo juego. Si luego recibió otros 26 dólares de su asignación, ¿cuánto dinero tiene ahora?",
+    "lAlignments": [10, 79, 44],
+    "lSolutions": [29.0],
+    "lEquations": ["x = ( (5.0 + 26.0) - 2.0)"]
+  },
+  {
+    "iIndex": 199,
+    "sQuestion": "Para la venta de pasteles de la escuela, Chloe hizo 28 cupcakes. Si vendió 25 de ellos y luego hizo 8 más, ¿cuántos cupcakes tendría?",
+    "lAlignments": [37, 87, 62],
+    "lSolutions": [11.0],
+    "lEquations": ["x = ( (28.0 + 8.0) - 25.0)"]
+  },
+  {
+    "iIndex": 200,
+    "sQuestion": "En el carnaval del pueblo, Billy montó la noria 7 veces y los autos chocones 3 veces. Si cada paseo costaba 5 boletos, ¿cuántos boletos utilizó?",
+    "lAlignments": [105, 50, 78],
+    "lSolutions": [50.0],
+    "lEquations": ["x = (5.0 * (7.0 + 3.0))"]
+  },
+  {
+    "iIndex": 201,
+    "sQuestion": "Chloe estaba desempaquetando algunas de sus viejas prendas de invierno. Encontró 4 cajas de ropa y dentro de cada caja había 2 bufandas y 6 mitones. ¿Cuántas prendas de ropa de invierno tenía Chloe en total?",
+    "lAlignments": [62, 113, 127],
+    "lSolutions": [32.0],
+    "lEquations": ["x = (4.0 * (2.0 + 6.0))"]
+  },
+  {
+    "iIndex": 202,
+    "sQuestion": "Un camarero tenía 9 mesas a las que estaba atendiendo, con 7 mujeres y 3 hombres en cada mesa. ¿Cuántos clientes en total tenía el camarero?",
+    "lAlignments": [14, 47, 59],
+    "lSolutions": [90.0],
+    "lEquations": ["x = (9.0 * (7.0 + 3.0))"]
+  },
+  {
+    "iIndex": 203,
+    "sQuestion": "April's Discount Flowers estaba teniendo una venta donde cada flor costaba 3 dólares. Si Emily compró 2 rosas y 2 margaritas, ¿cuánto gastó?",
+    "lAlignments": [66, 93, 105],
+    "lSolutions": [12.0],
+    "lEquations": ["x = (3.0 * (2.0 + 2.0))"]
+  },
+  {
+    "iIndex": 204,
+    "sQuestion": "Isabel tenía 2 páginas de tarea de matemáticas y 4 páginas de tarea de lectura. Si cada página tenía 5 problemas, ¿cuántos problemas tenía que completar en total?",
+    "lAlignments": [87, 12, 41],
+    "lSolutions": [30.0],
+    "lEquations": ["x = (5.0 * (2.0 + 4.0))"]
+  },
+  {
+    "iIndex": 205,
+    "sQuestion": "Wendy estaba jugando un videojuego en el que obtiene 5 puntos por cada tesoro que encuentra. Si encontró 4 tesoros en el primer nivel y 3 en el segundo, ¿cuál sería su puntuación?",
+    "lAlignments": [49, 100, 135],
+    "lSolutions": [35.0],
+    "lEquations": ["x = (5.0 * (4.0 + 3.0))"]
+  },
+  {
+    "iIndex": 206,
+    "sQuestion": "Había 7 amigos jugando un videojuego en línea cuando se unieron 2 jugadores más al juego. Si cada jugador tenía 7 vidas, ¿cuántas vidas tenían en total?",
+    "lAlignments": [106, 12, 55],
+    "lSolutions": [63.0],
+    "lEquations": ["x = (7.0 * (7.0 + 2.0))"]
+  },
+  {
+    "iIndex": 207,
+    "sQuestion": "Paul compró 6 cajas de caramelos de chocolate y 4 cajas de caramelos de caramelo. Si cada caja tenía 9 piezas en su interior, ¿cuántos caramelos tenía en total?",
+    "lAlignments": [86, 13, 44],
+    "lSolutions": [90.0],
+    "lEquations": ["x = (9.0 * (6.0 + 4.0))"]
+  },
+  {
+    "iIndex": 208,
+    "sQuestion": "Una tienda de mascotas tiene 6 jaulas de pájaros. Si cada jaula tiene 6 loros y 2 periquitos en su interior, ¿cuántos pájaros tiene la tienda de mascotas en total?",
+    "lAlignments": [17, 48, 62],
+    "lSolutions": [48.0],
+    "lEquations": ["x = (6.0 * (6.0 + 2.0))"]
+  },
+  {
+    "iIndex": 209,
+    "sQuestion": "Rachel estaba organizando su estantería de libros asegurándose de que cada estante tuviera exactamente 9 libros. Si tenía 6 estantes de libros de misterio y 2 estantes de libros ilustrados, ¿cuántos libros tenía en total?",
+    "lAlignments": [81, 107, 138],
+    "lSolutions": [72.0],
+    "lEquations": ["x = (9.0 * (6.0 + 2.0))"]
+  },
+  {
+    "iIndex": 210,
+    "sQuestion": "Rachel estaba desempaquetando algunas de sus viejas prendas de invierno. Encontró 7 cajas de ropa y dentro de cada caja había 3 bufandas y 4 mitones. ¿Cuántas prendas de ropa de invierno tenía Rachel en total?",
+    "lAlignments": [63, 114, 128],
+    "lSolutions": [49.0],
+    "lEquations": ["x = (7.0 * (3.0 + 4.0))"]
+  },
+  {
+    "iIndex": 211,
+    "sQuestion": "Una tienda de mascotas tiene 9 jaulas de pájaros. Si cada jaula tiene 2 loros y 2 periquitos en su interior, ¿cuántos pájaros tiene la tienda de mascotas en total?",
+    "lAlignments": [17, 48, 62],
+    "lSolutions": [36.0],
+    "lEquations": ["x = (9.0 * (2.0 + 2.0))"]
+  },    
+
+  {
+    "iIndex": 212,
+    "sQuestion": "Cody compró 7 cajas de caramelos de chocolate y 3 cajas de caramelos de caramelo. Si cada caja tenía 8 piezas en su interior, ¿cuántos caramelos tenía en total?",
+    "lAlignments": [86, 13, 44],
+    "lSolutions": [80.0],
+    "lEquations": ["x = (8.0 * (7.0 + 3.0))"]
+  },
+  {
+    "iIndex": 213,
+    "sQuestion": "En el restaurante de Billy, un grupo con 2 adultos y 5 niños entró a comer. Si cada comida costaba 3 dólares, ¿cuánto fue la cuenta?",
+    "lAlignments": [94, 36, 49],
+    "lSolutions": [21.0],
+    "lEquations": ["x = (3.0 * (2.0 + 5.0))"]
+  },
+  {
+    "iIndex": 214,
+    "sQuestion": "Paul estaba recolectando latas para reciclar. El sábado llenó 6 bolsas y el domingo llenó 3 bolsas más. Si cada bolsa tenía 8 latas en su interior, ¿cuántas latas recogió en total?",
+    "lAlignments": [126, 63, 97],
+    "lSolutions": [72.0],
+    "lEquations": ["x = (8.0 * (6.0 + 3.0))"]
+  },
+  {
+    "iIndex": 215,
+    "sQuestion": "Mientras jugaba un juego de preguntas, Adam respondió 5 preguntas correctamente en la primera mitad y 5 preguntas correctamente en la segunda mitad. Si cada pregunta valía 5 puntos, ¿cuál fue su puntuación final?",
+    "lAlignments": [153, 44, 86],
+    "lSolutions": [50.0],
+    "lEquations": ["x = (5.0 * (5.0 + 5.0))"]
+  },
+  {
+    "iIndex": 216,
+    "sQuestion": "La banda favorita de Haley estaba dando un concierto donde las entradas costaban 4 dólares cada una. Haley compró 3 entradas para ella y sus amigos y 5 entradas adicionales en caso de que alguien más quisiera ir. ¿Cuánto gastó?",
+    "lAlignments": [64, 93, 135],
+    "lSolutions": [32.0],
+    "lEquations": ["x = (4.0 * (3.0 + 5.0))"]
+  },
+  {
+    "iIndex": 217,
+    "sQuestion": "Luke estaba ordenando su cambio en montones. Tenía 5 montones de cuartos y 5 montones de monedas de diez centavos. Si cada montón tenía 3 monedas, ¿cuántas monedas tenía en total?",
+    "lAlignments": [113, 54, 78],
+    "lSolutions": [30.0],
+    "lEquations": ["x = (3.0 * (5.0 + 5.0))"]
+  },
+  {
+    "iIndex": 218,
+    "sQuestion": "Víctor y su amigo estaban comprando barajas trucadas en la tienda de magia por 8 dólares cada una. ¿Cuánto gastaron si Víctor compró 6 barajas y su amigo compró 2 barajas?",
+    "lAlignments": [71, 128, 158],
+    "lSolutions": [64.0],
+    "lEquations": ["x = (8.0 * (6.0 + 2.0))"]
+  },
+  {
+    "iIndex": 219,
+    "sQuestion": "Katie tenía 7 páginas de tarea de matemáticas y 3 páginas de tarea de lectura. Si cada página tenía 9 problemas, ¿cuántos problemas tuvo que completar en total?",
+    "lAlignments": [86, 11, 40],
+    "lSolutions": [90.0],
+    "lEquations": ["x = (9.0 * (7.0 + 3.0))"]
+  },
+  {
+    "iIndex": 220,
+    "sQuestion": "Faye estaba jugando un videojuego donde obtiene 7 puntos por cada tesoro que encuentra. Si encontró 2 tesoros en el primer nivel y 6 en el segundo, ¿cuál sería su puntuación?",
+    "lAlignments": [48, 99, 134],
+    "lSolutions": [56.0],
+    "lEquations": ["x = (7.0 * (2.0 + 6.0))"]
+  },
+  {
+    "iIndex": 221,
+    "sQuestion": "Gwen estaba organizando su estante de libros asegurándose de que cada estante tuviera exactamente 9 libros. Si tenía 3 estantes de libros de misterio y 5 estantes de libros ilustrados, ¿cuántos libros tenía en total?",
+    "lAlignments": [79, 105, 136],
+    "lSolutions": [72.0],
+    "lEquations": ["x = (9.0 * (3.0 + 5.0))"]
+  },
+  {
+    "iIndex": 222,
+    "sQuestion": "Había 2 amigos jugando un videojuego en línea cuando se unieron 2 jugadores más al juego. Si cada jugador tenía 6 vidas, ¿cuántas vidas tenían en total?",
+    "lAlignments": [106, 12, 55],
+    "lSolutions": [24.0],
+    "lEquations": ["x = (6.0 * (2.0 + 2.0))"]
+  },
+  {
+    "iIndex": 223,
+    "sQuestion": "Wendy compró 4 sillas nuevas y 4 mesas nuevas para su casa. Si pasó 6 minutos en cada pieza de mobiliario ensamblándola, ¿cuántos minutos le llevó terminar?",
+    "lAlignments": [72, 14, 31],
+    "lSolutions": [48.0],
+    "lEquations": ["x = (6.0 * (4.0 + 4.0))"]
+  },
+  {
+    "iIndex": 224,
+    "sQuestion": "April's Discount Flowers tenía una oferta en la que cada flor costaba 3 dólares. Si Zoe compró 8 rosas y 2 margaritas, ¿cuánto gastó?",
+    "lAlignments": [66, 91, 103],
+    "lSolutions": [30.0],
+    "lEquations": ["x = (3.0 * (8.0 + 2.0))"]
+  },
+  {
+    "iIndex": 225,
+    "sQuestion": "Paige estaba desempacando algunas de sus viejas prendas de invierno. Encontró 6 cajas de ropa y dentro de cada caja había 5 bufandas y 5 manoplas. ¿Cuántas prendas de ropa de invierno tenía Paige en total?",
+    "lAlignments": [62, 113, 127],
+    "lSolutions": [60.0],
+    "lEquations": ["x = (6.0 * (5.0 + 5.0))"]
+  },
+  {
+    "iIndex": 226,
+    "sQuestion": "Sam estaba recolectando latas para reciclar. El sábado llenó 4 bolsas y el domingo llenó 3 bolsas más. Si cada bolsa tenía 6 latas en su interior, ¿cuántas latas recogió en total?",
+    "lAlignments": [125, 62, 96],
+    "lSolutions": [42.0],
+    "lEquations": ["x = (6.0 * (4.0 + 3.0))"]
+  },
+  {
+    "iIndex": 227,
+    "sQuestion": "George trabajaba como empacador en una tienda de comestibles donde ganaba 5 dólares por hora. El lunes trabajó 7 horas y el martes trabajó 2 horas. ¿Cuánto dinero ganó George en esos dos días?",
+    "lAlignments": [65, 104, 137],
+    "lSolutions": [45.0],
+    "lEquations": ["x = (5.0 * (7.0 + 2.0))"]
+  },
+  {
+    "iIndex": 228,
+    "sQuestion": "Mientras jugaba un juego de preguntas, Frank respondió 3 preguntas correctamente en la primera mitad y 2 preguntas correctamente en la segunda mitad. Si cada pregunta valía 3 puntos, ¿cuál fue su puntuación final?",
+    "lAlignments": [154, 45, 87],
+    "lSolutions": [15.0],
+    "lEquations": ["x = (3.0 * (3.0 + 2.0))"]
+  },
+  {
+    "iIndex": 229,
+    "sQuestion": "Edward y su amigo estaban comprando barajas trucadas en la tienda de magia por 9 dólares cada una. ¿Cuánto gastaron si Edward compró 4 barajas y su amigo compró 4 barajas?",
+    "lAlignments": [71, 128, 158],
+    "lSolutions": [72.0],
+    "lEquations": ["x = (9.0 * (4.0 + 4.0))"]
+  },
+  {
+    "iIndex": 230,
+    "sQuestion": "Tom y su amigo estaban comprando barajas trucadas en la tienda de magia por 8 dólares cada una. ¿Cuánto gastaron si Tom compró 3 barajas y su amigo compró 5 barajas?",
+    "lAlignments": [68, 122, 152],
+    "lSolutions": [64.0],
+    "lEquations": ["x = (8.0 * (3.0 + 5.0))"]
+  },
+  {
+    "iIndex": 231,
+    "sQuestion": "Mientras compraba música en línea, Megan compró 2 álbumes de country y 8 álbumes de pop. Cada álbum venía con una hoja de letras y tenía 7 canciones. ¿Cuántas canciones compró Megan en total?",
+    "lAlignments": [125, 47, 68],
+    "lSolutions": [70.0],
+    "lEquations": ["x = (7.0 * (2.0 + 8.0))"]
+  },
+
+  {
+    "iIndex": 232,
+    "sQuestion": "Victor trabajaba como empacador en una tienda de comestibles donde ganaba 6 dólares por hora. El lunes trabajó 5 horas y el martes trabajó 5 horas. ¿Cuánto dinero ganó Victor en esos dos días?",
+    "lAlignments": [65, 104, 137],
+    "lSolutions": [60.0],
+    "lEquations": ["x = (6.0 * (5.0 + 5.0))"]
+  },
+  {
+    "iIndex": 233,
+    "sQuestion": "Una tienda de mascotas tiene 6 jaulas para pájaros. Si cada jaula tiene 2 loros y 7 periquitos, ¿cuántos pájaros tiene la tienda de mascotas en total?",
+    "lAlignments": [17, 48, 62],
+    "lSolutions": [54.0],
+    "lEquations": ["x = (6.0 * (2.0 + 7.0))"]
+  },
+  {
+    "iIndex": 234,
+    "sQuestion": "Maria compró 2 sillas nuevas y 2 mesas nuevas para su casa. Si pasó 8 minutos en armar cada pieza de mueble, ¿cuántos minutos le llevó terminar?",
+    "lAlignments": [72, 14, 31],
+    "lSolutions": [32.0],
+    "lEquations": ["x = (8.0 * (2.0 + 2.0))"]
+  },
+  {
+    "iIndex": 235,
+    "sQuestion": "Olivia estaba jugando un videojuego donde obtiene 8 puntos por cada tesoro que encuentra. Si encontró 2 tesoros en el primer nivel y 2 en el segundo, ¿cuál sería su puntuación?",
+    "lAlignments": [50, 101, 136],
+    "lSolutions": [32.0],
+    "lEquations": ["x = (8.0 * (2.0 + 2.0))"]
+  },
+  {
+    "iIndex": 236,
+    "sQuestion": "Un camarero tenía 6 mesas que estaba atendiendo, con 3 mujeres y 5 hombres en cada mesa. ¿Cuántos clientes tenía en total el camarero?",
+    "lAlignments": [14, 47, 59],
+    "lSolutions": [48.0],
+    "lEquations": ["x = (6.0 * (3.0 + 5.0))"]
+  },
+  {
+    "iIndex": 237,
+    "sQuestion": "Faye estaba vendiendo sus collares en una venta de garaje. Vendió 3 collares de cuentas y 7 collares de piedras preciosas. Si cada collar costaba 7 dólares, ¿cuánto dinero ganó?",
+    "lAlignments": [125, 59, 80],
+    "lSolutions": [70.0],
+    "lEquations": ["x = (7.0 * (3.0 + 7.0))"]
+  },
+  {
+    "iIndex": 238,
+    "sQuestion": "En el carnaval de la ciudad, Oliver montó la noria 5 veces y los autos chocadores 4 veces. Si cada atracción costaba 7 boletos, ¿cuántos boletos usó?",
+    "lAlignments": [106, 51, 79],
+    "lSolutions": [63.0],
+    "lEquations": ["x = (7.0 * (5.0 + 4.0))"]
+  },
+  {
+    "iIndex": 239,
+    "sQuestion": "Había 5 amigos jugando un videojuego en línea cuando se unieron 2 jugadores más al juego. Si cada jugador tenía 8 vidas, ¿cuántas vidas tenían en total?",
+    "lAlignments": [106, 12, 55],
+    "lSolutions": [56.0],
+    "lEquations": ["x = (8.0 * (5.0 + 2.0))"]
+  },
+  {
+    "iIndex": 240,
+    "sQuestion": "Katie estaba vendiendo sus collares en una venta de garaje. Vendió 4 collares de cuentas y 3 collares de piedras preciosas. Si cada collar costaba 3 dólares, ¿cuánto dinero ganó?",
+    "lAlignments": [126, 60, 81],
+    "lSolutions": [21.0],
+    "lEquations": ["x = (3.0 * (4.0 + 3.0))"]
+  },
+  {
+    "iIndex": 241,
+    "sQuestion": "Edward trabajaba como empacador en una tienda de comestibles donde ganaba 6 dólares por hora. El lunes trabajó 3 horas y el martes trabajó 5 horas. ¿Cuánto dinero ganó Edward en esos dos días?",
+    "lAlignments": [65, 104, 137],
+    "lSolutions": [48.0],
+    "lEquations": ["x = (6.0 * (3.0 + 5.0))"]
+  },
+  {
+    "iIndex": 242,
+    "sQuestion": "Mientras jugaba un juego de preguntas, Mike respondió 3 preguntas correctamente en la primera mitad y 5 preguntas correctamente en la segunda mitad. Si cada pregunta valía 3 puntos, ¿cuál fue su puntuación final?",
+    "lAlignments": [153, 44, 86],
+    "lSolutions": [24.0],
+    "lEquations": ["x = (3.0 * (3.0 + 5.0))"]
+  },
+  {
+    "iIndex": 243,
+    "sQuestion": "Amy estaba jugando un videojuego donde obtiene 4 puntos por cada tesoro que encuentra. Si encontró 6 tesoros en el primer nivel y 2 en el segundo, ¿cuál sería su puntuación?",
+    "lAlignments": [47, 98, 133],
+    "lSolutions": [32.0],
+    "lEquations": ["x = (4.0 * (6.0 + 2.0))"]
+  },
+  {
+    "iIndex": 244,
+    "sQuestion": "Un camarero tenía 9 mesas que estaba atendiendo, con 4 mujeres y 3 hombres en cada mesa. ¿Cuántos clientes tenía en total el camarero?",
+    "lAlignments": [14, 47, 59],
+    "lSolutions": [63.0],
+    "lEquations": ["x = (9.0 * (4.0 + 3.0))"]
+  },
+  {
+    "iIndex": 245,
+    "sQuestion": "Chloe estaba organizando su estante de libros asegurándose de que cada estante tuviera exactamente 6 libros. Si tenía 5 estantes de libros de misterio y 4 estantes de libros ilustrados, ¿cuántos libros tenía en total?",
+    "lAlignments": [80, 106, 137],
+    "lSolutions": [54.0],
+    "lEquations": ["x = (6.0 * (5.0 + 4.0))"]
+  },  
+  {
+    "iIndex": 246,
+    "sQuestion": "Mientras compraba música en línea, Isabel compró 6 álbumes de música country y 2 álbumes de música pop. Cada álbum venía con una hoja de letras y tenía 9 canciones. ¿Cuántas canciones compró Isabel en total?",
+    "lAlignments": [126, 48, 69],
+    "lSolutions": [72.0],
+    "lEquations": ["x = (9.0 * (6.0 + 2.0))"]
+  },
+  {
+    "iIndex": 247,
+    "sQuestion": "En el restaurante de Oliver, un grupo con 2 adultos y 4 niños llegó a comer. Si cada comida costaba 3 dólares, ¿cuánto fue la cuenta?",
+    "lAlignments": [95, 37, 50],
+    "lSolutions": [18.0],
+    "lEquations": ["x = (3.0 * (2.0 + 4.0))"]
+  },
+  {
+    "iIndex": 248,
+    "sQuestion": "Tiffany tenía 6 páginas de tarea de matemáticas y 4 páginas de tarea de lectura. Si cada página tenía 3 problemas, ¿cuántos problemas tuvo que completar en total?",
+    "lAlignments": [88, 13, 42],
+    "lSolutions": [30.0],
+    "lEquations": ["x = (3.0 * (6.0 + 4.0))"]
+  },
+  {
+    "iIndex": 249,
+    "sQuestion": "La tienda de flores de descuento de April tenía una oferta en la que cada flor costaba 3 dólares. Si Robin compró 5 rosas y 4 margaritas, ¿cuánto gastó?",
+    "lAlignments": [66, 93, 105],
+    "lSolutions": [27.0],
+    "lEquations": ["x = (3.0 * (5.0 + 4.0))"]
+  },
+  {
+    "iIndex": 250,
+    "sQuestion": "Zoe estaba desempacando algunas de sus prendas de invierno antiguas. Encontró 8 cajas de ropa, y dentro de cada caja había 4 bufandas y 6 guantes. ¿Cuántas prendas de invierno tenía Zoe en total?",
+    "lAlignments": [60, 111, 125],
+    "lSolutions": [80.0],
+    "lEquations": ["x = (8.0 * (4.0 + 6.0))"]
+  },
+  {
+    "iIndex": 251,
+    "sQuestion": "Había 2 amigos jugando un videojuego en línea cuando se unieron 2 jugadores más al juego. Si cada jugador tenía 3 vidas, ¿cuántas vidas tenían en total?",
+    "lAlignments": [106, 12, 55],
+    "lSolutions": [12.0],
+    "lEquations": ["x = (3.0 * (2.0 + 2.0))"]
+  },
+  {
+    "iIndex": 252,
+    "sQuestion": "Adam compró 2 cajas de chocolates con caramelos y 5 cajas de chocolates con caramelo. Si cada caja tenía 4 piezas en su interior, ¿cuántos dulces tenía en total?",
+    "lAlignments": [86, 13, 44],
+    "lSolutions": [28.0],
+    "lEquations": ["x = (4.0 * (2.0 + 5.0))"]
+  },
+  {
+    "iIndex": 253,
+    "sQuestion": "Una tienda de mascotas tiene 8 jaulas para pájaros. Si cada jaula tiene 2 loros y 7 periquitos, ¿cuántos pájaros tiene la tienda de mascotas en total?",
+    "lAlignments": [17, 48, 62],
+    "lSolutions": [72.0],
+    "lEquations": ["x = (8.0 * (2.0 + 7.0))"]
+  },
+  {
+    "iIndex": 254,
+    "sQuestion": "La banda favorita de Lana celebró un concierto donde las entradas costaban 6 dólares cada una. Lana compró 8 entradas para ella y sus amigos y 2 entradas adicionales por si alguien más quería ir. ¿Cuánto gastó?",
+    "lAlignments": [63, 91, 133],
+    "lSolutions": [60.0],
+    "lEquations": ["x = (6.0 * (8.0 + 2.0))"]
+  },
+  {
+    "iIndex": 255,
+    "sQuestion": "En el restaurante de Tom, un grupo con 2 adultos y 5 niños llegó a comer. Si cada comida costaba 8 dólares, ¿cuánto fue la cuenta?",
+    "lAlignments": [92, 34, 47],
+    "lSolutions": [56.0],
+    "lEquations": ["x = (8.0 * (2.0 + 5.0))"]
+  },
+  {
+    "iIndex": 256,
+    "sQuestion": "Gwen estaba organizando su estantería de libros asegurándose de que cada estante tuviera exactamente 4 libros. Si tenía 5 estantes de libros de misterio y 3 estantes de libros ilustrados, ¿cuántos libros tenía en total?",
+    "lAlignments": [79, 105, 136],
+    "lSolutions": [32.0],
+    "lEquations": ["x = (4.0 * (5.0 + 3.0))"]
+  },
+  {
+    "iIndex": 257,
+    "sQuestion": "Mientras compraba música en línea, Isabel compró 4 álbumes de música country y 5 álbumes de música pop. Cada álbum venía con una hoja de letras y tenía 8 canciones. ¿Cuántas canciones compró Isabel en total?",
+    "lAlignments": [126, 48, 69],
+    "lSolutions": [72.0],
+    "lEquations": ["x = (8.0 * (4.0 + 5.0))"]
+  },  
+  {
+    "iIndex": 258,
+    "sQuestion": "Megan was selling her necklaces at a garage sale . She sold 7 bead necklaces and 3 gem stone necklaces . If each necklace cost 9 dollars , how much money did she earn ?",
+    "lAlignments": [126, 60, 81],
+    "lSolutions": [90.0],
+    "lEquations": ["x = ( 9.0 * ( 7.0 + 3.0 ) )"]
+  },
+  {
+    "iIndex": 259,
+    "sQuestion": "Rachel was playing a video game where she scores 9 points for each treasure she finds . If she found 5 treasures on the first level and 2 on the second , what would her score be ?",
+    "lAlignments": [50, 101, 136],
+    "lSolutions": [63.0],
+    "lEquations": ["x = ( 9.0 * ( 5.0 + 2.0 ) )"]
+  },
+  {
+    "iIndex": 260,
+    "sQuestion": "Las flores con descuento de April tenían una oferta donde cada flor costaba 6 dólares. Si Katie compró 5 rosas y 5 margaritas, ¿cuánto gastó?",
+    "lAlignments": [66, 93, 105],
+    "lSolutions": [60.0],
+    "lEquations": ["x = (6.0 * (5.0 + 5.0))"]
+  },
+  {
+    "iIndex": 261,
+    "sQuestion": "Una tienda de mascotas tiene 9 jaulas para pájaros. Si cada jaula tiene 2 loros y 6 periquitos, ¿cuántos pájaros tiene la tienda de mascotas en total?",
+    "lAlignments": [17, 48, 62],
+    "lSolutions": [72.0],
+    "lEquations": ["x = (9.0 * (2.0 + 6.0))"]
+  },
+  {
+    "iIndex": 262,
+    "sQuestion": "Roger estaba clasificando su cambio en montones. Tenía 3 montones de cuartos y 3 montones de monedas de diez centavos. Si cada montón tenía 7 monedas, ¿cuántas monedas tenía en total?",
+    "lAlignments": [114, 55, 79],
+    "lSolutions": [42.0],
+    "lEquations": ["x = (7.0 * (3.0 + 3.0))"]
+  },
+  {
+    "iIndex": 263,
+    "sQuestion": "Había 2 amigos jugando un videojuego en línea cuando se unieron 2 jugadores más al juego. Si cada jugador tenía 8 vidas, ¿cuántas vidas tenían en total?",
+    "lAlignments": [106, 12, 55],
+    "lSolutions": [32.0],
+    "lEquations": ["x = (8.0 * (2.0 + 2.0))"]
+  },
+  {
+    "iIndex": 264,
+    "sQuestion": "Un camarero estaba atendiendo 7 mesas, con 7 mujeres y 2 hombres en cada mesa. ¿Cuántos clientes tuvo el camarero en total?",
+    "lAlignments": [14, 47, 59],
+    "lSolutions": [63.0],
+    "lEquations": ["x = (7.0 * (7.0 + 2.0))"]
+  },
+  {
+    "iIndex": 265,
+    "sQuestion": "Tiffany estaba jugando un videojuego donde obtiene 6 puntos por cada tesoro que encuentra. Si encontró 3 tesoros en el primer nivel y 5 en el segundo, ¿cuál sería su puntuación?",
+    "lAlignments": [51, 102, 137],
+    "lSolutions": [48.0],
+    "lEquations": ["x = (6.0 * (3.0 + 5.0))"]
+  },
+  {
+    "iIndex": 266,
+    "sQuestion": "Mientras compraba música en línea, Zoe compró 3 álbumes de música country y 5 álbumes de música pop. Cada álbum venía con una hoja de letras y tenía 3 canciones. ¿Cuántas canciones compró Zoe en total?",
+    "lAlignments": [123, 45, 66],
+    "lSolutions": [24.0],
+    "lEquations": ["x = (3.0 * (3.0 + 5.0))"]
+  },
+  {
+    "iIndex": 267,
+    "sQuestion": "Megan estaba organizando su estantería de libros asegurándose de que cada estante tuviera exactamente 7 libros. Si tenía 8 estantes de libros de misterio y 2 estantes de libros ilustrados, ¿cuántos libros tenía en total?",
+    "lAlignments": [80, 106, 137],
+    "lSolutions": [70.0],
+    "lEquations": ["x = (7.0 * (8.0 + 2.0))"]
+  },
+  {
+    "iIndex": 268,
+    "sQuestion": "Isabel estaba vendiendo sus collares en una venta de garaje. Vendió 3 collares de cuentas y 3 collares de piedras preciosas. Si cada collar costaba 6 dólares, ¿cuánto dinero ganó?",
+    "lAlignments": [127, 61, 82],
+    "lSolutions": [36.0],
+    "lEquations": ["x = (6.0 * (3.0 + 3.0))"]
+  },
+  {
+    "iIndex": 269,
+    "sQuestion": "Frank estaba recogiendo latas para reciclar. El sábado llenó 5 bolsas y el domingo llenó 5 bolsas más. Si cada bolsa tenía 4 latas, ¿cuántas latas recogió en total?",
+    "lAlignments": [127, 64, 98],
+    "lSolutions": [40.0],
+    "lEquations": ["x = (5.0 * (5.0 + 5.0))"]
+  },
+  {
+    "iIndex": 270,
+    "sQuestion": "Las flores con descuento de April tenían una oferta donde cada flor costaba 8 dólares. Si Vanessa compró 3 rosas y 3 margaritas, ¿cuánto gastó?",
+    "lAlignments": [66, 95, 107],
+    "lSolutions": [48.0],
+    "lEquations": ["x = (8.0 * (3.0 + 3.0))"]
+  },
+  {
+    "iIndex": 271,
+    "sQuestion": "Will trabajaba como empacador en una tienda de comestibles donde ganaba 8 dólares por hora. El lunes trabajó 8 horas y el martes trabajó 2 horas. ¿Cuánto dinero ganó Will en esos dos días?",
+    "lAlignments": [63, 102, 135],
+    "lSolutions": [80.0],
+    "lEquations": ["x = (8.0 * (8.0 + 2.0))"]
+  },
+  {
+    "iIndex": 272,
+    "sQuestion": "Rachel compró 7 sillas nuevas y 3 mesas nuevas para su casa. Si pasó 4 minutos en cada pieza de mobiliario armando, ¿cuántos minutos le llevó terminar?",
+    "lAlignments": [73, 15, 32],
+    "lSolutions": [40.0],
+    "lEquations": ["x = (4.0 * (7.0 + 3.0))"]
+  },
+  {
+    "iIndex": 273,
+    "sQuestion": "Mientras jugaba un juego de trivia, Adam respondió 8 preguntas correctamente en la primera mitad y 2 preguntas correctamente en la segunda mitad. Si cada pregunta valía 8 puntos, ¿cuál fue su puntuación final?",
+    "lAlignments": [153, 44, 86],
+    "lSolutions": [80.0],
+    "lEquations": ["x = (8.0 * (8.0 + 2.0))"]
+  },
+  {
+    "iIndex": 274,
+    "sQuestion": "Una tienda de mascotas tiene 4 jaulas para pájaros. Si cada jaula tiene 8 loros y 2 periquitos, ¿cuántos pájaros tiene la tienda de mascotas en total?",
+    "lAlignments": [17, 48, 62],
+    "lSolutions": [40.0],
+    "lEquations": ["x = (4.0 * (8.0 + 2.0))"]
+  },
+  {
+    "iIndex": 275,
+    "sQuestion": "Kaleb estaba recogiendo latas para reciclar. El sábado llenó 5 bolsas y el domingo llenó 5 bolsas más. Si cada bolsa tenía 4 latas en ella, ¿cuántas latas recogió en total?",
+    "lAlignments": [127, 64, 98],
+    "lSolutions": [40.0],
+    "lEquations": ["x = (4.0 * (5.0 + 5.0))"]
+  },
+  {
+    "iIndex": 276,
+    "sQuestion": "Bianca estaba organizando su estantería de libros asegurándose de que cada estante tuviera exactamente 8 libros. Si tenía 5 estantes de libros de misterio y 4 estantes de libros ilustrados, ¿cuántos libros tenía en total?",
+    "lAlignments": [81, 107, 138],
+    "lSolutions": [72.0],
+    "lEquations": ["x = (8.0 * (5.0 + 4.0))"]
+  },
+  {
+    "iIndex": 277,
+    "sQuestion": "Billy estaba clasificando su cambio en montones. Tenía 2 montones de cuartos y 3 montones de monedas de diez centavos. Si cada montón tenía 4 monedas, ¿cuántas monedas tenía en total?",
+    "lAlignments": [114, 55, 79],
+    "lSolutions": [20.0],
+    "lEquations": ["x = (4.0 * (2.0 + 3.0))"]
+  },
+  {
+    "iIndex": 278,
+    "sQuestion": "Chloe estaba jugando un videojuego donde obtiene 9 puntos por cada tesoro que encuentra. Si encontró 6 tesoros en el primer nivel y 3 en el segundo, ¿cuál sería su puntuación?",
+    "lAlignments": [49, 100, 135],
+    "lSolutions": [81.0],
+    "lEquations": ["x = (9.0 * (6.0 + 3.0))"]
+  },
+  {
+    "iIndex": 279,
+    "sQuestion": "Mientras compraba música en línea, Nancy compró 3 álbumes de música country y 5 álbumes de música pop. Cada álbum venía con una hoja de letras y tenía 8 canciones. ¿Cuántas canciones compró Nancy en total?",
+    "lAlignments": [125, 47, 68],
+    "lSolutions": [64.0],
+    "lEquations": ["x = (8.0 * (3.0 + 5.0))"]
+  },
+  {
+    "iIndex": 280,
+    "sQuestion": "Lana estaba desempacando algunas de sus viejas prendas de invierno. Encontró 3 cajas de ropa y en cada caja había 3 bufandas y 4 mitones. ¿Cuántas piezas de ropa de invierno tenía Lana en total?",
+    "lAlignments": [61, 112, 126],
+    "lSolutions": [21.0],
+    "lEquations": ["x = (3.0 * (3.0 + 4.0))"]
+  },
+  {
+    "iIndex": 281,
+    "sQuestion": "Frank y su amigo estaban comprando barajas trucadas en la tienda de magia por 7 dólares cada una. ¿Cuánto gastaron si Frank compró 3 barajas y su amigo compró 2 barajas?",
+    "lAlignments": [70, 126, 156],
+    "lSolutions": [35.0],
+    "lEquations": ["x = (7.0 * (3.0 + 2.0))"]
+  },  
+  {
+    "iIndex": 282,
+    "sQuestion": "Un camarero tenía 5 mesas a las que estaba atendiendo, con 5 mujeres y 3 hombres en cada mesa. ¿Cuántos clientes en total tenía el camarero?",
+    "lAlignments": [14, 47, 59],
+    "lSolutions": [40.0],
+    "lEquations": ["x = (5.0 * (5.0 + 3.0))"]
+  },
+  {
+    "iIndex": 283,
+    "sQuestion": "Había 8 amigos jugando un videojuego en línea cuando se unieron 2 jugadores más al juego. Si cada jugador tenía 6 vidas, ¿cuántas vidas tenían en total?",
+    "lAlignments": [106, 12, 55],
+    "lSolutions": [60.0],
+    "lEquations": ["x = (6.0 * (8.0 + 2.0))"]
+  },
+  {
+    "iIndex": 284,
+    "sQuestion": "Sam estaba recolectando latas para reciclar. El sábado llenó 3 bolsas y el domingo llenó 4 bolsas más. Si cada bolsa tenía 9 latas en ella, ¿cuántas latas recogió en total?",
+    "lAlignments": [125, 62, 96],
+    "lSolutions": [63.0],
+    "lEquations": ["x = (9.0 * (3.0 + 4.0))"]
+  },
+  {
+    "iIndex": 285,
+    "sQuestion": "La tienda de flores con descuento de April tenía una oferta en la que cada flor costaba 6 dólares. Si Maria compró 7 rosas y 3 margaritas, ¿cuánto gastó?",
+    "lAlignments": [66, 93, 105],
+    "lSolutions": [60.0],
+    "lEquations": ["x = (6.0 * (7.0 + 3.0))"]
+  },
+  {
+    "iIndex": 286,
+    "sQuestion": "Dave trabajaba como empacador en una tienda de comestibles donde ganaba 6 dólares por hora. El lunes trabajó 6 horas y el martes trabajó 2 horas. ¿Cuánto dinero ganó Dave en esos dos días?",
+    "lAlignments": [63, 102, 135],
+    "lSolutions": [48.0],
+    "lEquations": ["x = (6.0 * (6.0 + 2.0))"]
+  },
+  {
+    "iIndex": 287,
+    "sQuestion": "Nancy estaba organizando su estantería de libros asegurándose de que cada estante tuviera exactamente 6 libros. Si tenía 2 estantes de libros de misterio y 6 estantes de libros ilustrados, ¿cuántos libros tenía en total?",
+    "lAlignments": [137, 80, 106],
+    "lSolutions": [48.0],
+    "lEquations": ["x = (6.0 * (6.0 + 2.0))"]
+  },
+  {
+    "iIndex": 288,
+    "sQuestion": "Mientras compraba música en línea, Faye compró 2 álbumes de música country y 3 álbumes de música pop. Cada álbum venía con una hoja de letras y tenía 6 canciones. ¿Cuántas canciones compró Faye en total?",
+    "lAlignments": [124, 46, 67],
+    "lSolutions": [30.0],
+    "lEquations": ["x = (6.0 * (2.0 + 3.0))"]
+  },
+  {
+    "iIndex": 289,
+    "sQuestion": "Tom estaba clasificando su cambio en montones. Tenía 2 montones de cuartos y 4 montones de monedas de diez centavos. Si cada montón tenía 5 monedas, ¿cuántas monedas tenía en total?",
+    "lAlignments": [112, 53, 77],
+    "lSolutions": [30.0],
+    "lEquations": ["x = (5.0 * (2.0 + 4.0))"]
+  },
+  {
+    "iIndex": 290,
+    "sQuestion": "Mientras jugaba un juego de trivia, George respondió 6 preguntas correctamente en la primera mitad y 4 preguntas correctamente en la segunda mitad. Si cada pregunta valía 3 puntos, ¿cuál fue su puntuación final?",
+    "lAlignments": [155, 46, 88],
+    "lSolutions": [30.0],
+    "lEquations": ["x = (3.0 * (6.0 + 4.0))"]
+  },
+  {
+    "iIndex": 291,
+    "sQuestion": "Lana estaba desempacando algunas de sus viejas prendas de invierno. Encontró 4 cajas de ropa y en cada caja había 2 bufandas y 6 mitones. ¿Cuántas piezas de ropa de invierno tenía Lana en total?",
+    "lAlignments": [61, 112, 126],
+    "lSolutions": [32.0],
+    "lEquations": ["x = (4.0 * (2.0 + 6.0))"]
+  },
+  {
+    "iIndex": 292,
+    "sQuestion": "En el carnaval de la ciudad, Oliver montó la noria 7 veces y los autos chocadores 3 veces. Si cada paseo costaba 3 boletos, ¿cuántos boletos usó?",
+    "lAlignments": [106, 51, 79],
+    "lSolutions": [30.0],
+    "lEquations": ["x = (3.0 * (7.0 + 3.0))"]
+  },
+  {
+    "iIndex": 293,
+    "sQuestion": "Sarah tenía 4 páginas de tarea de matemáticas y 6 páginas de tarea de lectura. Si cada página tenía 4 problemas, ¿cuántos problemas tenía que completar en total?",
+    "lAlignments": [86, 11, 40],
+    "lSolutions": [40.0],
+    "lEquations": ["x = (4.0 * (4.0 + 6.0))"]
+  },  
+  {
+    "iIndex": 294,
+    "sQuestion": "Kaleb estaba recolectando latas para reciclar. El sábado llenó 4 bolsas y el domingo llenó 6 bolsas más. Si cada bolsa tenía 4 latas en ella, ¿cuántas latas recogió en total?",
+    "lAlignments": [127, 64, 98],
+    "lSolutions": [40.0],
+    "lEquations": ["x = (4.0 * (4.0 + 6.0))"]
+  },
+  {
+    "iIndex": 295,
+    "sQuestion": "Edward y su amigo estaban comprando barajas de cartas trucadas en la tienda de magia por 6 dólares cada una. ¿Cuánto gastaron si Edward compró 3 barajas y su amigo compró 6 barajas?",
+    "lAlignments": [158, 71, 128],
+    "lSolutions": [54.0],
+    "lEquations": ["x = (6.0 * (6.0 + 3.0))"]
+  },
+  {
+    "iIndex": 296,
+    "sQuestion": "Emily compró 4 sillas nuevas y 2 mesas nuevas para su casa. Si pasó 8 minutos en cada pieza de mueble montándola, ¿cuántos minutos le llevó terminar?",
+    "lAlignments": [72, 14, 31],
+    "lSolutions": [48.0],
+    "lEquations": ["x = (8.0 * (4.0 + 2.0))"]
+  },
+  {
+    "iIndex": 297,
+    "sQuestion": "Un camarero tenía 9 mesas a las que estaba atendiendo, con 2 mujeres y 6 hombres en cada mesa. ¿Cuántos clientes en total tenía el camarero?",
+    "lAlignments": [14, 47, 59],
+    "lSolutions": [72.0],
+    "lEquations": ["x = (9.0 * (2.0 + 6.0))"]
+  },
+  {
+    "iIndex": 298,
+    "sQuestion": "Había 4 amigos jugando un videojuego en línea cuando se unieron 5 jugadores más al juego. Si cada jugador tenía 3 vidas, ¿cuántas vidas tenían en total?",
+    "lAlignments": [106, 12, 55],
+    "lSolutions": [27.0],
+    "lEquations": ["x = (3.0 * (4.0 + 5.0))"]
+  },
+  {
+    "iIndex": 299,
+    "sQuestion": "Mientras compraba música en línea, Janet compró 6 álbumes de música country y 2 álbumes de música pop. Cada álbum venía con una hoja de letras y tenía 9 canciones. ¿Cuántas canciones compró Janet en total?",
+    "lAlignments": [125, 47, 68],
+    "lSolutions": [72.0],
+    "lEquations": ["x = (9.0 * (6.0 + 2.0))"]
+  },
+  {
+    "iIndex": 300,
+    "sQuestion": "El equipo de debate de la escuela tenía 26 chicos y 46 chicas. Si se dividían en grupos de 9, ¿cuántos grupos podrían formar?",
+    "lAlignments": [29, 41, 91],
+    "lSolutions": [8.0],
+    "lEquations": ["x = ((26.0 + 46.0) / 9.0)"]
+  },
+  {
+    "iIndex": 301,
+    "sQuestion": "Robin subió 35 fotos de su teléfono y 5 de su cámara a Facebook. Si ordenó las fotos en 5 álbumes diferentes con la misma cantidad de fotos en cada álbum, ¿cuántas fotos había en cada uno de los álbumes?",
+    "lAlignments": [16, 47, 106],
+    "lSolutions": [8.0],
+    "lEquations": ["x = ((35.0 + 5.0) / 5.0)"]
+  },
+  {
+    "iIndex": 302,
+    "sQuestion": "Kaleb había ahorrado 21 dólares. Si recibió otros 15 dólares como asignación, ¿cuántos juguetes de 6 dólares podría comprar?",
+    "lAlignments": [20, 55, 94],
+    "lSolutions": [6.0],
+    "lEquations": ["x = ((21.0 + 15.0) / 6.0)"]
+  },
+  {
+    "iIndex": 303,
+    "sQuestion": "Olivia estaba haciendo bolsas de galletas con 9 galletas en cada bolsa. Si tenía 13 galletas con chispas de chocolate y 41 galletas de avena, ¿cuántas bolsas podría hacer?",
+    "lAlignments": [77, 107, 43],
+    "lSolutions": [6.0],
+    "lEquations": ["x = ((13.0 + 41.0) / 9.0)"]
+  },
+  {
+    "iIndex": 304,
+    "sQuestion": "Luke ganó 9 dólares cortando césped y 18 dólares cortando hierba. Si solo gastó 3 dólares a la semana, ¿cuánto tiempo le duraría el dinero?",
+    "lAlignments": [11, 38, 79],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ((9.0 + 18.0) / 3.0)"]
+  },
+  {
+    "iIndex": 305,
+    "sQuestion": "El equipo de béisbol de la escuela tenía 48 jugadores nuevos y 6 jugadores que regresaban. Si el entrenador los dividió en grupos con 6 jugadores en cada grupo, ¿cuántos grupos habría?",
+    "lAlignments": [34, 53, 113],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ((48.0 + 6.0) / 6.0)"]
+  },  
+  {
+    "iIndex": 306,
+    "sQuestion": "Para la fiesta de cumpleaños, Jerry compró 41 refrescos normales y 22 refrescos dietéticos. Si su refrigerador solo podía contener 9 en cada estante, ¿cuántos estantes llenaría?",
+    "lAlignments": [35, 56, 101],
+    "lSolutions": [7.0],
+    "lEquations": ["x = ((41.0 + 22.0) / 9.0)"]
+  },
+  {
+    "iIndex": 307,
+    "sQuestion": "Paige y sus amigos estaban reciclando papel para su clase. Por cada 4 libras de papel que reciclaron, ganaron un punto. Si Paige recicló 14 libras y sus amigos reciclaron 2 libras, ¿cuántos puntos ganaron en total?",
+    "lAlignments": [135, 170, 71],
+    "lSolutions": [4.0],
+    "lEquations": ["x = ((14.0 + 2.0) / 4.0)"]
+  },
+  {
+    "iIndex": 308,
+    "sQuestion": "Para la tarea, Nancy tenía 17 problemas de matemáticas y 15 problemas de ortografía. Si puede terminar 8 problemas en una hora, ¿cuánto tiempo le tomará terminar todos los problemas?",
+    "lAlignments": [24, 45, 85],
+    "lSolutions": [4.0],
+    "lEquations": ["x = ((17.0 + 15.0) / 8.0)"]
+  },
+  {
+    "iIndex": 309,
+    "sQuestion": "Will estaba organizando sus cartas de béisbol en un álbum con 3 en cada página. Si tenía 8 cartas nuevas y 10 cartas antiguas para poner en el álbum, ¿cuántas páginas usaría?",
+    "lAlignments": [83, 99, 57],
+    "lSolutions": [6.0],
+    "lEquations": ["x = ((8.0 + 10.0) / 3.0)"]
+  },
+  {
+    "iIndex": 310,
+    "sQuestion": "El equipo de debate de la escuela tenía 11 niños y 45 niñas. Si se dividieran en grupos de 7, ¿cuántos grupos podrían formar?",
+    "lAlignments": [29, 41, 91],
+    "lSolutions": [8.0],
+    "lEquations": ["x = ((11.0 + 45.0) / 7.0)"]
+  },
+  {
+    "iIndex": 311,
+    "sQuestion": "Un grupo de 4 amigos entró a un restaurante. El chef ya había cocinado 9 alas de pollo pero cocinó 7 más para el grupo. Si cada persona recibiera la misma cantidad, ¿cuántas recibiría cada persona?",
+    "lAlignments": [67, 101, 12],
+    "lSolutions": [4.0],
+    "lEquations": ["x = ((9.0 + 7.0) / 4.0)"]
+  },
+  {
+    "iIndex": 312,
+    "sQuestion": "Un jarrón puede contener 6 flores. Si tuvieras 7 claveles y 47 rosas, ¿cuántos jarrones necesitarías para contener las flores?",
+    "lAlignments": [39, 56, 17],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ((7.0 + 47.0) / 6.0)"]
+  },
+  {
+    "iIndex": 313,
+    "sQuestion": "Un refugio de mascotas tenía 9 cachorros cuando trajeron otros 12. Si se adoptan 3 cachorros al día, ¿cuánto tiempo tomará adoptar a todos?",
+    "lAlignments": [19, 42, 65],
+    "lSolutions": [7.0],
+    "lEquations": ["x = ((9.0 + 12.0) / 3.0)"]
+  },
+  {
+    "iIndex": 314,
+    "sQuestion": "Roger estaba ayudando a los trabajadores de la cafetería a recoger bandejas de almuerzo, pero solo podía llevar 4 bandejas a la vez. Si tenía que recoger 10 bandejas de una mesa y 2 bandejas de otra, ¿cuántos viajes haría?",
+    "lAlignments": [126, 154, 86],
+    "lSolutions": [3.0],
+    "lEquations": ["x = ((10.0 + 2.0) / 4.0)"]
+  },  
+  {
+    "iIndex": 315,
+    "sQuestion": "Una tienda de juguetes tenía 4 osos de peluche gigantes en stock cuando recibieron otro envío con 10 osos. Colocaron los osos en estantes con 7 en cada estante. ¿Cuántos estantes usaron?",
+    "lAlignments": [17, 84, 136],
+    "lSolutions": [2.0],
+    "lEquations": ["x = ((4.0 + 10.0) / 7.0)"]
+  },
+  {
+    "iIndex": 316,
+    "sQuestion": "John ganó 6 dólares cortando césped y 18 dólares cortando maleza. Si solo gastó 3 dólares a la semana, ¿cuánto tiempo le duraría el dinero?",
+    "lAlignments": [11, 38, 79],
+    "lSolutions": [8.0],
+    "lEquations": ["x = ((6.0 + 18.0) / 3.0)"]
+  },
+  {
+    "iIndex": 317,
+    "sQuestion": "La lavadora vieja de Wendy solo podía lavar 8 prendas de ropa a la vez. Si tenía que lavar 39 camisas y 33 suéteres, ¿cuántos lavados tendría que hacer?",
+    "lAlignments": [96, 110, 45],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ((39.0 + 33.0) / 8.0)"]
+  },
+  {
+    "iIndex": 318,
+    "sQuestion": "La clase de Debby va de excursión al zoológico. Si cada furgoneta puede transportar a 4 personas y van 2 estudiantes y 6 adultos, ¿cuántas furgonetas necesitarán?",
+    "lAlignments": [96, 111, 73],
+    "lSolutions": [2.0],
+    "lEquations": ["x = ((2.0 + 6.0) / 4.0)"]
+  },
+  {
+    "iIndex": 319,
+    "sQuestion": "Isabel subió 2 fotos de su teléfono y 4 de su cámara a Facebook. Si ordenó las fotos en 3 álbumes diferentes con la misma cantidad de fotos en cada álbum, ¿cuántas fotos había en cada uno de los álbumes?",
+    "lAlignments": [17, 47, 106],
+    "lSolutions": [2.0],
+    "lEquations": ["x = ((2.0 + 4.0) / 3.0)"]
+  },
+  {
+    "iIndex": 320,
+    "sQuestion": "Mientras jugaba en la sala de juegos, Frank ganó 33 boletos jugando 'golpea al topo' y 9 boletos jugando 'tiro al blanco'. Si intentaba comprar caramelos que costaban 6 boletos cada uno, ¿cuántos podría comprar?",
+    "lAlignments": [40, 78, 149],
+    "lSolutions": [7.0],
+    "lEquations": ["x = ((33.0 + 9.0) / 6.0)"]
+  },
+  {
+    "iIndex": 321,
+    "sQuestion": "Mike ganó 14 dólares cortando césped y 26 dólares cortando maleza. Si solo gastó 5 dólares a la semana, ¿cuánto tiempo le duraría el dinero?",
+    "lAlignments": [11, 39, 80],
+    "lSolutions": [8.0],
+    "lEquations": ["x = ((14.0 + 26.0) / 5.0)"]
+  },
+  {
+    "iIndex": 322,
+    "sQuestion": "Gwen y sus amigos estaban reciclando papel para su clase. Por cada 3 libras de papel reciclado, ganaban un punto. Si Gwen recicló 5 libras y sus amigos reciclaron 13 libras, ¿cuántos puntos ganaron en total?",
+    "lAlignments": [133, 167, 70],
+    "lSolutions": [6.0],
+    "lEquations": ["x = ((5.0 + 13.0) / 3.0)"]
+  },
+  {
+    "iIndex": 323,
+    "sQuestion": "Robin subió 31 fotos de su teléfono y 5 de su cámara a Facebook. Si ordenó las fotos en 9 álbumes diferentes con la misma cantidad de fotos en cada álbum, ¿cuántas fotos había en cada uno de los álbumes?",
+    "lAlignments": [16, 47, 106],
+    "lSolutions": [4.0],
+    "lEquations": ["x = ((31.0 + 5.0) / 9.0)"]
+  },
+  {
+    "iIndex": 324,
+    "sQuestion": "Para Halloween, Megan recibió 11 piezas de dulces de los vecinos y 5 piezas de dulces de su hermana mayor. Si solo comía 8 piezas al día, ¿cuánto tiempo le durarían los dulces?",
+    "lAlignments": [30, 68, 116],
+    "lSolutions": [2.0],
+    "lEquations": ["x = ((11.0 + 5.0) / 8.0)"]
+  },  
+  {
+    "iIndex": 325,
+    "sQuestion": "Maria estaba haciendo bolsitas de galletas con 5 galletas en cada bolsa. Si tenía 33 galletas con chispas de chocolate y 2 galletas de avena, ¿cuántas bolsitas podría hacer?",
+    "lAlignments": [76, 106, 42],
+    "lSolutions": [7.0],
+    "lEquations": ["x = ((33.0 + 2.0) / 5.0)"]
+  },
+  {
+    "iIndex": 326,
+    "sQuestion": "El equipo de béisbol de su escuela tenía 4 jugadores nuevos y 6 jugadores que regresaban. Si el entrenador los dividió en grupos con 5 jugadores en cada grupo, ¿cuántos grupos habría?",
+    "lAlignments": [34, 52, 112],
+    "lSolutions": [2.0],
+    "lEquations": ["x = ((4.0 + 6.0) / 5.0)"]
+  },
+  {
+    "iIndex": 327,
+    "sQuestion": "Un refugio de animales tenía 5 cachorros cuando trajeron otros 35. Si se adoptan 8 cachorros al día, ¿cuánto tiempo tomaría adoptar a todos?",
+    "lAlignments": [19, 42, 65],
+    "lSolutions": [5.0],
+    "lEquations": ["x = ((5.0 + 35.0) / 8.0)"]
+  },
+  {
+    "iIndex": 328,
+    "sQuestion": "La clase de Nancy va de excursión al zoológico. Si cada furgoneta puede llevar a 5 personas y van 12 estudiantes y 3 adultos, ¿cuántas furgonetas necesitarán?",
+    "lAlignments": [96, 112, 73],
+    "lSolutions": [3.0],
+    "lEquations": ["x = ((12.0 + 3.0) / 5.0)"]
+  },
+  {
+    "iIndex": 329,
+    "sQuestion": "Dave estaba ayudando a los trabajadores de la cafetería a recoger bandejas de almuerzo, pero solo podía llevar 9 bandejas a la vez. Si tenía que recoger 17 bandejas de una mesa y 55 bandejas de otra, ¿cuántos viajes haría?",
+    "lAlignments": [125, 153, 85],
+    "lSolutions": [8.0],
+    "lEquations": ["x = ((17.0 + 55.0) / 9.0)"]
+  },
+  {
+    "iIndex": 330,
+    "sQuestion": "Para la fiesta de cumpleaños, George compró 10 refrescos normales y 22 refrescos dietéticos. Si su refrigerador solo podía contener 4 en cada estante, ¿cuántos estantes llenaría?",
+    "lAlignments": [36, 57, 102],
+    "lSolutions": [8.0],
+    "lEquations": ["x = ((10.0 + 22.0) / 4.0)"]
+  },
+  {
+    "iIndex": 331,
+    "sQuestion": "El equipo de debate de la escuela tenía 28 niños y 4 niñas. Si se dividieran en grupos de 4, ¿cuántos grupos podrían formar?",
+    "lAlignments": [29, 41, 90],
+    "lSolutions": [8.0],
+    "lEquations": ["x = ((28.0 + 4.0) / 4.0)"]
+  },
+  {
+    "iIndex": 332,
+    "sQuestion": "Maria estaba haciendo bolsitas de galletas con 8 galletas en cada bolsa. Si tenía 5 galletas con chispas de chocolate y 19 galletas de avena, ¿cuántas bolsitas podría hacer?",
+    "lAlignments": [76, 105, 42],
+    "lSolutions": [3.0],
+    "lEquations": ["x = ((5.0 + 19.0) / 8.0)"]
+  },
+  {
+    "iIndex": 333,
+    "sQuestion": "Para Halloween, Sarah recibió 66 piezas de dulces de sus vecinos y 15 piezas de su hermana mayor. Si solo comiera 9 piezas al día, ¿cuánto tiempo le durarían los dulces?",
+    "lAlignments": [30, 68, 117],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ((66.0 + 15.0) / 9.0)"]
+  },
+  {
+    "iIndex": 334,
+    "sQuestion": "Henry estaba ayudando a los trabajadores de la cafetería a recoger bandejas de almuerzo, pero solo podía llevar 9 bandejas a la vez. Si tenía que recoger 29 bandejas de una mesa y 52 bandejas de otra, ¿cuántos viajes haría?",
+    "lAlignments": [126, 154, 86],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ((29.0 + 52.0) / 9.0)"]
+  },
+  {
+    "iIndex": 335,
+    "sQuestion": "Tiffany subió 7 fotos de su teléfono y 13 de su cámara a Facebook. Si ordenó las fotos en 5 álbumes diferentes con la misma cantidad de fotos en cada álbum, ¿cuántas fotos había en cada uno de los álbumes?",
+    "lAlignments": [18, 48, 108],
+    "lSolutions": [4.0],
+    "lEquations": ["x = ((7.0 + 13.0) / 5.0)"]
+  },
+  {
+    "iIndex": 336,
+    "sQuestion": "Una tienda de juguetes tenía 5 osos de peluche gigantes en stock cuando recibieron otro envío con 7 osos. Colocaron los osos en estantes con 6 en cada estante. ¿Cuántos estantes usaron?",
+    "lAlignments": [17, 84, 135],
+    "lSolutions": [2.0],
+    "lEquations": ["x = ((5.0 + 7.0) / 6.0)"]
+  },  
+  {
+    "iIndex": 337,
+    "sQuestion": "Paul ganó 68 dólares cortando césped y 13 dólares cortando maleza. Si solo gastaba 9 dólares a la semana, ¿cuánto tiempo le duraría el dinero?",
+    "lAlignments": [11, 39, 80],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ((68.0 + 13.0) / 9.0)"]
+  },
+  {
+    "iIndex": 338,
+    "sQuestion": "Mientras jugaba en la sala de juegos, Edward ganó 3 boletos jugando 'golpea al topo' y 5 boletos jugando 'skee ball'. Si intentaba comprar dulces que costaban 4 boletos cada uno, ¿cuántos podría comprar?",
+    "lAlignments": [41, 78, 149],
+    "lSolutions": [2.0],
+    "lEquations": ["x = ((3.0 + 5.0) / 4.0)"]
+  },
+  {
+    "iIndex": 339,
+    "sQuestion": "La clase de Megan va de excursión al zoológico. Si cada furgoneta puede llevar a 5 personas y van 25 estudiantes y 5 adultos, ¿cuántas furgonetas necesitarán?",
+    "lAlignments": [73, 96, 112],
+    "lSolutions": [6.0],
+    "lEquations": ["x = ((5.0 + 25.0) / 5.0)"]
+  },
+  {
+    "iIndex": 340,
+    "sQuestion": "Luke estaba organizando sus tarjetas de béisbol en un archivador con 3 en cada página. Si tenía 3 tarjetas nuevas y 9 tarjetas antiguas para poner en el archivador, ¿cuántas páginas usaría?",
+    "lAlignments": [83, 99, 57],
+    "lSolutions": [4.0],
+    "lEquations": ["x = ((3.0 + 9.0) / 3.0)"]
+  },
+  {
+    "iIndex": 341,
+    "sQuestion": "Un grupo de 3 amigos entró en un restaurante. El chef ya había cocinado 6 alas de pollo, pero cocinó 3 más para el grupo. Si cada persona recibe la misma cantidad, ¿cuántas alas recibiría cada persona?",
+    "lAlignments": [12, 67, 101],
+    "lSolutions": [3.0],
+    "lEquations": ["x = ((3.0 + 6.0) / 3.0)"]
+  },
+  {
+    "iIndex": 342,
+    "sQuestion": "Olivia subió 5 fotos de su teléfono y 35 de su cámara a Facebook. Si ordenó las fotos en 8 álbumes diferentes con la misma cantidad de fotos en cada álbum, ¿cuántas fotos había en cada uno de los álbumes?",
+    "lAlignments": [17, 47, 107],
+    "lSolutions": [5.0],
+    "lEquations": ["x = ((5.0 + 35.0) / 8.0)"]
+  },
+  {
+    "iIndex": 343,
+    "sQuestion": "Una tienda de juguetes tenía 6 osos de peluche gigantes en stock cuando recibieron otro envío con 18 osos. Colocaron los osos en estantes con 6 en cada estante. ¿Cuántos estantes usaron?",
+    "lAlignments": [17, 84, 136],
+    "lSolutions": [4.0],
+    "lEquations": ["x = ((6.0 + 18.0) / 6.0)"]
+  },
+  {
+    "iIndex": 344,
+    "sQuestion": "Jerry estaba ayudando a los trabajadores de la cafetería a recoger bandejas de almuerzo, pero solo podía llevar 8 bandejas a la vez. Si tenía que recoger 9 bandejas de una mesa y 7 bandejas de otra, ¿cuántos viajes haría?",
+    "lAlignments": [126, 153, 86],
+    "lSolutions": [2.0],
+    "lEquations": ["x = ((9.0 + 7.0) / 8.0)"]
+  },
+  {
+    "iIndex": 345,
+    "sQuestion": "Un jarrón puede contener 5 flores. Si tuvieras 6 claveles y 19 rosas, ¿cuántos jarrones necesitarías para contener las flores?",
+    "lAlignments": [39, 56, 17],
+    "lSolutions": [5.0],
+    "lEquations": ["x = ((6.0 + 19.0) / 5.0)"]
+  },
+  {
+    "iIndex": 346,
+    "sQuestion": "Haley y sus amigos estaban reciclando papel para su clase. Por cada 3 libras que reciclaban, ganaban un punto. Si Haley recicló 11 libras y sus amigos reciclaron 16 libras, ¿cuántos puntos ganaron en total?",
+    "lAlignments": [135, 170, 71],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ((11.0 + 16.0) / 3.0)"]
+  },
+  {
+    "iIndex": 347,
+    "sQuestion": "Un refugio de animales tenía 17 cachorros cuando trajeron otros 55. Si se adoptan 8 cachorros al día, ¿cuánto tiempo tomaría adoptar a todos?",
+    "lAlignments": [19, 43, 66],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ((17.0 + 55.0) / 8.0)"]
+  },
+  {
+    "iIndex": 348,
+    "sQuestion": "El equipo de béisbol de su escuela tenía 12 jugadores nuevos y 44 jugadores que regresaban. Si el entrenador los dividió en grupos con 8 jugadores en cada grupo, ¿cuántos grupos habría?",
+    "lAlignments": [34, 53, 114],
+    "lSolutions": [7.0],
+    "lEquations": ["x = ((12.0 + 44.0) / 8.0)"]
+  },  
+  {
+    "iIndex": 349,
+    "sQuestion": "Frank había ahorrado 3 dólares. Si recibió otros 37 dólares de su asignación, ¿cuántos juguetes de 8 dólares podría comprar?",
+    "lAlignments": [20, 54, 93],
+    "lSolutions": [5.0],
+    "lEquations": ["x = ((3.0 + 37.0) / 8.0)"]
+  },
+  {
+    "iIndex": 350,
+    "sQuestion": "Luke estaba organizando sus tarjetas de béisbol en un archivador con 3 en cada página. Si tenía 3 tarjetas nuevas y 9 tarjetas antiguas para poner en el archivador, ¿cuántas páginas usaría?",
+    "lAlignments": [83, 99, 57],
+    "lSolutions": [4.0],
+    "lEquations": ["x = ((3.0 + 9.0) / 3.0)"]
+  },
+  {
+    "iIndex": 351,
+    "sQuestion": "Un grupo de 3 amigos entró en un restaurante. El chef ya había cocinado 6 alas de pollo, pero cocinó 3 más para el grupo. Si cada persona recibe la misma cantidad, ¿cuántas alas recibiría cada persona?",
+    "lAlignments": [12, 67, 101],
+    "lSolutions": [3.0],
+    "lEquations": ["x = ((3.0 + 6.0) / 3.0)"]
+  },
+  {
+    "iIndex": 352,
+    "sQuestion": "Olivia subió 5 fotos de su teléfono y 35 de su cámara a Facebook. Si ordenó las fotos en 8 álbumes diferentes con la misma cantidad de fotos en cada álbum, ¿cuántas fotos había en cada uno de los álbumes?",
+    "lAlignments": [17, 47, 107],
+    "lSolutions": [5.0],
+    "lEquations": ["x = ((5.0 + 35.0) / 8.0)"]
+  },
+  {
+    "iIndex": 353,
+    "sQuestion": "Una tienda de juguetes tenía 6 osos de peluche gigantes en stock cuando recibieron otro envío con 18 osos. Colocaron los osos en estantes con 6 en cada estante. ¿Cuántos estantes usaron?",
+    "lAlignments": [17, 84, 136],
+    "lSolutions": [4.0],
+    "lEquations": ["x = ((6.0 + 18.0) / 6.0)"]
+  },
+  {
+    "iIndex": 354,
+    "sQuestion": "Jerry estaba ayudando a los trabajadores de la cafetería a recoger bandejas de almuerzo, pero solo podía llevar 8 bandejas a la vez. Si tenía que recoger 9 bandejas de una mesa y 7 bandejas de otra, ¿cuántos viajes haría?",
+    "lAlignments": [126, 153, 86],
+    "lSolutions": [2.0],
+    "lEquations": ["x = ((9.0 + 7.0) / 8.0)"]
+  },
+  {
+    "iIndex": 355,
+    "sQuestion": "Un jarrón puede contener 5 flores. Si tuvieras 6 claveles y 19 rosas, ¿cuántos jarrones necesitarías para contener las flores?",
+    "lAlignments": [39, 56, 17],
+    "lSolutions": [5.0],
+    "lEquations": ["x = ((6.0 + 19.0) / 5.0)"]
+  },
+  {
+    "iIndex": 356,
+    "sQuestion": "Haley y sus amigos estaban reciclando papel para su clase. Por cada 3 libras que reciclaban, ganaban un punto. Si Haley recicló 11 libras y sus amigos reciclaron 16 libras, ¿cuántos puntos ganaron en total?",
+    "lAlignments": [135, 170, 71],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ((11.0 + 16.0) / 3.0)"]
+  },
+  {
+    "iIndex": 357,
+    "sQuestion": "Un refugio de animales tenía 17 cachorros cuando trajeron otros 55. Si se adoptan 8 cachorros al día, ¿cuánto tiempo tomaría adoptar a todos?",
+    "lAlignments": [19, 43, 66],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ((17.0 + 55.0) / 8.0)"]
+  },
+  {
+    "iIndex": 358,
+    "sQuestion": "El equipo de béisbol de su escuela tenía 12 jugadores nuevos y 44 jugadores que regresaban. Si el entrenador los dividió en grupos con 8 jugadores en cada grupo, ¿cuántos grupos habría?",
+    "lAlignments": [34, 53, 114],
+    "lSolutions": [7.0],
+    "lEquations": ["x = ((12.0 + 44.0) / 8.0)"]
+  },
+  {
+    "iIndex": 359,
+    "sQuestion": "Frank había ahorrado 3 dólares. Si recibió otros 37 dólares de su asignación, ¿cuántos juguetes de 8 dólares podría comprar?",
+    "lAlignments": [20, 54, 93],
+    "lSolutions": [5.0],
+    "lEquations": ["x = ((3.0 + 37.0) / 8.0)"]
+  },
+  {
+    "iIndex": 360,
+    "sQuestion": "Un refugio de animales tenía 8 cachorros cuando trajeron otros 19. Si se adoptan 3 cachorros al día, ¿cuánto tiempo tomaría adoptar a todos?",
+    "lAlignments": [19, 42, 65],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ((8.0 + 19.0) / 3.0)"]
+  },
+  {
+    "iIndex": 361,
+    "sQuestion": "Para la tarea, Faye tenía 13 problemas de matemáticas y 2 problemas de ortografía. Si puede completar 3 problemas en una hora, ¿cuánto tiempo le llevaría completar todos los problemas?",
+    "lAlignments": [23, 44, 83],
+    "lSolutions": [5.0],
+    "lEquations": ["x = ((13.0 + 2.0) / 3.0)"]
+  },
+  {
+    "iIndex": 362,
+    "sQuestion": "Sam había ahorrado 8 dólares. Si recibió otros 7 dólares de su asignación, ¿cuántos juguetes de 3 dólares podría comprar?",
+    "lAlignments": [18, 52, 90],
+    "lSolutions": [5.0],
+    "lEquations": ["x = ((8.0 + 7.0) / 3.0)"]
+  },
+  {
+    "iIndex": 363,
+    "sQuestion": "Bianca y sus amigos estaban reciclando papel para su clase. Por cada 3 libras que reciclaban, ganaban un punto. Si Bianca recicló 24 libras y sus amigos reciclaron 3 libras, ¿cuántos puntos ganaron en total?",
+    "lAlignments": [72, 137, 172],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ((3.0 + 24.0) / 3.0)"]
+  },
+  {
+    "iIndex": 364,
+    "sQuestion": "El equipo de béisbol de la escuela tenía 31 jugadores nuevos y 4 jugadores que regresaban. Si el entrenador los dividió en grupos de 7 jugadores en cada grupo, ¿cuántos grupos habría?",
+    "lAlignments": [34, 53, 113],
+    "lSolutions": [5.0],
+    "lEquations": ["x = ((31.0 + 4.0) / 7.0)"]
+  },
+  {
+    "iIndex": 365,
+    "sQuestion": "Oliver estaba organizando sus tarjetas de béisbol en un archivador con 3 en cada página. Si tenía 2 tarjetas nuevas y 10 tarjetas antiguas para poner en el archivador, ¿cuántas páginas usaría?",
+    "lAlignments": [85, 101, 59],
+    "lSolutions": [4.0],
+    "lEquations": ["x = ((2.0 + 10.0) / 3.0)"]
+  },
+  {
+    "iIndex": 366,
+    "sQuestion": "Paul ganó 3 dólares cortando césped y 3 dólares cortando maleza. Si solo gastó 3 dólares a la semana, ¿cuánto tiempo le duraría el dinero?",
+    "lAlignments": [11, 38, 78],
+    "lSolutions": [2.0],
+    "lEquations": ["x = ((3.0 + 3.0) / 3.0)"]
+  },
+  {
+    "iIndex": 367,
+    "sQuestion": "Robin estaba haciendo bolsitas de galletas con 6 galletas en cada bolsa. Si tenía 23 galletas con chispas de chocolate y 25 galletas de avena, ¿cuántas bolsitas podría hacer?",
+    "lAlignments": [76, 106, 42],
+    "lSolutions": [8.0],
+    "lEquations": ["x = ((23.0 + 25.0) / 6.0)"]
+  },
+  {
+    "iIndex": 368,
+    "sQuestion": "El equipo de debate de la escuela tenía 5 chicos y 40 chicas en él. Si se dividieran en grupos de 9, ¿cuántos grupos podrían formar?",
+    "lAlignments": [29, 40, 90],
+    "lSolutions": [5.0],
+    "lEquations": ["x = ((5.0 + 40.0) / 9.0)"]
+  },
+  {
+    "iIndex": 369,
+    "sQuestion": "En un picnic de la empresa, 23 gerentes y 7 empleados decidieron comenzar un juego de vóley. Si se dividieran en 6 equipos, ¿cuántas personas habría en cada equipo?",
+    "lAlignments": [21, 37, 107],
+    "lSolutions": [5.0],
+    "lEquations": ["x = ((23.0 + 7.0) / 6.0)"]
+  },
+  {
+    "iIndex": 370,
+    "sQuestion": "Para una fiesta de cumpleaños, Cody compró 4 refrescos regulares y 44 refrescos dietéticos. Si su nevera solo puede contener 6 en cada estante, ¿cuántos estantes llenaría?",
+    "lAlignments": [34, 54, 99],
+    "lSolutions": [8.0],
+    "lEquations": ["x = ((4.0 + 44.0) / 6.0)"]
+  },  
+  {
+    "iIndex": 371,
+    "sQuestion": "La clase de Robin va de excursión al zoológico. Si cada furgoneta puede llevar a 8 personas y van 22 estudiantes y 2 adultos, ¿cuántas furgonetas necesitarán?",
+    "lAlignments": [96, 112, 73],
+    "lSolutions": [3.0],
+    "lEquations": ["x = ( ( 22.0 + 2.0 ) / 8.0 )"]
+  },
+  {
+    "iIndex": 372,
+    "sQuestion": "Ned estaba ayudando a los trabajadores de la cafetería a recoger bandejas de almuerzo, pero solo podía llevar 5 bandejas a la vez. Si tenía que recoger 5 bandejas de una mesa y 5 bandejas de otra, ¿cuántos viajes hará?",
+    "lAlignments": [84, 124, 151],
+    "lSolutions": [2.0],
+    "lEquations": ["x = ( ( 5.0 + 5.0 ) / 5.0 )"]
+  },
+  {
+    "iIndex": 373,
+    "sQuestion": "El equipo de béisbol de la escuela tenía 2 nuevos jugadores y 6 jugadores que regresaban. Si el entrenador los colocó en grupos de 4 jugadores en cada grupo, ¿cuántos grupos habría?",
+    "lAlignments": [34, 52, 112],
+    "lSolutions": [2.0],
+    "lEquations": ["x = ( ( 2.0 + 6.0 ) / 4.0 )"]
+  },
+  {
+    "iIndex": 374,
+    "sQuestion": "Para la tarea, Amy tenía 18 problemas de matemáticas y 6 problemas de ortografía. Si puede terminar 4 problemas en una hora, ¿cuánto tiempo le llevará terminar todos los problemas?",
+    "lAlignments": [22, 43, 82],
+    "lSolutions": [6.0],
+    "lEquations": ["x = ( ( 18.0 + 6.0 ) / 4.0 )"]
+  },
+  {
+    "iIndex": 375,
+    "sQuestion": "Maria estaba haciendo bolsas de galletas con 3 galletas en cada bolsa. Si tenía 2 galletas con chispas de chocolate y 16 galletas de avena, ¿cuántas bolsas podría hacer?",
+    "lAlignments": [76, 105, 42],
+    "lSolutions": [6.0],
+    "lEquations": ["x = ( ( 2.0 + 16.0 ) / 3.0 )"]
+  },
+  {
+    "iIndex": 376,
+    "sQuestion": "La vieja lavadora de Sarah solo podía lavar 5 prendas a la vez. Si tenía que lavar 43 camisetas y 2 suéteres, ¿cuántas cargas tendría que hacer?",
+    "lAlignments": [96, 110, 45],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ( ( 43.0 + 2.0 ) / 5.0 )"]
+  },
+  {
+    "iIndex": 377,
+    "sQuestion": "Un refugio para mascotas tenía 3 cachorros cuando trajeron otros 3. Si se adoptan 3 cachorros al día, ¿cuánto tiempo tomará adoptar a todos?",
+    "lAlignments": [19, 42, 64],
+    "lSolutions": [2.0],
+    "lEquations": ["x = ( ( 3.0 + 3.0 ) / 3.0 )"]
+  },
+  {
+    "iIndex": 378,
+    "sQuestion": "Mientras jugaba en la sala de juegos, Luke ganó 2 boletos jugando 'golpea al topo' y 13 boletos jugando 'skee ball'. Si intentaba comprar caramelos que costaban 3 boletos cada uno, ¿cuántos podría comprar?",
+    "lAlignments": [39, 76, 148],
+    "lSolutions": [5.0],
+    "lEquations": ["x = ( ( 2.0 + 13.0 ) / 3.0 )"]
+  },
+  {
+    "iIndex": 379,
+    "sQuestion": "Un grupo de 3 amigos entró a un restaurante. El chef ya había cocinado 8 alitas de pollo pero cocinó 10 más para el grupo. Si cada uno recibió la misma cantidad, ¿cuántas alitas recibirá cada persona?",
+    "lAlignments": [67, 101, 12],
+    "lSolutions": [6.0],
+    "lEquations": ["x = ( ( 8.0 + 10.0 ) / 3.0 )"]
+  },
+  {
+    "iIndex": 380,
+    "sQuestion": "La vieja lavadora de Nancy solo podía lavar 9 prendas a la vez. Si tenía que lavar 19 camisetas y 8 suéteres, ¿cuántas cargas tendría que hacer?",
+    "lAlignments": [96, 110, 45],
+    "lSolutions": [3.0],
+    "lEquations": ["x = ( ( 19.0 + 8.0 ) / 9.0 )"]
+  },
+  {
+    "iIndex": 381,
+    "sQuestion": "Paul había ahorrado 3 dólares. Si recibió otros 7 dólares de su asignación, ¿cuántos juguetes de 5 dólares podría comprar?",
+    "lAlignments": [19, 53, 91],
+    "lSolutions": [2.0],
+    "lEquations": ["x = ( ( 3.0 + 7.0 ) / 5.0 )"]
+  },
+  {
+    "iIndex": 382,
+    "sQuestion": "Jerry ganó 14 dólares cortando césped y 31 dólares cortando maleza. Si solo gastaba 5 dólares a la semana, ¿cuánto tiempo le duraría el dinero?",
+    "lAlignments": [12, 40, 81],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ( ( 14.0 + 31.0 ) / 5.0 )"]
+  },
+  {
+    "iIndex": 383,
+    "sQuestion": "Mientras jugaba en la sala de juegos, Ned ganó 26 boletos jugando a 'golpea al topo' y 19 boletos jugando a 'skee ball'. Si intentaba comprar caramelos que costaban 9 boletos cada uno, ¿cuántos podría comprar?",
+    "lAlignments": [38, 76, 148],
+    "lSolutions": [5.0],
+    "lEquations": ["x = ( ( 26.0 + 19.0 ) / 9.0 )"]
+  },
+  {
+    "iIndex": 384,
+    "sQuestion": "Luke estaba ayudando a los trabajadores de la cafetería a recoger bandejas de almuerzo, pero solo podía llevar 4 bandejas a la vez. Si tenía que recoger 20 bandejas de una mesa y 16 bandejas de otra, ¿cuántos viajes hará?",
+    "lAlignments": [125, 153, 85],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ( ( 20.0 + 16.0 ) / 4.0 )"]
+  },
+  {
+    "iIndex": 385,
+    "sQuestion": "Vanessa y sus amigos estaban reciclando papel para su clase. Por cada 9 libras que reciclaron, ganaron un punto. Si Vanessa recicló 20 libras y sus amigos reciclaron 16 libras, ¿cuántos puntos ganaron?",
+    "lAlignments": [139, 174, 73],
+    "lSolutions": [4.0],
+    "lEquations": ["x = ( ( 20.0 + 16.0 ) / 9.0 )"]
+  },
+  {
+    "iIndex": 386,
+    "sQuestion": "Un refugio de animales tenía 2 cachorros cuando trajeron otros 34. Si se adoptan 4 cachorros al día, ¿cuánto tiempo tomará adoptar a todos?",
+    "lAlignments": [19, 42, 65],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ( ( 2.0 + 34.0 ) / 4.0 )"]
+  },
+  {
+    "iIndex": 387,
+    "sQuestion": "En un picnic de la empresa, 9 gerentes y 15 empleados decidieron jugar al voleibol. Si se dividen en 8 equipos, ¿cuántas personas habría en cada equipo?",
+    "lAlignments": [21, 36, 107],
+    "lSolutions": [3.0],
+    "lEquations": ["x = ( ( 9.0 + 15.0 ) / 8.0 )"]
+  },
+  {
+    "iIndex": 388,
+    "sQuestion": "John estaba organizando sus tarjetas de béisbol en una carpeta con 3 en cada página. Si tenía 8 tarjetas nuevas y 16 tarjetas antiguas para poner en la carpeta, ¿cuántas páginas usaría?",
+    "lAlignments": [83, 99, 57],
+    "lSolutions": [8.0],
+    "lEquations": ["x = ( ( 8.0 + 16.0 ) / 3.0 )"]
+  },
+  {
+    "iIndex": 389,
+    "sQuestion": "Wendy subió 22 fotos de su teléfono y 2 de su cámara a Facebook. Si ordenó las fotos en 4 álbumes diferentes con la misma cantidad de fotos en cada álbum, ¿cuántas fotos había en cada uno de los álbumes?",
+    "lAlignments": [16, 47, 106],
+    "lSolutions": [6.0],
+    "lEquations": ["x = ( ( 22.0 + 2.0 ) / 4.0 )"]
+  },
+  {
+    "iIndex": 390,
+    "sQuestion": "Una tienda de juguetes tenía 17 osos de peluche gigantes en stock cuando recibieron otro envío con 10 osos. Colocaron los osos en estantes con 9 en cada estante. ¿Cuántos estantes usaron?",
+    "lAlignments": [17, 85, 137],
+    "lSolutions": [3.0],
+    "lEquations": ["x = ( ( 17.0 + 10.0 ) / 9.0 )"]
+  },
+  {
+    "iIndex": 391,
+    "sQuestion": "Zoe y sus amigos estaban reciclando papel para su clase. Por cada 8 libras que reciclaban, ganaban un punto. Si Zoe recicló 25 libras y sus amigos reciclaron 23 libras, ¿cuántos puntos ganaron?",
+    "lAlignments": [131, 166, 69],
+    "lSolutions": [6.0],
+    "lEquations": ["x = ( ( 25.0 + 23.0 ) / 8.0 )"]
+  },
+  {
+    "iIndex": 392,
+    "sQuestion": "Billy estaba organizando sus tarjetas de béisbol en una carpeta con 5 en cada página. Si tenía 3 tarjetas nuevas y 42 tarjetas antiguas para poner en la carpeta, ¿cuántas páginas usaría?",
+    "lAlignments": [84, 100, 58],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ( ( 3.0 + 42.0 ) / 5.0 )"]
+  },
+  {
+    "iIndex": 393,
+    "sQuestion": "Para una fiesta de cumpleaños, Tom compró 4 sodas regulares y 52 sodas dietéticas. Si su nevera solo podía contener 7 en cada estante, ¿cuántos estantes llenaría?",
+    "lAlignments": [33, 53, 98],
+    "lSolutions": [8.0],
+    "lEquations": ["x = ( ( 4.0 + 52.0 ) / 7.0 )"]
+  },
+  {
+    "iIndex": 394,
+    "sQuestion": "Victor estaba ayudando a los trabajadores de la cafetería a recoger bandejas de almuerzo, pero solo podía llevar 7 bandejas a la vez. Si tenía que recoger 23 bandejas de una mesa y 5 bandejas de otra, ¿cuántos viajes hará?",
+    "lAlignments": [127, 155, 87],
+    "lSolutions": [4.0],
+    "lEquations": ["x = ( ( 23.0 + 5.0 ) / 7.0 )"]
+  },
+  {
+    "iIndex": 395,
+    "sQuestion": "Paul había ahorrado 4 dólares. Si recibió otros 11 dólares de su asignación, ¿cuántos juguetes de 5 dólares podría comprar?",
+    "lAlignments": [19, 53, 92],
+    "lSolutions": [3.0],
+    "lEquations": ["x = ( ( 4.0 + 11.0 ) / 5.0 )"]
+  },
+  {
+    "iIndex": 396,
+    "sQuestion": "Katie subió 30 fotos de su teléfono y 51 de su cámara a Facebook. Si ordenó las fotos en 9 álbumes diferentes con la misma cantidad de fotos en cada álbum, ¿cuántas fotos había en cada uno de los álbumes?",
+    "lAlignments": [16, 47, 107],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ( ( 30.0 + 51.0 ) / 9.0 )"]
+  },
+  {
+    "iIndex": 397,
+    "sQuestion": "La clase de Debby va de excursión al zoológico. Si cada furgoneta puede llevar a 9 personas y van 40 estudiantes y 14 adultos, ¿cuántas furgonetas necesitarán?",
+    "lAlignments": [96, 112, 73],
+    "lSolutions": [6.0],
+    "lEquations": ["x = ( ( 40.0 + 14.0 ) / 9.0 )"]
+  },
+  {
+    "iIndex": 398,
+    "sQuestion": "Para Halloween, Emily recibió 5 piezas de dulces de los vecinos y 13 piezas de su hermana mayor. Si solo comía 9 piezas al día, ¿cuánto tiempo le durarían los dulces?",
+    "lAlignments": [30, 67, 116],
+    "lSolutions": [2.0],
+    "lEquations": ["x = ( ( 5.0 + 13.0 ) / 9.0 )"]
+  },
+  {
+    "iIndex": 399,
+    "sQuestion": "Frank ganó 5 dólares cortando césped y 58 dólares cortando maleza. Si solo gastaba 7 dólares a la semana, ¿cuánto tiempo le duraría el dinero?",
+    "lAlignments": [12, 39, 80],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ( ( 5.0 + 58.0 ) / 7.0 )"]
+  },
+  {
+    "iIndex": 400,
+    "sQuestion": "Un nuevo edificio necesitaba 14 ventanas. El constructor ya había instalado 5 de ellas. Si se tarda 4 horas en instalar cada ventana, ¿cuánto tiempo le llevará instalar el resto?",
+    "lAlignments": [92, 23, 69],
+    "lSolutions": [36.0],
+    "lEquations": ["x = ( 4.0 * ( 14.0 - 5.0 ) )"]
+  },
+
+  {
+    "iIndex": 401,
+    "sQuestion": "Un chef necesita cocinar 16 papas. Ya ha cocinado 7. Si cada papa lleva 5 minutos en cocinarse, ¿cuánto tiempo le tomará cocinar el resto?",
+    "lAlignments": [81, 22, 57],
+    "lSolutions": [45.0],
+    "lEquations": ["x = ( 5.0 * ( 16.0 - 7.0 ) )"]
+  },
+  {
+    "iIndex": 402,
+    "sQuestion": "Ned compró 14 cajas de chocolates y le dio 7 a su hermanito. Si cada caja tiene 6 piezas en su interior, ¿cuántas piezas le quedaron a Ned?",
+    "lAlignments": [90, 12, 49],
+    "lSolutions": [42.0],
+    "lEquations": ["x = ( 6.0 * ( 14.0 - 7.0 ) )"]
+  },
+  {
+    "iIndex": 403,
+    "sQuestion": "Había 11 amigos jugando un videojuego en línea cuando 5 jugadores se desconectaron. Si cada jugador que se fue tenía 5 vidas, ¿cuántas vidas tenían en total?",
+    "lAlignments": [96, 12, 56],
+    "lSolutions": [30.0],
+    "lEquations": ["x = ( 5.0 * ( 11.0 - 5.0 ) )"]
+  },
+  {
+    "iIndex": 404,
+    "sQuestion": "Henry ganaba 5 dólares por cada césped que cortaba. Si tenía 12 céspedes para cortar, pero olvidó cortar 7 de ellos, ¿cuánto dinero ganó en realidad?",
+    "lAlignments": [14, 58, 93],
+    "lSolutions": [25.0],
+    "lEquations": ["x = ( 5.0 * ( 12.0 - 7.0 ) )"]
+  },
+  {
+    "iIndex": 405,
+    "sQuestion": "Un equipo de trivia tenía 5 miembros en total, pero durante un juego, 2 miembros no se presentaron. Si cada miembro que se presentó anotó 6 puntos, ¿cuántos puntos anotaron en total?",
+    "lAlignments": [119, 19, 54],
+    "lSolutions": [18.0],
+    "lEquations": ["x = ( 6.0 * ( 5.0 - 2.0 ) )"]
+  },
+  {
+    "iIndex": 406,
+    "sQuestion": "Un pintor necesitaba pintar 10 habitaciones en un edificio. Cada habitación lleva 8 horas en pintarse. Si ya pintó 8 habitaciones, ¿cuánto tiempo le llevará pintar el resto?",
+    "lAlignments": [107, 27, 67],
+    "lSolutions": [16.0],
+    "lEquations": ["x = ( 8.0 * ( 10.0 - 8.0 ) )"]
+  },
+  {
+    "iIndex": 407,
+    "sQuestion": "En un videojuego, cada enemigo derrotado te da 3 puntos. Si un nivel tiene un total de 6 enemigos y destruyes a todos menos 2, ¿cuántos puntos ganarías?",
+    "lAlignments": [48, 73, 113],
+    "lSolutions": [12.0],
+    "lEquations": ["x = ( 3.0 * ( 6.0 - 2.0 ) )"]
+  },
+  {
+    "iIndex": 408,
+    "sQuestion": "Wendy ganaba 5 puntos por cada bolsa de latas que reciclaba. Si tenía 11 bolsas, pero no recicló 2 de ellas, ¿cuántos puntos habría ganado?",
+    "lAlignments": [14, 69, 97],
+    "lSolutions": [45.0],
+    "lEquations": ["x = ( 5.0 * ( 11.0 - 2.0 ) )"]
+  },
+  {
+    "iIndex": 409,
+    "sQuestion": "Cada barra de chocolate en una caja cuesta $3. Si una caja tenía 7 barras en total y Olivia vendió todas menos 4 barras, ¿cuánto dinero habría ganado?",
+    "lAlignments": [35, 51, 88],
+    "lSolutions": [9.0],
+    "lEquations": ["x = ( 3.0 * ( 7.0 - 4.0 ) )"]
+  },
+  {
+    "iIndex": 410,
+    "sQuestion": "Kaleb compró 14 cajas de chocolates y le dio 5 a su hermanito. Si cada caja tiene 6 piezas en su interior, ¿cuántas piezas le quedaron a Kaleb?",
+    "lAlignments": [92, 14, 51],
+    "lSolutions": [54.0],
+    "lEquations": ["x = ( 6.0 * ( 14.0 - 5.0 ) )"]
+  },
+  {
+    "iIndex": 411,
+    "sQuestion": "En un restaurante, cada comida para adultos cuesta $3 y los niños comen gratis. Si un grupo de 12 personas entró y 7 eran niños, ¿cuánto costaría para que el grupo comiera?",
+    "lAlignments": [40, 75, 97],
+    "lSolutions": [15.0],
+    "lEquations": ["x = ( 3.0 * ( 12.0 - 7.0 ) )"]
+  },
+  {
+    "iIndex": 412,
+    "sQuestion": "Jerry tenía 7 figuras de acción, pero necesitaba 16 en total para completar su colección. Si cada una cuesta $8, ¿cuánto dinero necesitaría para terminar su colección?",
+    "lAlignments": [95, 40, 11],
+    "lSolutions": [72.0],
+    "lEquations": ["x = ( 8.0 * ( 16.0 - 7.0 ) )"]
+  },
+  {
+    "iIndex": 413,
+    "sQuestion": "En un videojuego, cada enemigo derrotado te otorga 9 puntos. Si un nivel tiene un total de 11 enemigos y destruyes a todos excepto 3 de ellos, ¿cuántos puntos ganarías?",
+    "lAlignments": [48, 73, 114],
+    "lSolutions": [72.0],
+    "lEquations": ["x = ( 9.0 * ( 11.0 - 3.0 ) )"]
+  },
+  {
+    "iIndex": 414,
+    "sQuestion": "Había 16 amigos jugando un videojuego en línea cuando 7 jugadores se desconectaron. Si cada jugador que se fue tenía 8 vidas, ¿cuántas vidas tenían en total?",
+    "lAlignments": [96, 12, 56],
+    "lSolutions": [72.0],
+    "lEquations": ["x = ( 8.0 * ( 16.0 - 7.0 ) )"]
+  },
+  {
+    "iIndex": 415,
+    "sQuestion": "Un nuevo edificio necesitaba 10 ventanas. El constructor ya instaló 6 de ellas. Si se tarda 5 horas en instalar cada ventana, ¿cuánto tiempo le llevará instalar el resto?",
+    "lAlignments": [92, 23, 69],
+    "lSolutions": [20.0],
+    "lEquations": ["x = ( 5.0 * ( 10.0 - 6.0 ) )"]
+  },
+  {
+    "iIndex": 416,
+    "sQuestion": "Adam ganaba $9 por cada césped que cortaba. Si tenía 12 céspedes para cortar, pero olvidó cortar 8 de ellos, ¿cuánto dinero ganó en realidad?",
+    "lAlignments": [13, 57, 92],
+    "lSolutions": [36.0],
+    "lEquations": ["x = ( 9.0 * ( 12.0 - 8.0 ) )"]
+  },
+  {
+    "iIndex": 417,
+    "sQuestion": "Un equipo de trivia tenía 12 miembros en total, pero durante un juego, 4 miembros no se presentaron. Si cada miembro que se presentó anotó 8 puntos, ¿cuántos puntos anotaron en total?",
+    "lAlignments": [120, 19, 55],
+    "lSolutions": [64.0],
+    "lEquations": ["x = ( 8.0 * ( 12.0 - 4.0 ) )"]
+  },
+  {
+    "iIndex": 418,
+    "sQuestion": "Mike tenía 16 videojuegos, pero 8 de ellos no funcionaban. Si quería vender los videojuegos que funcionaban por $7 cada uno, ¿cuánto dinero podría ganar?",
+    "lAlignments": [100, 10, 29],
+    "lSolutions": [56.0],
+    "lEquations": ["x = ( 7.0 * ( 16.0 - 8.0 ) )"]
+  },
+  {
+    "iIndex": 419,
+    "sQuestion": "Un pintor necesitaba pintar 12 habitaciones en un edificio. Cada habitación lleva 7 horas en pintarse. Si ya pintó 5 habitaciones, ¿cuánto tiempo le llevará pintar el resto?",
+    "lAlignments": [67, 27, 107],
+    "lSolutions": [49.0],
+    "lEquations": ["x = ( 7.0 * ( 12.0 - 5.0 ) )"]
+  },
+  {
+    "iIndex": 420,
+    "sQuestion": "Había 8 amigos jugando un videojuego en línea cuando 5 jugadores se desconectaron. Si cada jugador que se fue tenía 5 vidas, ¿cuántas vidas tenían en total?",
+    "lAlignments": [95, 12, 55],
+    "lSolutions": [15.0],
+    "lEquations": ["x = ( 5.0 * ( 8.0 - 5.0 ) )"]
+  },
+  {
+    "iIndex": 421,
+    "sQuestion": "Un equipo de trivia tenía 15 miembros en total, pero durante un juego, 6 miembros no se presentaron. Si cada miembro que se presentó anotó 3 puntos, ¿cuántos puntos se anotaron en total?",
+    "lAlignments": [120, 19, 55],
+    "lSolutions": [27.0],
+    "lEquations": ["x = ( 3.0 * ( 15.0 - 6.0 ) )"]
+  },
+  {
+    "iIndex": 422,
+    "sQuestion": "Ned tenía 15 videojuegos, pero 6 de ellos no funcionaban. Si quería vender los videojuegos que funcionaban por $7 cada uno, ¿cuánto dinero podría ganar?",
+    "lAlignments": [99, 9, 28],
+    "lSolutions": [63.0],
+    "lEquations": ["x = ( 7.0 * ( 15.0 - 6.0 ) )"]
+  },
+  {
+    "iIndex": 423,
+    "sQuestion": "Cada barra de chocolate en una caja cuesta $6. Si una caja tenía 13 barras en total y Zoe vendió todas menos 6 barras, ¿cuánto dinero habría ganado?",
+    "lAlignments": [35, 51, 86],
+    "lSolutions": [42.0],
+    "lEquations": ["x = ( 6.0 * ( 13.0 - 6.0 ) )"]
+  },
+  {
+    "iIndex": 424,
+    "sQuestion": "Will compró 7 cajas de caramelos de chocolate y le dio 3 a su hermanito. Si cada caja tenía 4 piezas en su interior, ¿cuántas piezas todavía tenía Will?",
+    "lAlignments": [90, 13, 49],
+    "lSolutions": [16.0],
+    "lEquations": ["x = ( 4.0 * ( 7.0 - 3.0 ) )"]
+  },
+  {
+    "iIndex": 425,
+    "sQuestion": "Mike invitó a 13 amigos a una fiesta de cumpleaños, pero 7 no pudieron venir. Si quería comprar suficientes cupcakes para que cada persona pudiera comer exactamente 4, ¿cuántos debería comprar?",
+    "lAlignments": [137, 14, 50],
+    "lSolutions": [24.0],
+    "lEquations": ["x = ( 4.0 * ( 13.0 - 7.0 ) )"]
+  },
+  {
+    "iIndex": 426,
+    "sQuestion": "En un videojuego, cada enemigo derrotado te otorga 5 puntos. Si un nivel tiene 8 enemigos en total y destruyes todos excepto 6 de ellos, ¿cuántos puntos ganarías?",
+    "lAlignments": [48, 73, 113],
+    "lSolutions": [10.0],
+    "lEquations": ["x = ( 5.0 * ( 8.0 - 6.0 ) )"]
+  },
+  {
+    "iIndex": 427,
+    "sQuestion": "Roger ganó $9 por cada césped que cortaba. Si tenía 14 céspedes para cortar, pero olvidó cortar 8 de ellos, ¿cuánto dinero ganó en realidad?",
+    "lAlignments": [14, 58, 93],
+    "lSolutions": [54.0],
+    "lEquations": ["x = ( 9.0 * ( 14.0 - 8.0 ) )"]
+  },
+  {
+    "iIndex": 428,
+    "sQuestion": "Un mago estaba vendiendo mazos de cartas mágicas por $2 cada uno. Si comenzó con 5 mazos y al final del día le quedaban 3, ¿cuánto dinero ganó?",
+    "lAlignments": [45, 80, 121],
+    "lSolutions": [4.0],
+    "lEquations": ["x = ( 2.0 * ( 5.0 - 3.0 ) )"]
+  },  
+
+  {
+    "iIndex": 429,
+    "sQuestion": "Un chef necesita cocinar 12 papas. Ya ha cocinado 6. Si cada papa tarda 6 minutos en cocinarse, ¿cuánto tiempo le llevará cocinar el resto?",
+    "lAlignments": [81, 22, 57],
+    "lSolutions": [36.0],
+    "lEquations": ["x = ( 6.0 * ( 12.0 - 6.0 ) )"]
+  },
+  {
+    "iIndex": 430,
+    "sQuestion": "Un nuevo edificio necesitaba 9 ventanas. El constructor ya instaló 6 de ellas. Si se tarda 6 horas en instalar cada ventana, ¿cuánto tiempo le llevará instalar el resto?",
+    "lAlignments": [91, 23, 68],
+    "lSolutions": [18.0],
+    "lEquations": ["x = ( 6.0 * ( 9.0 - 6.0 ) )"]
+  },
+  {
+    "iIndex": 431,
+    "sQuestion": "En la feria, Adam compró 13 boletos. Después de montar en la noria, le quedaron 4 boletos. Si cada boleto costaba $9, ¿cuánto dinero gastó Adam montando en la noria?",
+    "lAlignments": [110, 25, 74],
+    "lSolutions": [81.0],
+    "lEquations": ["x = ( 9.0 * ( 13.0 - 4.0 ) )"]
+  },
+  {
+    "iIndex": 432,
+    "sQuestion": "Dave compró 12 cajas de caramelos de chocolate y le dio 5 a su hermanito. Si cada caja tenía 3 piezas en su interior, ¿cuántas piezas todavía tenía Dave?",
+    "lAlignments": [91, 13, 50],
+    "lSolutions": [21.0],
+    "lEquations": ["x = ( 3.0 * ( 12.0 - 5.0 ) )"]
+  },
+  {
+    "iIndex": 433,
+    "sQuestion": "John tenía 5 figuras de acción, pero necesitaba 7 en total para completar su colección. Si cada una costaba $5, ¿cuánto dinero necesitaría para terminar su colección?",
+    "lAlignments": [10, 39, 93],
+    "lSolutions": [10.0],
+    "lEquations": ["x = ( 5.0 * ( 7.0 - 5.0 ) )"]
+  },
+  {
+    "iIndex": 434,
+    "sQuestion": "Un pintor necesitaba pintar 9 habitaciones en un edificio. Cada habitación lleva 8 horas en pintarse. Si ya pintó 5 habitaciones, ¿cuánto tiempo le llevará pintar el resto?",
+    "lAlignments": [66, 27, 106],
+    "lSolutions": [32.0],
+    "lEquations": ["x = ( 8.0 * ( 9.0 - 5.0 ) )"]
+  },
+  {
+    "iIndex": 435,
+    "sQuestion": "Cada barra de chocolate en una caja cuesta $4. Si una caja tenía 8 barras en total y Emily vendió todas menos 3 barras, ¿cuánto dinero habría ganado?",
+    "lAlignments": [35, 51, 87],
+    "lSolutions": [20.0],
+    "lEquations": ["x = ( 4.0 * ( 8.0 - 3.0 ) )"]
+  },
+  {
+    "iIndex": 436,
+    "sQuestion": "En el almuerzo, un camarero tuvo 10 clientes y 5 de ellos no dejaron propina. Si recibió $3 de cada uno de los que sí dejaron propina, ¿cuánto dinero ganó?",
+    "lAlignments": [81, 23, 40],
+    "lSolutions": [15.0],
+    "lEquations": ["x = ( 3.0 * ( 10.0 - 5.0 ) )"]
+  },
+  {
+    "iIndex": 437,
+    "sQuestion": "Una hoja de trabajo tenía 4 problemas en ella. Si un profesor tenía 9 hojas de trabajo para calificar y ya había calificado 5 de ellas, ¿cuántos problemas más tiene que calificar?",
+    "lAlignments": [17, 52, 97],
+    "lSolutions": [16.0],
+    "lEquations": ["x = ( 4.0 * ( 9.0 - 5.0 ) )"]
+  },
+  {
+    "iIndex": 438,
+    "sQuestion": "Will invitó a 9 amigos a una fiesta de cumpleaños, pero 4 no pudieron venir. Si quería comprar suficientes cupcakes para que cada persona pudiera comer exactamente 8, ¿cuántos debería comprar?",
+    "lAlignments": [136, 14, 49],
+    "lSolutions": [40.0],
+    "lEquations": ["x = ( 8.0 * ( 9.0 - 4.0 ) )"]
+  },
+  {
+    "iIndex": 439,
+    "sQuestion": "Un mago estaba vendiendo mazos de cartas mágicas por $9 cada uno. Si comenzó con 12 mazos y al final del día le quedaban 7, ¿cuánto dinero ganó?",
+    "lAlignments": [45, 80, 122],
+    "lSolutions": [45.0],
+    "lEquations": ["x = ( 9.0 * ( 12.0 - 7.0 ) )"]
+  },
+  {
+    "iIndex": 440,
+    "sQuestion": "Un chef necesita cocinar 9 papas. Ya ha cocinado 7. Si cada papa tarda 3 minutos en cocinarse, ¿cuánto tiempo le llevará cocinar el resto?",
+    "lAlignments": [80, 22, 56],
+    "lSolutions": [6.0],
+    "lEquations": ["x = ( 3.0 * ( 9.0 - 7.0 ) )"]
+  },
+  
+    {
+      "iIndex": 441,
+      "sQuestion": "Un mago estaba vendiendo mazos de cartas mágicas por $5 cada uno. Si comenzó con 14 mazos y al final del día le quedaban 5, ¿cuánto dinero ganó?",
+      "lAlignments": [45, 80, 122],
+      "lSolutions": [45.0],
+      "lEquations": ["x = ( 5.0 * ( 14.0 - 5.0 ) )"]
+    },
+    {
+      "iIndex": 442,
+      "sQuestion": "Cada barra de chocolate en una caja costaba $3. Si una caja tenía 9 barras en total y Wendy vendió todas menos 3 barras, ¿cuánto dinero habría ganado?",
+      "lAlignments": [35, 51, 87],
+      "lSolutions": [18.0],
+      "lEquations": ["x = ( 3.0 * ( 9.0 - 3.0 ) )"]
+    },
+    {
+      "iIndex": 443,
+      "sQuestion": "Un pintor necesitaba pintar 12 habitaciones en un edificio. Cada habitación lleva 3 horas en pintarse. Si ya pintó 4 habitaciones, ¿cuánto tiempo le llevará pintar el resto?",
+      "lAlignments": [67, 27, 107],
+      "lSolutions": [24.0],
+      "lEquations": ["x = ( 3.0 * ( 12.0 - 4.0 ) )"]
+    },
+    {
+      "iIndex": 444,
+      "sQuestion": "Adam compró 13 cajas de caramelos de chocolate y le dio 7 a su hermanito. Si cada caja tenía 6 piezas en su interior, ¿cuántas piezas todavía tenía Adam?",
+      "lAlignments": [91, 13, 50],
+      "lSolutions": [36.0],
+      "lEquations": ["x = ( 6.0 * ( 13.0 - 7.0 ) )"]
+    },
+    {
+      "iIndex": 445,
+      "sQuestion": "En un restaurante, cada comida de adulto cuesta $7 y los niños comen gratis. Si un grupo de 13 personas entró y 9 de ellas eran niños, ¿cuánto costaría la comida para el grupo?",
+      "lAlignments": [40, 75, 97],
+      "lSolutions": [28.0],
+      "lEquations": ["x = ( 7.0 * ( 13.0 - 9.0 ) )"]
+    },
+    {
+      "iIndex": 446,
+      "sQuestion": "Un equipo de trivia tenía 7 miembros en total, pero durante un juego, 2 miembros no se presentaron. Si cada miembro que sí se presentó anotó 4 puntos, ¿cuántos puntos se anotaron en total?",
+      "lAlignments": [119, 19, 54],
+      "lSolutions": [20.0],
+      "lEquations": ["x = ( 4.0 * ( 7.0 - 2.0 ) )"]
+    },
+    {
+      "iIndex": 447,
+      "sQuestion": "Kaleb tenía 10 videojuegos, pero 8 de ellos no funcionaban. Si quería vender los videojuegos que funcionaban por $6 cada uno, ¿cuánto dinero podría ganar?",
+      "lAlignments": [101, 11, 30],
+      "lSolutions": [12.0],
+      "lEquations": ["x = ( 6.0 * ( 10.0 - 8.0 ) )"]
+    },
+    {
+      "iIndex": 448,
+      "sQuestion": "En la tienda de flores con descuento de April, cada rosa costaba $7. Si April comenzó con 9 rosas y al final le quedaban 4 rosas, ¿cuánto dinero ganó?",
+      "lAlignments": [64, 97, 113],
+      "lSolutions": [35.0],
+      "lEquations": ["x = ( 7.0 * ( 9.0 - 4.0 ) )"]
+    },
+    {
+      "iIndex": 449,
+      "sQuestion": "En el almuerzo, un camarero tuvo 9 clientes y 5 de ellos no dejaron propina. Si recibió $8 de cada uno de los que sí dejaron propina, ¿cuánto dinero ganó?",
+      "lAlignments": [80, 23, 39],
+      "lSolutions": [32.0],
+      "lEquations": ["x = ( 8.0 * ( 9.0 - 5.0 ) )"]
+    },
+    {
+      "iIndex": 450,
+      "sQuestion": "Un nuevo edificio necesitaba 14 ventanas. El constructor ya instaló 8 de ellas. Si se tarda 8 horas en instalar cada ventana, ¿cuánto tiempo le llevará instalar el resto?",
+      "lAlignments": [92, 23, 69],
+      "lSolutions": [48.0],
+      "lEquations": ["x = ( 8.0 * ( 14.0 - 8.0 ) )"]
+    },
+    {
+      "iIndex": 451,
+      "sQuestion": "Bianca ganó 5 puntos por cada bolsa de latas que recicló. Si tenía 17 bolsas, pero no recicló 8 de ellas, ¿cuántos puntos habría ganado?",
+      "lAlignments": [15, 70, 98],
+      "lSolutions": [45.0],
+      "lEquations": ["x = ( 5.0 * ( 17.0 - 8.0 ) )"]
+  },
+  {
+      "iIndex": 452,
+      "sQuestion": "Un chef necesita cocinar 15 papas. Ya ha cocinado 6. Si cada papa tarda 8 minutos en cocinarse, ¿cuánto tiempo le llevará cocinar el resto?",
+      "lAlignments": [81, 22, 57],
+      "lSolutions": [72.0],
+      "lEquations": ["x = ( 8.0 * ( 15.0 - 6.0 ) )"]
+  },
+  {
+      "iIndex": 453,
+      "sQuestion": "Henry tenía 3 figuras de acción, pero necesitaba un total de 8 para completar su colección. Si cada una cuesta $6, ¿cuánto dinero necesitaría para terminar su colección?",
+      "lAlignments": [94, 40, 11],
+      "lSolutions": [30.0],
+      "lEquations": ["x = ( 6.0 * ( 8.0 - 3.0 ) )"]
+  },
+  {
+      "iIndex": 454,
+      "sQuestion": "John ganó 8 dólares por cada césped que cortó. Si tenía 15 céspedes para cortar, pero olvidó cortar 7 de ellos, ¿cuánto dinero ganó en realidad?",
+      "lAlignments": [13, 57, 92],
+      "lSolutions": [64.0],
+      "lEquations": ["x = ( 8.0 * ( 15.0 - 7.0 ) )"]
+  },
+  {
+      "iIndex": 455,
+      "sQuestion": "Había 10 amigos jugando un videojuego en línea cuando 7 jugadores se fueron. Si cada jugador que se fue tenía 8 vidas, ¿cuántas vidas tenían en total?",
+      "lAlignments": [96, 12, 56],
+      "lSolutions": [24.0],
+      "lEquations": ["x = ( 8.0 * ( 10.0 - 7.0 ) )"]
+  },
+  {
+      "iIndex": 456,
+      "sQuestion": "En un videojuego, cada enemigo derrotado te otorga 8 puntos. Si un nivel tiene un total de 7 enemigos y destruyes todos menos 2 de ellos, ¿cuántos puntos ganarías?",
+      "lAlignments": [48, 73, 113],
+      "lSolutions": [40.0],
+      "lEquations": ["x = ( 8.0 * ( 7.0 - 2.0 ) )"]
+  },
+  {
+      "iIndex": 457,
+      "sQuestion": "Un pintor necesitaba pintar 11 habitaciones en un edificio. Cada habitación tarda 7 horas en pintarse. Si ya pintó 2 habitaciones, ¿cuánto tiempo más le llevará pintar el resto?",
+      "lAlignments": [67, 27, 107],
+      "lSolutions": [63.0],
+      "lEquations": ["x = ( 7.0 * ( 11.0 - 2.0 ) )"]
+  },
+  {
+      "iIndex": 458,
+      "sQuestion": "Dave tenía 10 videojuegos, pero 2 de ellos no funcionaban. Si quería vender los videojuegos que funcionaban por $4 cada uno, ¿cuánto dinero podría ganar?",
+      "lAlignments": [100, 10, 29],
+      "lSolutions": [32.0],
+      "lEquations": ["x = ( 4.0 * ( 10.0 - 2.0 ) )"]
+  },
+  {
+      "iIndex": 459,
+      "sQuestion": "Una hoja de trabajo tenía 4 problemas en ella. Si un profesor tenía que calificar 16 hojas de trabajo y ya había calificado 8 de ellas, ¿cuántos problemas más tiene que calificar?",
+      "lAlignments": [17, 52, 98],
+      "lSolutions": [32.0],
+      "lEquations": ["x = ( 4.0 * ( 16.0 - 8.0 ) )"]
+  },
+  {
+      "iIndex": 460,
+      "sQuestion": "Una hoja de trabajo tenía 2 problemas en ella. Si un profesor tiene que calificar 14 hojas de trabajo y ya ha calificado 7 de ellas, ¿cuántos problemas más tiene que calificar?",
+      "lAlignments": [17, 52, 98],
+      "lSolutions": [14.0],
+      "lEquations": ["x = ( 2.0 * ( 14.0 - 7.0 ) )"]
+  },  
+  {
+    "iIndex": 461,
+    "sQuestion": "La tienda de flores con descuento de April tenía una oferta donde cada rosa costaba 4 dólares. Si April comenzó con 13 rosas y le quedaron 4 rosas, ¿cuánto dinero ganó?",
+    "lAlignments": [64, 97, 114],
+    "lSolutions": [36.0],
+    "lEquations": ["x = ( 4.0 * ( 13.0 - 4.0 ) )"]
+  },
+  {
+    "iIndex": 462,
+    "sQuestion": "En un restaurante, cada comida para adultos cuesta 5 dólares y los niños comen gratis. Si un grupo de 15 personas llegó y 8 de ellas eran niños, ¿cuánto costaría la comida del grupo?",
+    "lAlignments": [40, 75, 97],
+    "lSolutions": [35.0],
+    "lEquations": ["x = ( 5.0 * ( 15.0 - 8.0 ) )"]
+  },
+  {
+    "iIndex": 463,
+    "sQuestion": "Zoe horneó 5 brownies, pero necesitaba 11 en total para su fiesta. Si usó 7 tazas de harina en cada uno, ¿cuántas tazas de harina todavía necesita?",
+    "lAlignments": [70, 34, 11],
+    "lSolutions": [42.0],
+    "lEquations": ["x = ( 7.0 * ( 11.0 - 5.0 ) )"]
+  },
+  {
+    "iIndex": 464,
+    "sQuestion": "Un pintor necesitaba pintar 6 habitaciones en un edificio. Cada habitación tarda 5 horas en pintarse. Si ya pintó 2 habitaciones, ¿cuánto tiempo le llevará pintar el resto?",
+    "lAlignments": [66, 27, 106],
+    "lSolutions": [20.0],
+    "lEquations": ["x = ( 5.0 * ( 6.0 - 2.0 ) )"]
+  },
+  {
+    "iIndex": 465,
+    "sQuestion": "Cada barra de chocolate en una caja cuesta 4 dólares. Si una caja tenía 11 barras en total y Vanessa vendió todas menos 7 barras, ¿cuánto dinero habría ganado?",
+    "lAlignments": [35, 51, 90],
+    "lSolutions": [16.0],
+    "lEquations": ["x = ( 4.0 * ( 11.0 - 7.0 ) )"]
+  },
+  {
+    "iIndex": 466,
+    "sQuestion": "Gwen ganó 8 puntos por cada bolsa de latas que recicló. Si tenía 4 bolsas, pero no recicló 2 de ellas, ¿cuántos puntos habría ganado?",
+    "lAlignments": [13, 68, 95],
+    "lSolutions": [16.0],
+    "lEquations": ["x = ( 8.0 * ( 4.0 - 2.0 ) )"]
+  },
+  {
+    "iIndex": 467,
+    "sQuestion": "Un nuevo edificio necesitaba 12 ventanas. El constructor ya instaló 6 de ellas. Si se tarda 4 horas en instalar cada ventana, ¿cuánto tiempo le llevará instalar el resto?",
+    "lAlignments": [92, 23, 69],
+    "lSolutions": [24.0],
+    "lEquations": ["x = ( 4.0 * ( 12.0 - 6.0 ) )"]
+  },
+  {
+    "iIndex": 468,
+    "sQuestion": "Un chef necesita cocinar 15 papas. Ya ha cocinado 8. Si cada papa tarda 9 minutos en cocinarse, ¿cuánto tiempo le llevará cocinar el resto?",
+    "lAlignments": [81, 22, 57],
+    "lSolutions": [63.0],
+    "lEquations": ["x = ( 9.0 * ( 15.0 - 8.0 ) )"]
+  },
+  {
+    "iIndex": 469,
+    "sQuestion": "Un equipo de trivia tenía un total de 14 miembros, pero durante un juego, 7 miembros no se presentaron. Si cada miembro que se presentó anotó 5 puntos, ¿cuántos puntos se anotaron en total?",
+    "lAlignments": [120, 19, 55],
+    "lSolutions": [35.0],
+    "lEquations": ["x = ( 5.0 * ( 14.0 - 7.0 ) )"]
+  },
+  {
+    "iIndex": 470,
+    "sQuestion": "Un chef necesita cocinar 13 papas. Ya ha cocinado 5. Si cada papa tarda 6 minutos en cocinarse, ¿cuánto tiempo le llevará cocinar el resto?",
+    "lAlignments": [81, 22, 57],
+    "lSolutions": [48.0],
+    "lEquations": ["x = ( 6.0 * ( 13.0 - 5.0 ) )"]
+  },
+  {
+    "iIndex": 471,
+    "sQuestion": "Un equipo de trivia tenía un total de 11 miembros, pero durante un juego, 6 miembros no se presentaron. Si cada miembro que se presentó anotó 9 puntos, ¿cuántos puntos se anotaron en total?",
+    "lAlignments": [120, 19, 55],
+    "lSolutions": [45.0],
+    "lEquations": ["x = ( 9.0 * ( 11.0 - 6.0 ) )"]
+  },
+  {
+    "iIndex": 472,
+    "sQuestion": "Cada barra de chocolate en una caja costaba 2 dólares. Si una caja tenía 13 barras en total y Rachel vendió todas menos 4 barras, ¿cuánto dinero habría ganado?",
+    "lAlignments": [35, 51, 89],
+    "lSolutions": [18.0],
+    "lEquations": ["x = ( 2.0 * ( 13.0 - 4.0 ) )"]
+  },
+  {
+    "iIndex": 473,
+    "sQuestion": "Isabel horneó 3 brownies, pero necesitaba 5 en total para su fiesta. Si usó 5 tazas de harina en cada uno, ¿cuántas tazas de harina todavía necesita?",
+    "lAlignments": [72, 37, 14],
+    "lSolutions": [10.0],
+    "lEquations": ["x = ( 5.0 * ( 5.0 - 3.0 ) )"]
+  },
+  {
+    "iIndex": 474,
+    "sQuestion": "Una hoja de trabajo tenía 3 problemas. Si un profesor tenía 15 hojas de trabajo para calificar y ya había calificado 7 de ellas, ¿cuántos problemas más tiene que calificar?",
+    "lAlignments": [17, 52, 98],
+    "lSolutions": [24.0],
+    "lEquations": ["x = ( 3.0 * ( 15.0 - 7.0 ) )"]
+  },
+  {
+    "iIndex": 475,
+    "sQuestion": "En el almuerzo, un camarero tenía 7 clientes y 4 de ellos no dejaron propina. Si recibió 9 dólares de cada uno de los que sí dejaron propina, ¿cuánto dinero ganó?",
+    "lAlignments": [80, 23, 39],
+    "lSolutions": [27.0],
+    "lEquations": ["x = ( 9.0 * ( 7.0 - 4.0 ) )"]
+  },
+  {
+    "iIndex": 476,
+    "sQuestion": "La tienda de flores con descuento de April tenía una oferta donde cada rosa costaba 9 dólares. Si April comenzó con 11 rosas y le quedaron 8 rosas, ¿cuánto dinero ganó?",
+    "lAlignments": [64, 97, 114],
+    "lSolutions": [27.0],
+    "lEquations": ["x = ( 9.0 * ( 11.0 - 8.0 ) )"]
+  },
+  {
+    "iIndex": 477,
+    "sQuestion": "Tom compró 14 cajas de dulces de chocolate y le dio 8 a su hermano pequeño. Si cada caja tiene 3 piezas en su interior, ¿cuántas piezas aún tiene Tom?",
+    "lAlignments": [90, 12, 49],
+    "lSolutions": [18.0],
+    "lEquations": ["x = ( 3.0 * ( 14.0 - 8.0 ) )"]
+  },
+  {
+    "iIndex": 478,
+    "sQuestion": "En un restaurante, cada comida para adultos cuesta 2 dólares y los niños comen gratis. Si un grupo de 15 personas llegó y 9 de ellas eran niños, ¿cuánto costaría la comida del grupo?",
+    "lAlignments": [40, 75, 97],
+    "lSolutions": [12.0],
+    "lEquations": ["x = ( 2.0 * ( 15.0 - 9.0 ) )"]
+  },
+  {
+    "iIndex": 479,
+    "sQuestion": "Edward ganó 4 dólares por cada césped que cortó. Si tenía 17 céspedes para cortar, pero olvidó cortar 9 de ellos, ¿cuánto dinero ganó en realidad?",
+    "lAlignments": [15, 59, 94],
+    "lSolutions": [32.0],
+    "lEquations": ["x = ( 4.0 * ( 17.0 - 9.0 ) )"]
+  },
+  {
+    "iIndex": 480,
+    "sQuestion": "Un nuevo edificio necesitaba 11 ventanas. El constructor ya instaló 4 de ellas. Si se tarda 8 horas en instalar cada ventana, ¿cuánto tiempo le llevará instalar el resto?",
+    "lAlignments": [92, 23, 69],
+    "lSolutions": [56.0],
+    "lEquations": ["x = ( 8.0 * ( 11.0 - 4.0 ) )"]
+  },
+{
+    "iIndex": 481,
+    "sQuestion": "Tom compró 12 cajas de bombones de chocolate y le dio 7 a su hermanito. Si cada caja tiene 6 piezas en su interior, ¿cuántas piezas le quedaron a Tom?",
+    "lAlignments": [90, 12, 49],
+    "lSolutions": [30.0],
+    "lEquations": ["x = (6.0 * (12.0 - 7.0) )"]
+},
+{
+    "iIndex": 482,
+    "sQuestion": "John tenía 6 figuras de acción, pero necesitaba 11 en total para completar la colección. Si cada una cuesta $6, ¿cuánto dinero necesitaría para terminar su colección?",
+    "lAlignments": [10, 39, 94],
+    "lSolutions": [30.0],
+    "lEquations": ["x = (6.0 * (11.0 - 6.0) )"]
+},
+{
+    "iIndex": 483,
+    "sQuestion": "En un restaurante, cada comida de adulto cuesta $8 y los niños comen gratis. Si un grupo de 11 personas entró y 2 eran niños, ¿cuánto costaría que el grupo comiera?",
+    "lAlignments": [40, 75, 97],
+    "lSolutions": [72.0],
+    "lEquations": ["x = (8.0 * (11.0 - 2.0) )"]
+},
+{
+    "iIndex": 484,
+    "sQuestion": "En la feria, Kaleb compró 6 boletos. Después de montar la noria, le quedaron 3 boletos. Si cada boleto costaba $9, ¿cuánto dinero gastó Kaleb montando la noria?",
+    "lAlignments": [110, 26, 74],
+    "lSolutions": [27.0],
+    "lEquations": ["x = (9.0 * (6.0 - 3.0) )"]
+},
+{
+    "iIndex": 485,
+    "sQuestion": "Tiffany horneó 8 brownies, pero necesitaba 17 en total para su fiesta. Si usó 8 tazas de harina en cada uno, ¿cuántas tazas de harina todavía necesita?",
+    "lAlignments": [15, 38, 74],
+    "lSolutions": [72.0],
+    "lEquations": ["x = (8.0 * (17.0 - 8.0) )"]
+},
+{
+    "iIndex": 486,
+    "sQuestion": "En un videojuego, cada enemigo derrotado te otorga 7 puntos. Si un nivel tiene un total de 11 enemigos y destruyes a todos menos 8 de ellos, ¿cuántos puntos ganarías?",
+    "lAlignments": [48, 73, 114],
+    "lSolutions": [21.0],
+    "lEquations": ["x = (7.0 * (11.0 - 8.0) )"]
+},
+{
+    "iIndex": 487,
+    "sQuestion": "Un mago estaba vendiendo mazos de cartas mágicas por $7 cada uno. Si comenzó con 16 mazos y al final del día le quedaban 8, ¿cuánto dinero ganó?",
+    "lAlignments": [45, 80, 122],
+    "lSolutions": [56.0],
+    "lEquations": ["x = (7.0 * (16.0 - 8.0) )"]
+},
+{
+    "iIndex": 488,
+    "sQuestion": "Había 13 amigos jugando a un videojuego en línea cuando 8 jugadores se fueron. Si cada jugador que se fue tenía 6 vidas, ¿cuántas vidas tenían en total?",
+    "lAlignments": [96, 12, 56],
+    "lSolutions": [30.0],
+    "lEquations": ["x = (6.0 * (13.0 - 8.0) )"]
+},
+{
+    "iIndex": 489,
+    "sQuestion": "En el almuerzo, un camarero tenía 7 clientes y 5 de ellos no dejaron propina. Si obtuvo $3 de cada uno que sí dejó propina, ¿cuánto dinero ganó?",
+    "lAlignments": [80, 23, 39],
+    "lSolutions": [6.0],
+    "lEquations": ["x = (3.0 * (7.0 - 5.0) )"]
+},
+{
+    "iIndex": 490,
+    "sQuestion": "En la feria, Adam compró 10 boletos. Después de montar la noria, le quedaron 3 boletos. Si cada boleto costaba $9, ¿cuánto dinero gastó Adam montando la noria?",
+    "lAlignments": [110, 25, 74],
+    "lSolutions": [63.0],
+    "lEquations": ["x = (9.0 * (10.0 - 3.0) )"]
+},
+{
+  "iIndex": 491,
+  "sQuestion": "Una hoja de trabajo tenía 7 problemas. Si un profesor tenía 17 hojas de trabajo para calificar y ya había calificado 8 de ellas, ¿cuántos problemas más tiene que calificar?",
+  "lAlignments": [17, 52, 98],
+  "lSolutions": [63.0],
+  "lEquations": ["x = (7.0 * (17.0 - 8.0))"]
+},
+{
+  "iIndex": 492,
+  "sQuestion": "Un equipo de trivia tenía un total de 9 miembros, pero durante un juego, 3 miembros no se presentaron. Si cada miembro que se presentó anotó 2 puntos, ¿cuántos puntos se anotaron en total?",
+  "lAlignments": [119, 19, 54],
+  "lSolutions": [12.0],
+  "lEquations": ["x = (2.0 * (9.0 - 3.0))"]
+},
+{
+  "iIndex": 493,
+  "sQuestion": "Mike tenía 15 videojuegos, pero 9 de ellos no funcionaban. Si quería vender los videojuegos que funcionaban por $5 cada uno, ¿cuánto dinero podría ganar?",
+  "lAlignments": [100, 10, 29],
+  "lSolutions": [30.0],
+  "lEquations": ["x = (5.0 * (15.0 - 9.0))"]
+},
+{
+  "iIndex": 494,
+  "sQuestion": "Edward ganaba 9 dólares por cada césped que cortaba. Si tenía 6 céspedes para cortar, pero olvidó cortar 2 de ellos, ¿cuánto dinero ganó en realidad?",
+  "lAlignments": [15, 59, 93],
+  "lSolutions": [36.0],
+  "lEquations": ["x = (9.0 * (6.0 - 2.0))"]
+},
+{
+  "iIndex": 495,
+  "sQuestion": "En un restaurante, cada comida de adulto cuesta $2 y los niños comen gratis. Si un grupo de 9 personas entró y 2 eran niños, ¿cuánto costaría que el grupo comiera?",
+  "lAlignments": [40, 75, 96],
+  "lSolutions": [14.0],
+  "lEquations": ["x = (2.0 * (9.0 - 2.0))"]
+},
+{
+  "iIndex": 496,
+  "sQuestion": "Chloe horneó 7 brownies, pero necesitaba 16 en total para su fiesta. Si usó 6 tazas de harina en cada uno, ¿cuántas tazas de harina todavía necesita?",
+  "lAlignments": [72, 36, 13],
+  "lSolutions": [54.0],
+  "lEquations": ["x = (6.0 * (16.0 - 7.0))"]
+},
+{
+  "iIndex": 497,
+  "sQuestion": "Había 8 amigos jugando a un videojuego en línea cuando 3 jugadores se fueron. Si cada jugador que se fue tenía 3 vidas, ¿cuántas vidas tenían en total?",
+  "lAlignments": [95, 12, 55],
+  "lSolutions": [15.0],
+  "lEquations": ["x = (3.0 * (8.0 - 3.0))"]
+},
+{
+  "iIndex": 498,
+  "sQuestion": "Sam invitó a 9 amigos a una fiesta de cumpleaños, pero 6 no pudieron venir. Si quería comprar suficientes cupcakes para que cada persona pudiera tener exactamente 2, ¿cuántos debería comprar?",
+  "lAlignments": [135, 13, 48],
+  "lSolutions": [6.0],
+  "lEquations": ["x = (2.0 * (9.0 - 6.0))"]
+},
+{
+  "iIndex": 499,
+  "sQuestion": "Megan ganaba 8 puntos por cada bolsa de latas que reciclaba. Si tenía 14 bolsas, pero no recicló 5 de ellas, ¿cuántos puntos habría ganado?",
+  "lAlignments": [14, 69, 97],
+  "lSolutions": [72.0],
+  "lEquations": ["x = (8.0 * (14.0 - 5.0))"]
+},
+{
+  "iIndex": 500,
+  "sQuestion": "Will tenía 57 dólares. Si gastó 27 dólares en un nuevo juego, ¿cuántos juguetes de 6 dólares podría comprar con el dinero que le quedaba?",
+  "lAlignments": [10, 34, 67],
+  "lSolutions": [5.0],
+  "lEquations": ["x = ((57.0 - 27.0) / 6.0)"]
+},
+{
+  "iIndex": 501,
+  "sQuestion": "Una tienda de mascotas tenía 18 cachorros. En un día vendieron 3 de ellos y colocaron el resto en jaulas con 5 en cada jaula. ¿Cuántas jaulas usaron?",
+  "lAlignments": [17, 50, 93],
+  "lSolutions": [3.0],
+  "lEquations": ["x = ((18.0 - 3.0) / 5.0)"]
+},
+{
+  "iIndex": 502,
+  "sQuestion": "Luke tenía 47 piezas de ropa para lavar. Puso 17 de ellas en una carga, pero decidió dividir el resto en 5 cargas iguales. ¿Cuántas piezas de ropa podrían ir en cada una de las cargas pequeñas?",
+  "lAlignments": [10, 48, 107],
+  "lSolutions": [6.0],
+  "lEquations": ["x = ((47.0 - 17.0) / 5.0)"]
+},
+{
+  "iIndex": 503,
+  "sQuestion": "Edward compró 79 boletos en la feria estatal. Gastó 23 boletos en el juego de 'dunk a clown' y decidió usar el resto en las atracciones. Si cada atracción costaba 7 boletos, ¿cuántas atracciones podría disfrutar?",
+  "lAlignments": [15, 54, 149],
+  "lSolutions": [8.0],
+  "lEquations": ["x = ((79.0 - 23.0) / 7.0)"]
+},
+{
+  "iIndex": 504,
+  "sQuestion": "Katie horneó 18 cupcakes para la venta de pasteles de su escuela. Si su hermano, Todd, se comió 8 de ellos, ¿cuántos paquetes podría hacer si ponía 2 cupcakes en cada paquete?",
+  "lAlignments": [13, 79, 133],
+  "lSolutions": [5.0],
+  "lEquations": ["x = ((18.0 - 8.0) / 2.0)"]
+},
+{
+  "iIndex": 505,
+  "sQuestion": "Megan tenía 93 archivos en su computadora. Borró 21 de ellos y colocó el resto en carpetas con 8 archivos en cada una. ¿Cuántas carpetas terminó teniendo Megan?",
+  "lAlignments": [11, 49, 95],
+  "lSolutions": [9.0],
+  "lEquations": ["x = ((93.0 - 21.0) / 8.0)"]
+},
+{
+  "iIndex": 506,
+  "sQuestion": "Wendy subió 79 fotos a Facebook. Puso 44 fotos en un álbum y el resto en 5 álbumes diferentes. ¿Cuántas fotos había en cada álbum?",
+  "lAlignments": [16, 49, 94],
+  "lSolutions": [7.0],
+  "lEquations": ["x = ((79.0 - 44.0) / 5.0)"]
+},
+{
+  "iIndex": 507,
+  "sQuestion": "Isabel tenía 72 problemas de tarea. Terminó 32 de ellos pero aún le quedaban 5 páginas de problemas por hacer. Si cada página tiene el mismo número de problemas, ¿cuántos problemas hay en cada página?",
+  "lAlignments": [12, 47, 72],
+  "lSolutions": [8.0],
+  "lEquations": ["x = ((72.0 - 32.0) / 5.0)"]
+},
+{
+  "iIndex": 508,
+  "sQuestion": "La cafetería tenía 62 manzanas. Para el almuerzo entregaron 8 a los estudiantes y decidieron usar el resto para hacer pasteles. Si cada pastel lleva 9 manzanas, ¿cuántos pasteles podrían hacer?",
+  "lAlignments": [19, 56, 130],
+  "lSolutions": [6.0],
+  "lEquations": ["x = ((62.0 - 8.0) / 9.0)"]
+},
+{
+  "iIndex": 509,
+  "sQuestion": "Mike ganó 101 dólares cortando césped durante el verano. Si gastó 47 dólares en comprar nuevas cuchillas de cortacésped, ¿cuántos juegos de 6 dólares podría comprar con el dinero que le quedaba?",
+  "lAlignments": [11, 65, 110],
+  "lSolutions": [9.0],
+  "lEquations": ["x = ((101.0 - 47.0) / 6.0)"]
+},
+{
+  "iIndex": 510,
+  "sQuestion": "El equipo de Paige ganó su juego de balón prisionero y anotó un total de 41 puntos. Si Paige anotó 11 de los puntos y todos los demás anotaron 6 puntos cada uno, ¿cuántos jugadores había en su equipo?",
+  "lAlignments": [50, 83, 125],
+  "lSolutions": [5.0],
+  "lEquations": ["x = ((41.0 - 11.0) / 6.0)"]
+},
+{
+  "iIndex": 511,
+  "sQuestion": "Oliver está en la biblioteca ayudando a guardar libros. Hay un total de 46 libros para guardar, pero una bibliotecaria toma 10 de ellos y deja a Oliver con el resto. Si puede colocar 4 libros en un estante, ¿cuántos estantes necesitará?",
+  "lAlignments": [60, 108, 166],
+  "lSolutions": [9.0],
+  "lEquations": ["x = ((46.0 - 10.0) / 4.0)"]
+},
+{
+  "iIndex": 512,
+  "sQuestion": "Emily estaba plantando vegetales en su jardín. Comenzó con 41 semillas y plantó 29 de ellas en el jardín grande, y en cada uno de sus jardines pequeños puso 4 semillas cada uno. ¿Cuántos jardines pequeños tenía Emily?",
+  "lAlignments": [63, 84, 150],
+  "lSolutions": [3.0],
+  "lEquations": ["x = ((41.0 - 29.0) / 4.0)"]
+},
+{
+  "iIndex": 513,
+  "sQuestion": "Edward ganó 37 dólares cortando césped durante el verano. Si gastó 21 dólares en comprar nuevas cuchillas de cortacésped, ¿cuántos juegos de 2 dólares podría comprar con el dinero que le quedaba?",
+  "lAlignments": [13, 66, 111],
+  "lSolutions": [8.0],
+  "lEquations": ["x = ((37.0 - 21.0) / 2.0)"]
+},
+{
+  "iIndex": 514,
+  "sQuestion": "Una tienda de mascotas tenía 81 cachorros. En un día vendieron 41 de ellos y colocaron el resto en jaulas con 8 en cada jaula. ¿Cuántas jaulas usaron?",
+  "lAlignments": [17, 50, 94],
+  "lSolutions": [5.0],
+  "lEquations": ["x = ((81.0 - 41.0) / 8.0)"]
+},
+{
+  "iIndex": 515,
+  "sQuestion": "Hay 65 estudiantes que prueban para los equipos de trivia de la escuela. Si 17 de ellos no fueron seleccionados para el equipo y el resto se dividió en 8 grupos, ¿cuántos estudiantes habría en cada grupo?",
+  "lAlignments": [11, 68, 137],
+  "lSolutions": [6.0],
+  "lEquations": ["x = ((65.0 - 17.0) / 8.0)"]
+},
+{
+  "iIndex": 516,
+  "sQuestion": "Tom tenía 57 dólares. Si gastó 49 dólares en un juego nuevo, ¿cuántos juguetes de 4 dólares podría comprar con el dinero que le quedaba?",
+  "lAlignments": [9, 33, 66],
+  "lSolutions": [2.0],
+  "lEquations": ["x = ((57.0 - 49.0) / 4.0)"]
+},
+{
+  "iIndex": 517,
+  "sQuestion": "Isabel recogió 66 flores para la boda de su amiga. Estaba haciendo ramos con 8 flores en cada uno. Si 10 de las flores se marchitaron antes de la boda, ¿cuántos ramos podría seguir haciendo?",
+  "lAlignments": [15, 107, 81],
+  "lSolutions": [7.0],
+  "lEquations": ["x = ((66.0 - 10.0) / 8.0)"]
+},
+{
+  "iIndex": 518,
+  "sQuestion": "Para Halloween, Sarah recibió 108 piezas de dulces. Se comió 36 piezas y luego colocó el resto en montones con 9 en cada montón. ¿Cuántos montones podría hacer?",
+  "lAlignments": [30, 59, 106],
+  "lSolutions": [8.0],
+  "lEquations": ["x = ((108.0 - 36.0) / 9.0)"]
+},
+{
+  "iIndex": 519,
+  "sQuestion": "Nancy tenía 80 archivos en su computadora. Eliminó 31 de ellos y colocó el resto en carpetas con 7 archivos en cada una. ¿Cuántas carpetas terminó teniendo Nancy?",
+  "lAlignments": [11, 49, 95],
+  "lSolutions": [7.0],
+  "lEquations": ["x = ((80.0 - 31.0) / 7.0)"]
+},
+{
+  "iIndex": 520,
+  "sQuestion": "Hay 36 estudiantes que están tratando de ingresar a los equipos de trivia de la escuela. Si 9 de ellos no fueron seleccionados para el equipo y el resto se dividió en 3 grupos, ¿cuántos estudiantes habría en cada grupo?",
+  "lAlignments": [11, 68, 136],
+  "lSolutions": [9.0],
+  "lEquations": ["x = ((36.0 - 9.0) / 3.0)"]
+},
+{
+  "iIndex": 521,
+  "sQuestion": "La cafetería tenía 96 manzanas. Para el almuerzo entregaron 42 a los estudiantes y decidieron usar el resto para hacer pasteles. Si cada pastel requiere 6 manzanas, ¿cuántos pasteles podrían hacer?",
+  "lAlignments": [19, 56, 131],
+  "lSolutions": [9.0],
+  "lEquations": ["x = ((96.0 - 42.0) / 6.0)"]
+},
+{
+  "iIndex": 522,
+  "sQuestion": "Una tienda de mascotas tenía 64 cachorros. En un día vendieron 28 de ellos y colocaron el resto en jaulas con 4 en cada jaula. ¿Cuántas jaulas usaron?",
+  "lAlignments": [17, 50, 94],
+  "lSolutions": [9.0],
+  "lEquations": ["x = ((64.0 - 28.0) / 4.0)"]
+},
+{
+  "iIndex": 523,
+  "sQuestion": "Edward estaba vendiendo sus juegos antiguos. Comenzó con 35 pero vendió 19 de ellos. Empacó el resto colocando 8 juegos en cada caja. ¿Cuántas cajas tuvo que usar?",
+  "lAlignments": [55, 67, 109],
+  "lSolutions": [2.0],
+  "lEquations": ["x = ((35.0 - 19.0) / 8.0)"]
+},
+{
+  "iIndex": 524,
+  "sQuestion": "Frank ganó 19 dólares cortando césped durante el verano. Si gastó 11 dólares comprando nuevas cuchillas de cortacésped, ¿cuántos juegos de 2 dólares podría comprar con el dinero que le quedaba?",
+  "lAlignments": [12, 65, 110],
+  "lSolutions": [4.0],
+  "lEquations": ["x = ((19.0 - 11.0) / 2.0)"]
+},
+{
+  "iIndex": 525,
+  "sQuestion": "Megan tenía 40 problemas de tarea. Terminó 26 de ellos, pero aún le quedaban 2 páginas de problemas por hacer. Si cada página tiene la misma cantidad de problemas, ¿cuántos problemas hay en cada página?",
+  "lAlignments": [11, 46, 71],
+  "lSolutions": [7.0],
+  "lEquations": ["x = ((40.0 - 26.0) / 2.0)"]
+},
+{
+  "iIndex": 526,
+  "sQuestion": "Wendy recogió 103 flores para la boda de su amiga. Estaba haciendo ramos con 8 flores en cada uno. Si 47 de las flores se marchitaron antes de la boda, ¿cuántos ramos podría seguir haciendo?",
+  "lAlignments": [14, 107, 81],
+  "lSolutions": [7.0],
+  "lEquations": ["x = ((103.0 - 47.0) / 8.0)"]
+},
+{
+  "iIndex": 527,
+  "sQuestion": "Kaleb tenía 39 piezas de ropa para lavar. Colocó 19 de ellas en una carga, pero decidió dividir el resto en 5 cargas iguales. ¿Cuántas piezas de ropa podría haber en cada una de las cargas pequeñas?",
+  "lAlignments": [11, 49, 108],
+  "lSolutions": [4.0],
+  "lEquations": ["x = ((39.0 - 19.0) / 5.0)"]
+},
+{
+  "iIndex": 528,
+  "sQuestion": "Una empresa invitó a 18 personas a un almuerzo, pero 12 de ellas no se presentaron. Si las mesas que tenían tenían espacio para 3 personas cada una, ¿cuántas mesas necesitarían?",
+  "lAlignments": [19, 48, 103],
+  "lSolutions": [2.0],
+  "lEquations": ["x = ((18.0 - 12.0) / 3.0)"]
+},
+{
+  "iIndex": 529,
+  "sQuestion": "Mike está en la biblioteca ayudando a guardar libros. Hay un total de 82 libros para guardar, pero una bibliotecaria toma 10 de ellos y deja a Mike con el resto. Si puede colocar 9 libros en un estante, ¿cuántos estantes necesitará?",
+  "lAlignments": [58, 106, 162],
+  "lSolutions": [8.0],
+  "lEquations": ["x = ((82.0 - 10.0) / 9.0)"]
+},
+{
+  "iIndex": 530,
+  "sQuestion": "Una tienda de mascotas tenía 78 cachorros. En un día vendieron 30 de ellos y colocaron el resto en jaulas con 8 en cada jaula. ¿Cuántas jaulas usaron?",
+  "lAlignments": [17, 50, 94],
+  "lSolutions": [6.0],
+  "lEquations": ["x = ((78.0 - 30.0) / 8.0)"]
+},
+{
+  "iIndex": 531,
+  "sQuestion": "Bianca subió 33 fotos a Facebook. Colocó 27 fotos en un álbum y el resto en 3 álbumes diferentes. ¿Cuántas fotos había en cada álbum?",
+  "lAlignments": [17, 50, 95],
+  "lSolutions": [2.0],
+  "lEquations": ["x = ((33.0 - 27.0) / 3.0)"]
+},
+{
+  "iIndex": 532,
+  "sQuestion": "El equipo de Emily ganó su juego de balón prisionero y anotó un total de 39 puntos. Si Emily anotó 23 de los puntos y todos los demás anotaron 2 puntos cada uno, ¿cuántos jugadores había en su equipo?",
+  "lAlignments": [50, 83, 125],
+  "lSolutions": [8.0],
+  "lEquations": ["x = ((39.0 - 23.0) / 2.0)"]
+},
+{
+  "iIndex": 533,
+  "sQuestion": "Una empresa invitó a 47 personas a un almuerzo, pero 7 de ellas no se presentaron. Si las mesas que tenían tenían espacio para 5 personas cada una, ¿cuántas mesas necesitarían?",
+  "lAlignments": [19, 48, 102],
+  "lSolutions": [8.0],
+  "lEquations": ["x = ((47.0 - 7.0) / 5.0)"]
+},
+{
+  "iIndex": 534,
+  "sQuestion": "Un camarero tenía 44 clientes en su sección. Si 12 de ellos se fueron y el resto de sus mesas tenía 8 personas en cada una, ¿cuántas mesas tenía?",
+  "lAlignments": [14, 46, 93],
+  "lSolutions": [4.0],
+  "lEquations": ["x = ((44.0 - 12.0) / 8.0)"]
+},
+{
+  "iIndex": 535,
+  "sQuestion": "Una tienda tenía 40 libros para colorear en stock. Terminaron poniéndolos en oferta y deshaciéndose de 20 de ellos. Pusieron los que aún tenían en estantes con 4 en cada estante. ¿Cuántos estantes usaron?",
+  "lAlignments": [13, 95, 157],
+  "lSolutions": [5.0],
+  "lEquations": ["x = ((40.0 - 20.0) / 4.0)"]
+},
+{
+  "iIndex": 536,
+  "sQuestion": "Hay 64 estudiantes tratando de ingresar a los equipos de trivia de la escuela. Si 36 de ellos no fueron seleccionados para el equipo y el resto se dividió en 4 grupos, ¿cuántos estudiantes habría en cada grupo?",
+  "lAlignments": [11, 68, 137],
+  "lSolutions": [7.0],
+  "lEquations": ["x = ((64.0 - 36.0) / 4.0)"]
+},
+{
+  "iIndex": 537,
+  "sQuestion": "Kaleb estaba vendiendo sus juegos antiguos. Comenzó con 76 pero vendió 46 de ellos. Empacó el resto colocando 5 juegos en cada caja. ¿Cuántas cajas tuvo que usar?",
+  "lAlignments": [54, 66, 108],
+  "lSolutions": [6.0],
+  "lEquations": ["x = ((76.0 - 46.0) / 5.0)"]
+},
+{
+  "iIndex": 538,
+  "sQuestion": "Jerry está en la biblioteca ayudando a guardar libros. Hay un total de 34 libros para guardar, pero una bibliotecaria toma 7 de ellos y deja a Jerry con el resto. Si puede colocar 3 libros en un estante, ¿cuántos estantes necesitará?",
+  "lAlignments": [59, 107, 163],
+  "lSolutions": [9.0],
+  "lEquations": ["x = ((34.0 - 7.0) / 3.0)"]
+},
+{
+  "iIndex": 539,
+  "sQuestion": "Nancy estaba plantando verduras en su jardín. Comenzó con 52 semillas y plantó 28 de ellas en el jardín grande, y en cada uno de sus jardines pequeños puso 4 semillas cada uno. ¿Cuántos jardines pequeños tenía Nancy?",
+  "lAlignments": [63, 84, 150],
+  "lSolutions": [6.0],
+  "lEquations": ["x = ((52.0 - 28.0) / 4.0)"]
+},
+{
+  "iIndex": 540,
+  "sQuestion": "Will tenía 83 dólares. Si gastó 47 dólares en un juego nuevo, ¿cuántos juguetes de 4 dólares podría comprar con el dinero que le quedaba?",
+  "lAlignments": [10, 34, 67],
+  "lSolutions": [9.0],
+  "lEquations": ["x = ((83.0 - 47.0) / 4.0)"]
+},
+{
+  "iIndex": 541,
+  "sQuestion": "Bianca estaba plantando verduras en su jardín. Comenzó con 52 semillas y plantó 40 de ellas en el jardín grande, y en cada uno de sus jardines pequeños puso 2 semillas cada uno. ¿Cuántos jardines pequeños tenía Bianca?",
+  "lAlignments": [64, 85, 151],
+  "lSolutions": [6.0],
+  "lEquations": ["x = ((52.0 - 40.0) / 2.0)"]
+},
+{
+  "iIndex": 542,
+  "sQuestion": "Un camarero tenía 21 clientes en su sección. Si 12 de ellos se fueron y el resto de sus mesas tenía 3 personas en cada una, ¿cuántas mesas tenía?",
+  "lAlignments": [14, 46, 93],
+  "lSolutions": [3.0],
+  "lEquations": ["x = ((21.0 - 12.0) / 3.0)"]
+},
+{
+  "iIndex": 543,
+  "sQuestion": "Hay 25 estudiantes tratando de ingresar a los equipos de trivia de la escuela. Si 15 de ellos no fueron seleccionados para el equipo y el resto se dividió en 2 grupos, ¿cuántos estudiantes habría en cada grupo?",
+  "lAlignments": [11, 68, 137],
+  "lSolutions": [5.0],
+  "lEquations": ["x = ((25.0 - 15.0) / 2.0)"]
+},
+{
+  "iIndex": 544,
+  "sQuestion": "La cafetería tenía 47 manzanas. Para el almuerzo, repartieron 27 a los estudiantes y decidieron usar el resto para hacer pasteles. Si cada pastel requiere 4 manzanas, ¿cuántos pasteles podrían hacer?",
+  "lAlignments": [19, 56, 131],
+  "lSolutions": [5.0],
+  "lEquations": ["x = ((47.0 - 27.0) / 4.0)"]
+},
+{
+  "iIndex": 545,
+  "sQuestion": "Megan horneó 68 cupcakes para la venta de pasteles de su escuela. Si su hermano, Todd, se comió 32 de ellos, ¿cuántos paquetes podría hacer si ponía 6 cupcakes en cada paquete?",
+  "lAlignments": [13, 79, 134],
+  "lSolutions": [6.0],
+  "lEquations": ["x = ((68.0 - 32.0) / 6.0)"]
+},
+{
+  "iIndex": 546,
+  "sQuestion": "Una tienda tenía 120 libros para colorear en stock. Terminaron poniéndolos en oferta y deshaciéndose de 39 de ellos. Pusieron los que aún tenían en estantes con 9 en cada estante. ¿Cuántos estantes usaron?",
+  "lAlignments": [13, 96, 158],
+  "lSolutions": [9.0],
+  "lEquations": ["x = ((120.0 - 39.0) / 9.0)"]
+},
+{
+  "iIndex": 547,
+  "sQuestion": "Isabel subió 25 fotos a Facebook. Puso 10 fotos en un álbum y el resto en 5 álbumes diferentes. ¿Cuántas fotos había en cada álbum?",
+  "lAlignments": [17, 50, 95],
+  "lSolutions": [3.0],
+  "lEquations": ["x = ((25.0 - 10.0) / 5.0)"]
+},
+{
+  "iIndex": 548,
+  "sQuestion": "Sarah tenía 60 problemas de tarea. Terminó 20 de ellos pero aún tenía 5 páginas de problemas por hacer. Si cada página tiene la misma cantidad de problemas, ¿cuántos problemas hay en cada página?",
+  "lAlignments": [11, 46, 71],
+  "lSolutions": [8.0],
+  "lEquations": ["x = ((60.0 - 20.0) / 5.0)"]
+},
+{
+  "iIndex": 549,
+  "sQuestion": "Mike ganó 42 dólares cortando césped durante el verano. Si gastó 10 dólares en comprar cuchillas nuevas para la cortadora, ¿cuántos juegos de 8 dólares podría comprar con el dinero que le quedaba?",
+  "lAlignments": [11, 64, 109],
+  "lSolutions": [4.0],
+  "lEquations": ["x = ((42.0 - 10.0) / 8.0)"]
+},
+{
+  "iIndex": 550,
+  "sQuestion": "Will tenía 59 piezas de ropa para lavar. Puso 32 de ellas en una carga, pero decidió dividir el resto en 9 cargas iguales. ¿Cuántas piezas de ropa podrían ir en cada una de las cargas pequeñas?",
+  "lAlignments": [10, 48, 107],
+  "lSolutions": [3.0],
+  "lEquations": ["x = ((59.0 - 32.0) / 9.0)"]
+},
+{
+  "iIndex": 551,
+  "sQuestion": "Oliver ganó 35 dólares cortando césped durante el verano. Si gastó 7 dólares en comprar cuchillas nuevas para la cortadora, ¿cuántos juegos de 4 dólares podría comprar con el dinero que le quedaba?",
+  "lAlignments": [13, 66, 110],
+  "lSolutions": [7.0],
+  "lEquations": ["x = ((35.0 - 7.0) / 4.0)"]
+},
+{
+  "iIndex": 552,
+  "sQuestion": "Emily estaba plantando verduras en su jardín. Comenzó con 42 semillas y plantó 36 de ellas en el jardín grande, y en cada uno de sus jardines pequeños puso 2 semillas cada uno. ¿Cuántos jardines pequeños tenía Emily?",
+  "lAlignments": [63, 84, 150],
+  "lSolutions": [3.0],
+  "lEquations": ["x = ((42.0 - 36.0) / 2.0)"]
+},
+{
+  "iIndex": 553,
+  "sQuestion": "Hay 17 estudiantes tratando de ingresar a los equipos de trivia de la escuela. Si 5 de ellos no fueron seleccionados para el equipo y el resto se dividió en 3 grupos, ¿cuántos estudiantes habría en cada grupo?",
+  "lAlignments": [11, 68, 136],
+  "lSolutions": [4.0],
+  "lEquations": ["x = ((17.0 - 5.0) / 3.0)"]
+},
+{
+  "iIndex": 554,
+  "sQuestion": "El equipo de Katie ganó su juego de balón prisionero y anotó un total de 12 puntos. Si Katie anotó 4 de los puntos y todos los demás anotaron 4 puntos cada uno, ¿cuántos jugadores había en su equipo?",
+  "lAlignments": [50, 83, 124],
+  "lSolutions": [2.0],
+  "lEquations": ["x = ((12.0 - 4.0) / 4.0)"]
+},
+{
+  "iIndex": 555,
+  "sQuestion": "Megan horneó 71 cupcakes para la venta de pasteles de su escuela. Si su hermano, Todd, se comió 43 de ellos, ¿cuántos paquetes podría hacer si ponía 7 cupcakes en cada paquete?",
+  "lAlignments": [13, 79, 134],
+  "lSolutions": [4.0],
+  "lEquations": ["x = ((71.0 - 43.0) / 7.0)"]
+},
+{
+  "iIndex": 556,
+  "sQuestion": "Wendy subió 45 fotos a Facebook. Puso 27 fotos en un álbum y el resto en 9 álbumes diferentes. ¿Cuántas fotos había en cada álbum?",
+  "lAlignments": [16, 49, 94],
+  "lSolutions": [2.0],
+  "lEquations": ["x = ((45.0 - 27.0) / 9.0)"]
+},
+{
+  "iIndex": 557,
+  "sQuestion": "Una tienda tenía 86 libros para colorear en stock. Terminaron poniéndolos en venta y deshaciéndose de 37 de ellos. Pusieron los que aún tenían en estantes con 7 en cada estante. ¿Cuántos estantes utilizaron?",
+  "lAlignments": [13, 95, 157],
+  "lSolutions": [7.0],
+  "lEquations": ["x = ((86.0 - 37.0) / 7.0)"]
+},
+{
+  "iIndex": 558,
+  "sQuestion": "La cafetería tenía 50 manzanas. Para el almuerzo entregaron 5 a los estudiantes y decidieron usar el resto para hacer pasteles. Si cada pastel lleva 5 manzanas, ¿cuántos pasteles podrían hacer?",
+  "lAlignments": [19, 56, 130],
+  "lSolutions": [9.0],
+  "lEquations": ["x = ((50.0 - 5.0) / 5.0)"]
+},
+{
+  "iIndex": 559,
+  "sQuestion": "Nancy tenía 101 problemas de tarea. Terminó 47 de ellos pero aún tenía 6 páginas de problemas por hacer. Si cada página tiene la misma cantidad de problemas, ¿cuántos problemas hay en cada página?",
+  "lAlignments": [11, 47, 72],
+  "lSolutions": [9.0],
+  "lEquations": ["x = ((101.0 - 47.0) / 6.0)"]
+},
+{
+  "iIndex": 560,
+  "sQuestion": "Paige tenía 27 archivos en su computadora. Eliminó 9 de ellos y puso el resto en carpetas con 6 archivos en cada una. ¿Cuántas carpetas obtuvo Paige al final?",
+  "lAlignments": [11, 49, 94],
+  "lSolutions": [3.0],
+  "lEquations": ["x = ((27.0 - 9.0) / 6.0)"]
+},
+{
+  "iIndex": 561,
+  "sQuestion": "Para Halloween, Bianca recibió 78 piezas de dulces. Se comió 30 piezas y luego colocó el resto en montones con 8 en cada montón. ¿Cuántos montones pudo hacer?",
+  "lAlignments": [31, 59, 106],
+  "lSolutions": [6.0],
+  "lEquations": ["x = ((78.0 - 30.0) / 8.0)"]
+},
+{
+  "iIndex": 562,
+  "sQuestion": "Una empresa invitó a 45 personas a un almuerzo, pero 35 de ellas no se presentaron. Si las mesas que tenían cabían a 2 personas cada una, ¿cuántas mesas necesitarían?",
+  "lAlignments": [19, 48, 103],
+  "lSolutions": [5.0],
+  "lEquations": ["x = ((45.0 - 35.0) / 2.0)"]
+},
+{
+  "iIndex": 563,
+  "sQuestion": "Haley subió 65 fotos a Facebook. Puso 17 fotos en un álbum y el resto en 6 álbumes diferentes. ¿Cuántas fotos había en cada álbum?",
+  "lAlignments": [16, 49, 94],
+  "lSolutions": [8.0],
+  "lEquations": ["x = ((65.0 - 17.0) / 6.0)"]
+},
+{
+  "iIndex": 564,
+  "sQuestion": "Una tienda de mascotas tenía 102 cachorros. En un día vendieron 21 de ellos y pusieron el resto en jaulas con 9 en cada jaula. ¿Cuántas jaulas utilizaron?",
+  "lAlignments": [17, 51, 95],
+  "lSolutions": [9.0],
+  "lEquations": ["x = ((102.0 - 21.0) / 9.0)"]
+},
+{
+  "iIndex": 565,
+  "sQuestion": "Roger tenía 120 piezas de ropa para lavar. Puso 48 de ellas en una carga, pero decidió dividir el resto en 9 cargas iguales. ¿Cuántas piezas de ropa podrían ir en cada una de las cargas pequeñas?",
+  "lAlignments": [11, 50, 109],
+  "lSolutions": [8.0],
+  "lEquations": ["x = ((120.0 - 48.0) / 9.0)"]
+},
+{
+  "iIndex": 566,
+  "sQuestion": "Wendy recogió 45 flores para la boda de su amiga. Estaba haciendo ramos con 5 flores en cada uno. Si 35 de las flores se marchitaron antes de la boda, ¿cuántos ramos podría seguir haciendo?",
+  "lAlignments": [14, 106, 80],
+  "lSolutions": [2.0],
+  "lEquations": ["x = ((45.0 - 35.0) / 5.0)"]
+},
+
+{
+  "iIndex": 567,
+  "sQuestion": "Isabel horneó 39 cupcakes para la venta de pasteles de su escuela. Si su hermano, Todd, se comió 21 de ellos, ¿cuántos paquetes podría hacer si ponía 3 cupcakes en cada paquete?",
+  "lAlignments": [14, 80, 135],
+  "lSolutions": [6.0],
+  "lEquations": ["x = ((39.0 - 21.0) / 3.0)"]
+},
+{
+  "iIndex": 568,
+  "sQuestion": "Sarah tenía 55 problemas de tarea. Terminó 6 de ellos pero aún tenía 7 páginas de problemas por hacer. Si cada página tiene la misma cantidad de problemas, ¿cuántos problemas hay en cada página?",
+  "lAlignments": [11, 46, 70],
+  "lSolutions": [7.0],
+  "lEquations": ["x = ((55.0 - 6.0) / 7.0)"]
+},
+{
+  "iIndex": 569,
+  "sQuestion": "Hay 58 estudiantes que intentan unirse a los equipos de trivia de la escuela. Si 10 de ellos no fueron seleccionados para el equipo y el resto se distribuyó en 8 grupos, ¿cuántos estudiantes habría en cada grupo?",
+  "lAlignments": [11, 68, 137],
+  "lSolutions": [6.0],
+  "lEquations": ["x = ((58.0 - 10.0) / 8.0)"]
+},
+{
+  "iIndex": 570,
+  "sQuestion": "Paige recogió 53 flores para la boda de su amiga. Estaba haciendo ramos con 7 flores en cada uno. Si 18 de las flores se marchitaron antes de la boda, ¿cuántos ramos podría seguir haciendo?",
+  "lAlignments": [14, 106, 80],
+  "lSolutions": [5.0],
+  "lEquations": ["x = ((53.0 - 18.0) / 7.0)"]
+},
+{
+  "iIndex": 571,
+  "sQuestion": "Un camarero tenía 22 clientes en su sección. Si 14 de ellos se fueron y el resto de sus mesas tenía 4 personas en cada una, ¿cuántas mesas tenía?",
+  "lAlignments": [14, 46, 93],
+  "lSolutions": [2.0],
+  "lEquations": ["x = ((22.0 - 14.0) / 4.0)"]
+},
+{
+  "iIndex": 572,
+  "sQuestion": "Luke estaba vendiendo sus juegos antiguos. Comenzó con 39 pero vendió 19 de ellos. Empacó el resto poniendo 4 juegos en cada caja. ¿Cuántas cajas tuvo que usar?",
+  "lAlignments": [53, 65, 107],
+  "lSolutions": [5.0],
+  "lEquations": ["x = ((39.0 - 19.0) / 4.0)"]
+},
+{
+  "iIndex": 573,
+  "sQuestion": "Haley horneó 20 cupcakes para la venta de pasteles de su escuela. Si su hermano, Todd, se comió 11 de ellos, ¿cuántos paquetes podría hacer si ponía 3 cupcakes en cada paquete?",
+  "lAlignments": [13, 79, 134],
+  "lSolutions": [3.0],
+  "lEquations": ["x = ((20.0 - 11.0) / 3.0)"]
+},
+{
+  "iIndex": 574,
+  "sQuestion": "Una tienda de mascotas tenía 13 cachorros. En un día vendieron 7 de ellos y pusieron el resto en jaulas con 2 en cada jaula. ¿Cuántas jaulas utilizaron?",
+  "lAlignments": [17, 50, 93],
+  "lSolutions": [3.0],
+  "lEquations": ["x = ((13.0 - 7.0) / 2.0)"]
+},
+{
+  "iIndex": 575,
+  "sQuestion": "Una tienda tenía 27 libros para colorear en stock. Terminaron poniéndolos en venta y deshaciéndose de 6 de ellos. Pusieron los que aún tenían en estantes con 7 en cada estante. ¿Cuántos estantes utilizaron?",
+  "lAlignments": [13, 95, 156],
+  "lSolutions": [3.0],
+  "lEquations": ["x = ((27.0 - 6.0) / 7.0)"]
+},
+{
+  "iIndex": 576,
+  "sQuestion": "Wendy tenía 82 archivos en su computadora. Eliminó 37 de ellos y colocó el resto en carpetas con 5 archivos en cada una. ¿Cuántas carpetas terminó teniendo Wendy?",
+  "lAlignments": [11, 49, 95],
+  "lSolutions": [9.0],
+  "lEquations": ["x = ((82.0 - 37.0) / 5.0)"]
+},
+{
+  "iIndex": 577,
+  "sQuestion": "Kaleb tenía 12 dólares. Si gastó 8 dólares en un nuevo juego, ¿cuántos juguetes de 2 dólares podría comprar con el dinero que le quedaba?",
+  "lAlignments": [11, 35, 67],
+  "lSolutions": [2.0],
+  "lEquations": ["x = ((12.0 - 8.0) / 2.0)"]
+},
+{
+  "iIndex": 578,
+  "sQuestion": "Sarah estaba plantando vegetales en su jardín. Comenzó con 21 semillas y plantó 12 de ellas en el jardín grande y puso 3 semillas en cada uno de sus jardines pequeños. ¿Cuántos jardines pequeños tenía Sarah?",
+  "lAlignments": [63, 84, 150],
+  "lSolutions": [3.0],
+  "lEquations": ["x = ((21.0 - 12.0) / 3.0)"]
+},
+{
+  "iIndex": 579,
+  "sQuestion": "Nancy subió 51 fotos a Facebook. Puso 11 fotos en un álbum y el resto en 8 álbumes diferentes. ¿Cuántas fotos había en cada álbum?",
+  "lAlignments": [16, 49, 94],
+  "lSolutions": [5.0],
+  "lEquations": ["x = ((51.0 - 11.0) / 8.0)"]
+},
+{
+  "iIndex": 580,
+  "sQuestion": "Una empresa invitó a 24 personas a un almuerzo, pero 10 de ellas no se presentaron. Si las mesas que tenían cabían a 7 personas cada una, ¿cuántas mesas necesitarían?",
+  "lAlignments": [19, 48, 103],
+  "lSolutions": [2.0],
+  "lEquations": ["x = ((24.0 - 10.0) / 7.0)"]
+},
+{
+  "iIndex": 581,
+  "sQuestion": "El equipo de Bianca ganó su juego de balón prisionero y anotó un total de 75 puntos. Si Bianca anotó 45 de los puntos y todos los demás anotaron 6 puntos cada uno, ¿cuántos jugadores había en su equipo?",
+  "lAlignments": [51, 85, 127],
+  "lSolutions": [5.0],
+  "lEquations": ["x = ((75.0 - 45.0) / 6.0)"]
+},
+{
+  "iIndex": 582,
+  "sQuestion": "Para Halloween, Emily recibió 54 piezas de dulces. Se comió 33 piezas y luego puso el resto en pilas de 7 en cada pila. ¿Cuántas pilas pudo hacer?",
+  "lAlignments": [30, 58, 105],
+  "lSolutions": [3.0],
+  "lEquations": ["x = ((54.0 - 33.0) / 7.0)"]
+},
+{
+  "iIndex": 583,
+  "sQuestion": "Haley estaba plantando vegetales en su jardín. Comenzó con 56 semillas y plantó 35 de ellas en el jardín grande y puso 3 semillas en cada uno de sus jardines pequeños. ¿Cuántos jardines pequeños tenía Haley?",
+  "lAlignments": [63, 84, 150],
+  "lSolutions": [7.0],
+  "lEquations": ["x = ((56.0 - 35.0) / 3.0)"]
+},
+{
+  "iIndex": 584,
+  "sQuestion": "Una tienda tenía 48 libros para colorear en stock. Terminaron poniéndolos en venta y deshaciéndose de 38 de ellos. Pusieron los que aún tenían en estantes con 5 en cada estante. ¿Cuántos estantes utilizaron?",
+  "lAlignments": [13, 95, 157],
+  "lSolutions": [2.0],
+  "lEquations": ["x = ((48.0 - 38.0) / 5.0)"]
+},
+{
+  "iIndex": 585,
+  "sQuestion": "Roger está en la biblioteca ayudando a guardar libros. Hay un total de 14 libros para guardar, pero un bibliotecario toma 2 de ellos y deja a Roger con el resto. Si puede colocar 3 libros en un estante, ¿cuántos estantes necesitará?",
+  "lAlignments": [59, 107, 163],
+  "lSolutions": [4.0],
+  "lEquations": ["x = ((14.0 - 2.0) / 3.0)"]
+},
+{
+  "iIndex": 586,
+  "sQuestion": "Una tienda de mascotas tenía 56 cachorros. En un día, vendieron 24 de ellos y pusieron el resto en jaulas con 4 en cada jaula. ¿Cuántas jaulas usaron?",
+  "lAlignments": [17, 50, 94],
+  "lSolutions": [8.0],
+  "lEquations": ["x = ((56.0 - 24.0) / 4.0)"]
+},
+{
+  "iIndex": 587,
+  "sQuestion": "La cafetería tenía 86 manzanas. Para el almuerzo, entregaron 30 a los estudiantes y decidieron usar el resto para hacer pasteles. Si cada pastel requiere 8 manzanas, ¿cuántos pasteles podrían hacer?",
+  "lAlignments": [19, 56, 131],
+  "lSolutions": [7.0],
+  "lEquations": ["x = ((86.0 - 30.0) / 8.0)"]
+},
+{
+  "iIndex": 588,
+  "sQuestion": "Jerry tenía 60 piezas de ropa para lavar. Puso 40 de ellas en una carga, pero decidió dividir el resto en 5 cargas iguales. ¿Cuántas piezas de ropa podrían ir en cada una de las cargas pequeñas?",
+  "lAlignments": [11, 49, 108],
+  "lSolutions": [4.0],
+  "lEquations": ["x = ((60.0 - 40.0) / 5.0)"]
+},
+{
+  "iIndex": 589,
+  "sQuestion": "Mike ganó 69 dólares cortando césped durante el verano. Si gastó 24 dólares comprando cuchillas nuevas para la cortadora, ¿cuántos juegos de 5 dólares podría comprar con el dinero que le quedaba?",
+  "lAlignments": [11, 64, 109],
+  "lSolutions": [9.0],
+  "lEquations": ["x = ((69.0 - 24.0) / 5.0)"]
+},
+{
+  "iIndex": 590,
+  "sQuestion": "Will ganó 104 dólares cortando césped durante el verano. Si gastó 41 dólares comprando cuchillas nuevas para la cortadora, ¿cuántos juegos de 9 dólares podría comprar con el dinero que le quedaba?",
+  "lAlignments": [11, 65, 110],
+  "lSolutions": [7.0],
+  "lEquations": ["x = ((104.0 - 41.0) / 9.0)"]
+},
+{
+  "iIndex": 591,
+  "sQuestion": "Para Halloween, Bianca recibió 32 piezas de dulces. Se comió 12 piezas y luego puso el resto en pilas de 5 en cada pila. ¿Cuántas pilas pudo hacer?",
+  "lAlignments": [31, 59, 106],
+  "lSolutions": [4.0],
+  "lEquations": ["x = ((32.0 - 12.0) / 5.0)"]
+},
+{
+  "iIndex": 592,
+  "sQuestion": "Luke estaba vendiendo sus juegos antiguos. Comenzó con 57 pero vendió 39 de ellos. Empacó el resto poniendo 2 juegos en cada caja. ¿Cuántas cajas tuvo que usar?",
+  "lAlignments": [53, 65, 107],
+  "lSolutions": [9.0],
+  "lEquations": ["x = ((57.0 - 39.0) / 2.0)"]
+},
+{
+  "iIndex": 593,
+  "sQuestion": "Una tienda de mascotas tenía 88 cachorros. En un día, vendieron 34 de ellos y pusieron el resto en jaulas con 6 en cada jaula. ¿Cuántas jaulas usaron?",
+  "lAlignments": [17, 50, 94],
+  "lSolutions": [9.0],
+  "lEquations": ["x = ((88.0 - 34.0) / 6.0)"]
+},
+{
+  "iIndex": 594,
+  "sQuestion": "Katie tenía 85 archivos en su computadora. Eliminó 40 de ellos y colocó el resto en carpetas con 5 archivos en cada una. ¿Cuántas carpetas terminó teniendo Katie?",
+  "lAlignments": [11, 49, 95],
+  "lSolutions": [9.0],
+  "lEquations": ["x = ((85.0 - 40.0) / 5.0)"]
+},
+{
+  "iIndex": 595,
+  "sQuestion": "Roger tenía 68 dólares. Si gastó 47 dólares en un juego nuevo, ¿cuántos juguetes de 7 dólares podría comprar con el dinero que le quedaba?",
+  "lAlignments": [11, 35, 68],
+  "lSolutions": [3.0],
+  "lEquations": ["x = ((68.0 - 47.0) / 7.0)"]
+},
+  {
+    "iIndex": 596,
+    "sQuestion": "Tom bought 40 tickets at the state fair . He spent 28 tickets at the 'dunk a clown' booth and decided to use the rest on rides . If each ride cost 4 tickets , how many rides could he go on ?",
+    "lAlignments": [12, 51, 146],
+    "lSolutions": [3.0],
+    "lEquations": ["x = ( ( 40.0 - 28.0 ) / 4.0 )"]
+  },
+  {
+    "iIndex": 597,
+    "sQuestion": "The cafeteria had 75 apples . For lunch they handed out 19 to students and decided to use the rest to make pies . If each pie takes 8 apples , how many pies could they make ?",
+    "lAlignments": [19, 56, 131],
+    "lSolutions": [7.0],
+    "lEquations": ["x = ( ( 75.0 - 19.0 ) / 8.0 )"]
+  },
+  {
+    "iIndex": 598,
+    "sQuestion": "Sarah baked 38 cupcakes for her school's bake sale . If her brother , Todd , ate 14 of them how many packages could she make if she put 8 cupcake in each package ?",
+    "lAlignments": [13, 79, 134],
+    "lSolutions": [3.0],
+    "lEquations": ["x = ( ( 38.0 - 14.0 ) / 8.0 )"]
+  },
+  {
+    "iIndex": 599,
+    "sQuestion": "Nancy uploaded 41 pictures to Facebook . She put 37 pics into one album and put the rest into 2 different albums . How many pictures were in each album ?",
+    "lAlignments": [16, 49, 94],
+    "lSolutions": [2.0],
+    "lEquations": ["x = ( ( 41.0 - 37.0 ) / 2.0 )"]
+  },
+  {
+    "iIndex": 596,
+    "sQuestion": "Tom compró 40 boletos en la feria estatal. Gastó 28 boletos en el puesto de 'tirarle a un payaso' y decidió usar el resto en juegos mecánicos. Si cada juego mecánico cuesta 4 boletos, ¿en cuántos juegos mecánicos podría subir?",
+    "lAlignments": [12, 51, 146],
+    "lSolutions": [3.0],
+    "lEquations": ["x = ((40.0 - 28.0) / 4.0)"]
+},
+{
+    "iIndex": 597,
+    "sQuestion": "La cafetería tenía 75 manzanas. Para el almuerzo, entregaron 19 a los estudiantes y decidieron usar el resto para hacer pasteles. Si cada pastel requiere 8 manzanas, ¿cuántos pasteles podrían hacer?",
+    "lAlignments": [19, 56, 131],
+    "lSolutions": [7.0],
+    "lEquations": ["x = ((75.0 - 19.0) / 8.0)"]
+},
+{
+    "iIndex": 598,
+    "sQuestion": "Sarah horneó 38 cupcakes para la venta de pasteles de su escuela. Si su hermano, Todd, se comió 14 de ellos, ¿cuántos paquetes podría hacer si coloca 8 cupcakes en cada paquete?",
+    "lAlignments": [13, 79, 134],
+    "lSolutions": [3.0],
+    "lEquations": ["x = ((38.0 - 14.0) / 8.0)"]
+},
+{
+    "iIndex": 599,
+    "sQuestion": "Nancy subió 41 fotos a Facebook. Puso 37 fotos en un álbum y el resto en 2 álbumes diferentes. ¿Cuántas fotos había en cada álbum?",
+    "lAlignments": [16, 49, 94],
+    "lSolutions": [2.0],
+    "lEquations": ["x = ((41.0 - 37.0) / 2.0)"]
+}
+
+]

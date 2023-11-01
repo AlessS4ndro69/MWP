@@ -1,0 +1,562 @@
+Si hay 7 tapas de botellas en una caja y Linda pone 7 tapas de botellas más dentro, ¿cuántas tapas de botellas hay en la caja?
+José comienza con 7 tapas de botellas. Obtiene 2 más de Rebecca. ¿Con cuántas tapas de botella termina José?
+Bridget tiene 4 bolos. Henry tiene 4 bolos. Si Henry le da todos sus Skittles a Bridget, ¿cuántos Skittles tendrá Bridget?
+Brenda comienza con 7 bolos. Ella compra 8 más. ¿Con cuántos bolos termina Brenda?
+Hay 4 cartas. Se añaden 3 cartas más. ¿Cuantos hay en total?
+Hay 4 canicas. Se añaden 7 canicas más. ¿Cuantos hay en total?
+Hay 8 naranjas. Se añaden 8 naranjas más. ¿Cuantos hay en total?
+Carol recoge 2 maníes. El padre de Carol le da a Carol 5 más. ¿Cuántos maní tiene Carol?
+Hay 9 cartas. Se añaden 4 cartas más. ¿Cuantos hay en total?
+Si hay 7 tapas de botellas en una caja y Linda pone 7 tapas de botellas más dentro, ¿cuántas tapas de botellas hay en la caja?
+Bobby recoge 2 bloques. El padre de Bobby le da a Bobby 6 más. ¿Cuántos bloques tiene Bobby?
+Peter comienza con 8 borradores. Bridget le da a Peter 3 más. ¿Con cuántos borradores termina Peter?
+Si hay 7 crayones en una caja y Gerald pone 6 crayones más dentro, ¿cuántos crayones hay en la caja?
+Michelle tiene 2 crayones. Janet tiene 2 crayones. Si Janet le da todos sus crayones a Michelle, ¿cuántos crayones tendrá Michelle?
+Anna recoge 6 bloques. El padre de Anna le da a Anna 8 más. ¿Cuántos bloques tiene Anna?
+Donald tiene 4 naranjas. Encuentra otros 5 . ¿Cuántas naranjas tiene Donald en total?
+Si hay 7 huevos en una caja y Daniel pone 4 huevos más dentro, ¿cuántos huevos hay en la caja?
+Wayne recoge 9 bloques. El padre de Wayne le da a Wayne 6 más. ¿Cuántos bloques tiene Wayne?
+Bridget tiene 4 bolos. Henry tiene 4 bolos. Si Henry le da todos sus Skittles a Bridget, ¿cuántos Skittles tendrá Bridget?
+Ralph recoge 4 cartas. El padre de Ralph le da a Ralph 8 más. ¿Cuántas cartas tiene Ralph?
+Marta comienza con 3 cartas. Ella recibe 76 más de Emily. ¿Con cuántas cartas termina Marta?
+Hay 86 bloques. Se agregan 9 cuadras más. ¿Cuantos hay en total?
+Cheryl comienza con 8 bolos. Kathryn le da a Cheryl 89 más. ¿Con cuántos bolos termina Cheryl?
+Si hay 76 borradores en una caja y Patrick pone 9 borradores más dentro, ¿cuántos borradores hay en la caja?
+Amy comienza con 7 maníes. Gerald le da a Amy 55 más. ¿Con cuántos cacahuetes termina Amy?
+Teresa comienza con 52 plátanos. Ella recibe 2 más de Rachel. ¿Con cuántos plátanos termina Teresa?
+Gloria tiene 2 lápices. Lisa tiene 99 lápices. Si Lisa le da todos sus lápices a Gloria, ¿cuántos lápices tendrá Gloria?
+Mildred recolecta 77 naranjas. El padre de Mildred le da a Mildred 2 más. ¿Cuántas naranjas tiene Mildred?
+Anna comienza con 5 dulces. Ella recibe 86 más de Larry. ¿Con cuántos caramelos termina Anna?
+Marta tiene 2 maníes. Joyce tiene 26 maníes. Si Joyce le da todos sus maníes a Martha, ¿cuántos maníes tendrá Martha?
+Kevin comienza con 7 cartas. Encuentra otros 47 . ¿Con cuántas cartas termina Kevin?
+Joshua tiene 40 tapas de botellas. Compra 7 más. ¿Cuántas tapas de botellas tiene Joshua en total?
+Nicholas comienza con 8 tapas de botellas. Obtiene 85 más de Catherine. ¿Con cuántas tapas de botella termina Nicolás?
+María comienza con 27 huevos. Ella encuentra otros 4 . ¿Con cuántos huevos termina María?
+Shirley comienza con 98 huevos. Ella compra 8 más. ¿Con cuántos huevos termina Shirley?
+William comienza con 15 boletos. Compra 3 más. ¿Con cuántos billetes termina William?
+Harry comienza con 79 manzanas. Compra 5 más. ¿Con cuántas manzanas termina Harry?
+Bárbara tiene 9 dulces. Ella compra 18 más. ¿Cuántos dulces tiene Bárbara en total?
+Eugene tiene 51 lápices. Obtiene 6 más de Joyce. ¿Cuántos lápices tiene Eugene en total?
+Antonio tiene 9 lápices. &quot;Kathryn le da a Anthony 56 más&quot;. ¿Cuántos lápices tiene Antonio en total?
+Andrew comienza con 8 huevos. Compra 62 más. ¿Con cuántos huevos termina Andrew?
+Annie comienza con 4 crayones. Matthew le da a Annie 36 más. ¿Con cuántos crayones termina Annie?
+Ángela tiene 11 boletos. Annie le da a Angela 4 más. ¿Cuántos boletos tiene Ángela en total?
+Charles tiene 4 manzanas. Jessica le da a Charles 39 más. ¿Cuántas manzanas tiene Charles en total?
+Lisa comienza con 91 plátanos. María le da a Lisa 8 más. ¿Con cuántos plátanos termina Lisa?
+Evelyn comienza con 18 tapas de botellas. Encuentra otros 63 . ¿Con cuántas tapas de botella termina Evelyn?
+Brenda tiene 34 manzanas. Obtiene 37 más de Willie. ¿Cuántas manzanas tiene Brenda en total?
+José tiene 67 dulces. Kathy le da a Joseph 38 más. ¿Cuántos dulces tiene José en total?
+Janet tiene 57 manzanas. Encuentra otros 95 . ¿Cuántas manzanas tiene Janet en total?
+Nancy comienza con 91 tapas de botellas. Encuentra otros 88 . ¿Con cuántas tapas de botella termina Nancy?
+Harold tiene 53 canicas. Obtiene 16 más de Steve. ¿Cuántas canicas tiene Harold en total?
+Denise saca 5 plátanos de un frasco. Originalmente había 46 plátanos en el frasco. ¿Cuántos plátanos quedan en el frasco?
+Arthur saca 4 lápices de un frasco. Originalmente había 87 lápices en el frasco. ¿Cuántos lápices quedan en el frasco?
+Joyce comienza con 75 manzanas. Ella le da 52 a Larry. ¿Con cuántas manzanas termina Joyce?
+Rachel saca 47 tapas de botellas de un frasco. Originalmente había 87 tapas de botellas en el frasco. ¿Cuántas tapas de botellas quedan en el frasco?
+Ana pesa 67 libras. Douglas pesa 52 libras. ¿Cuánto más pesa Anne que Douglas?
+Jessica pesa 49 libras. Tomás pesa 44 libras. ¿Cuánto más pesa Jessica que Thomas?
+Debra saca 22 manzanas de un frasco. Originalmente había 57 manzanas en el frasco. ¿Cuántas manzanas quedan en el frasco?
+Virginia comienza con 96 huevos. Amy le quita 3. ¿Con cuántos huevos termina Virginia?
+Donna pesa 69 libras. Willie pesa 51 libras. ¿Cuánto más pesa Donna que Willie?
+Hay 47 huevos en una caja. Harry toma 5 huevos. Cuántos quedan ?
+Edward comienza con 92 huevos. Le da 40 a Phillip. ¿Con cuántos huevos termina Edward?
+David saca 7 huevos de un frasco. Originalmente había 27 huevos en el frasco. ¿Cuántos huevos quedan en el frasco?
+Hay 79 lápices en una caja. Eric toma 4 lápices. Cuántos quedan ?
+Jane comienza con 87 crayones. 7 son devorados por un hipopótamo. ¿Con cuántos crayones termina Jane?
+Roger tiene 95 dulces. Le da 3 a Stephanie. ¿Cuántos dulces tendrá Roger?
+Hay 96 naranjas en una caja. Jonathan toma 45 naranjas. Cuántos quedan ?
+Marie comienza con 95 borradores. Ella pierde 42 . ¿Con cuántos borradores termina Marie?
+Hay 22 naranjas en una caja. Paula toma 7 naranjas. Cuántos quedan ?
+Melissa tiene 88 plátanos. Ella comparte 4 con Joshua. ¿Cuántos plátanos tendrá Melissa?
+Larry tiene 67 cartas. Dennis le quita 9. ¿Cuántas cartas tendrá Larry?
+Juan pesa 81 libras. Roy pesa 4 libras. ¿Cuánto más pesa John que Roy?
+Larry comienza con 93 pegatinas. Pierde 6 . ¿Con cuántas pegatinas termina Larry?
+Carlos comienza con 39 plátanos. 3 son devorados por un hipopótamo. ¿Con cuántos plátanos termina Carlos?
+Patricia comienza con 76 dulces. Alberto le quita 5. ¿Con cuántos caramelos termina Patricia?
+Hay 16 tapas de botellas en una caja. Marvin toma 6 tapas de botellas. Cuántos quedan ?
+Ernest comienza con 17 crayones. Jennifer le quita 6. ¿Con cuántos crayones termina Ernest?
+Mildred pesa 59 libras. Carol pesa 9 libras. ¿Cuánto más pesa Mildred que Carol?
+Diana comienza con 65 tapas de botellas. 4 son devorados por un hipopótamo. ¿Con cuántas tapas de botellas termina Diana?
+Ruby tiene 63 manzanas. Emily le quita 55. ¿Cuántas manzanas tendrá Ruby?
+Craig comienza con 5 bolos. 2 son devorados por un hipopótamo. ¿Con cuántos bolos termina Craig?
+Steve tiene 46 naranjas. Comparte 4 con Patrick. ¿Cuántas naranjas tendrá Steve?
+Bridget pesa 39 libras. Marta pesa 2 libras. ¿Cuánto más pesa Bridget que Martha?
+Brian tiene 76 cartas. Wayne le quita 59. ¿Cuántas cartas tendrá Brian?
+Billy tiene 62 crayones. 52 son devorados por un hipopótamo. ¿Cuántos crayones tendrá Billy?
+Pamela comienza con 30 tapas de botellas. Jean le quita 26. ¿Con cuántas tapas de botella termina Pamela?
+Katherine tiene 34 tapas de botellas. 8 son devorados por un hipopótamo. ¿Cuántas tapas de botellas tendrá Katherine?
+Melissa tiene 70 naranjas. Juan le quita 19. ¿Cuántas naranjas tendrá Melissa?
+Norma comienza con 47 plátanos. Ella pierde 45 . ¿Con cuántos plátanos termina Norma?
+Willie comienza con 36 calcomanías. Le da 7 a Emily. ¿Con cuántas pegatinas termina Willie?
+Aaron comienza con 81 borradores. Le da 34 a Doris. ¿Con cuántos borradores termina Aaron?
+Charles tiene 25 bolos. Diana le quita 7. ¿Cuántos bolos tendrá Charles?
+Norma tiene 88 cartas. Ella pierde 70 . ¿Cuántas cartas tendrá Norma?
+Pamela tiene 50 bolos. Le da 7 a Karen. ¿Cuántos bolos tendrá Pamela?
+Evelyn comienza con 76 bolos. Comparte 72 con Christine. ¿Con cuántos bolos termina Evelyn?
+Helen comienza con 82 cartas. Gary le quita 9. ¿Con cuántas cartas termina Helen?
+Rut comienza con 89 manzanas. Ella comparte 5 con Peter. ¿Con cuántas manzanas termina Rut?
+Carlos tiene 58 bloques. Le da 21 a Raquel. ¿Cuántos bloques tendrá Carlos?
+Jesse comienza con 78 lápices. Le da 44 a Josué. ¿Con cuántos lápices termina Jesse?
+Roger tiene 92 bloques. 2 son devorados por un hipopótamo. ¿Cuántos bloques tendrá Roger?
+Heather comienza con 86 bloques. Comparte 41 con José. ¿Con cuántos bloques termina Heather?
+Ralph comienza con 74 maníes. Pierde 59 . ¿Con cuántos cacahuetes termina Ralph?
+Jack comienza con 62 canicas. Comparte 33 con Rebecca. ¿Con cuántas canicas termina Jack?
+Clarence tiene 99 boletos. Le da 7 a Eugene. ¿Cuántas entradas tendrá Clarence?
+Sean tiene 55 bloques. 29 son devorados por un hipopótamo. ¿Cuántos bloques tendrá Sean?
+Tina tiene 82 plátanos. Ella recibe 3 más de Joyce. ¿Cuántos plátanos tiene Tina en total?
+Janet tiene 3 pegatinas. Obtiene 53 más de Ruth. ¿Cuántas calcomanías tiene Janet en total?
+Jennifer comienza con 7 manzanas. Encuentra otros 74 . ¿Con cuántas manzanas termina Jennifer?
+Heather tiene 60 naranjas. Russell le quita 35. ¿Cuántas naranjas tendrá Heather?
+Helen comienza con 9 naranjas. Ella recibe 29 más de Ann. ¿Con cuántas naranjas termina Helen?
+William tiene 2 tapas de botellas. Compra 41 más. ¿Cuántas tapas de botellas tiene William en total?
+Dorothy tiene 72 cartas. Le da 5 a Harold. ¿Cuántas tarjetas tendrá Dorothy?
+Sara tiene 10 canicas. Ella pierde 7 . ¿Cuántas canicas tendrá Sara?
+Jennifer tiene 72 cartas. 61 son devorados por un hipopótamo. ¿Cuántas tarjetas tendrá Jennifer?
+Wanda tiene 4 bloques. Teresa le da a Wanda 79 más. ¿Cuántos bloques tiene Wanda en total?
+William tiene 10 canicas. Comparte 3 con Theresa. ¿Cuántas canicas tendrá William?
+Larry comienza con 91 cartas. 17 son devorados por un hipopótamo. ¿Con cuántas cartas termina Larry?
+Sarah tiene 26 tapas de botellas. Ella compra 3 más. ¿Cuántas tapas de botellas tiene Sarah en total?
+Hay 3 huevos en cada caja. ¿Cuántos huevos hay en 2 cajas?
+Cada tapa de botella cuesta $2.00. ¿Cuánto cuestan 6 tapas de botellas?
+Cada niño tiene 3 naranjas. Si hay 4 niños, ¿cuántas naranjas hay en total?
+Cada plátano cuesta $5,00. ¿Cuánto cuestan 4 plátanos?
+Cada boleto cuesta $9.00. ¿Cuánto cuestan 4 boletos?
+Cada tapa de botella cuesta $5.00. ¿Cuánto cuestan 5 tapas de botellas?
+Michelle tiene 7 cajas de crayones. Cada caja contiene 5 crayones. ¿Cuántos crayones tiene Michelle?
+Hay 8 canicas en cada caja. ¿Cuántas canicas hay en 6 cajas?
+Cada niño tiene 2 dulces. Si hay 9 niños, ¿cuántos dulces hay en total?
+Cada niño tiene 5 tapas de botellas. Si hay 9 niños, ¿cuántas tapas de botellas hay en total?
+Cada niño tiene 6 lápices. Si hay 2 niños, ¿cuántos lápices hay en total?
+Cada niño tiene 5 tapas de botellas. Si hay 9 niños, ¿cuántas tapas de botellas hay en total?
+Cada boleto cuesta $9.00. ¿Cuánto cuestan 4 boletos?
+Stephanie fue a la tienda 8 veces el mes pasado. Compra 2 naranjas cada vez que va a la tienda. ¿Cuántas naranjas compró Stephanie el mes pasado?
+Sarah tiene 7 cajas de manzanas. Cada caja contiene 7 manzanas. ¿Cuántas manzanas tiene Sara?
+Martín tiene 8 cajas de crayones. Cada caja contiene 7 crayones. ¿Cuántos crayones tiene Martín?
+Hay 9 tapas de botellas en cada caja. ¿Cuántas tapas de botellas hay en 6 cajas?
+Paula tiene 6 cajas de maní. Cada caja contiene 4 maníes. ¿Cuántos maní tiene Paula?
+Eric tiene 3 cajas de lápices. Cada caja contiene 9 lápices. ¿Cuántos lápices tiene Eric?
+Hay 6 canicas en cada caja. ¿Cuántas canicas hay en 3 cajas?
+Kimberly fue a la tienda 3 veces el mes pasado. Compra 7 maníes cada vez que va a la tienda. ¿Cuántos maníes compró Kimberly el mes pasado?
+Ronald fue a la tienda 2 veces el mes pasado. Compra 10 plátanos cada vez que va a la tienda. ¿Cuántos plátanos compró Ronald el mes pasado?
+Kathleen fue a la tienda 5 veces el mes pasado. Compra 5 tapas de botellas cada vez que va a la tienda. ¿Cuántas tapas de botellas compró Kathleen el mes pasado?
+Hay 4 crayones en cada caja. ¿Cuántos crayones hay en 3 cajas?
+Kimberly fue a la tienda 3 veces el mes pasado. Compra 7 maníes cada vez que va a la tienda. ¿Cuántos maníes compró Kimberly el mes pasado?
+La escuela está planeando una excursión. Hay 14 estudiantes y 2 asientos en cada autobús escolar. ¿Cuántos autobuses se necesitan para realizar el viaje?
+Betty tiene 24 naranjas guardadas en cajas. Si hay 3 cajas, ¿cuántas naranjas deben ir en cada caja?
+La escuela está planeando una excursión. Hay 9 estudiantes y 3 asientos en cada autobús escolar. ¿Cuántos autobuses se necesitan para realizar el viaje?
+Hay 2 estudiantes en la clase y 18 lápices. Si los lápices se dividen en partes iguales entre los estudiantes, ¿cuántos recibe cada estudiante?
+Hay 9 estudiantes en la clase y 81 boletos. Si los boletos se dividen en partes iguales entre los estudiantes, ¿cuántos recibe cada estudiante?
+Hay 35 tapas de botellas en la colección de tapas de botellas de Beverly. Si las tapas de las botellas están organizadas en 7 grupos, ¿qué tamaño tiene cada grupo?
+Jeffrey quiere dividir una colección de tapas de botellas en grupos de 2. Jeffrey tiene 12 tapas de botellas. ¿Cuántos grupos se crearán?
+Hay 9 estudiantes en la clase y 81 boletos. Si los boletos se dividen en partes iguales entre los estudiantes, ¿cuántos recibe cada estudiante?
+Peter tiene 3 dulces almacenados en cajas. Si hay 3 cajas, ¿cuántos dulces debe ir en cada caja?
+Hay 7 estudiantes en la clase y 42 manzanas. Si las manzanas se dividen en partes iguales entre los estudiantes, ¿cuántas recibe cada estudiante?
+Marta está invitando a 4 amigos a una fiesta. Tiene 12 galletas. ¿Cuántas galletas recibirá cada amigo?
+Jesse tiene 21 plátanos. Si los comparte entre 3 amigos, ¿cuántos plátanos recibe cada amigo?
+Hay 7 estudiantes en la clase y 56 huevos. Si los huevos se dividen en partes iguales entre los estudiantes, ¿cuántos recibe cada estudiante?
+Elizabeth está invitando a 5 amigos a una fiesta. Tiene 5 galletas. ¿Cuántas galletas recibirá cada amigo?
+Hay 72 cartas en la colección de cartas de Jean. Si las tarjetas están organizadas en 9 grupos, ¿qué tamaño tiene cada grupo?
+Eric quiere dividir una colección de maní en grupos de 8. Eric tiene 64 maníes. ¿Cuántos grupos se crearán?
+Henry quiere dividir una colección de crayones en grupos de 6. Henry tiene 42 crayones. ¿Cuántos grupos se crearán?
+Jack está invitando a 4 amigos a una fiesta. Tiene 4 galletas. ¿Cuántas galletas recibirá cada amigo?
+Harry está invitando a 3 amigos a una fiesta. Tiene 12 galletas. ¿Cuántas galletas recibirá cada amigo?
+Hay 30 dulces en la colección de dulces de Kathy. Si los dulces están organizados en 10 grupos, ¿qué tamaño tiene cada grupo?
+Deborah está invitando a 10 amigos a una fiesta. Tiene 80 galletas. ¿Cuántas galletas recibirá cada amigo?
+La escuela está planeando una excursión. Hay 28 estudiantes y 7 asientos en cada autobús escolar. ¿Cuántos autobuses se necesitan para realizar el viaje?
+Hay 36 plátanos en la colección de plátanos de Diane. Si los plátanos están organizados en 6 grupos, ¿qué tamaño tiene cada grupo?
+Hay 36 plátanos en la colección de plátanos de Diane. Si los plátanos están organizados en 6 grupos, ¿qué tamaño tiene cada grupo?
+Louise tiene 42 naranjas guardadas en cajas. Si hay 7 cajas, ¿cuántas naranjas deben ir en cada caja?
+La escuela está planeando una excursión. Hay 45 estudiantes y 9 asientos en cada autobús escolar. ¿Cuántos autobuses se necesitan para realizar el viaje?
+Michael tiene 16 bloques almacenados en cajas. Si hay 8 cajas, ¿cuántos bloques deben ir en cada caja?
+Albert tiene 35 naranjas almacenadas en cajas. Si hay 7 cajas, ¿cuántas naranjas deben ir en cada caja?
+Lori tiene 30 canicas. Si las comparte entre 5 amigos, ¿cuántas canicas recibe cada amigo?
+Brenda quiere dividir una colección de borradores en grupos de 90. Brenda tiene 270 borradores. ¿Cuántos grupos se crearán?
+La escuela está planeando una excursión. Hay 180 estudiantes y 60 asientos en cada autobús escolar. ¿Cuántos autobuses se necesitan para realizar el viaje?
+Bonnie tiene 10 boletos. Si los comparte entre 2 amigos, ¿cuántos boletos recibe cada amigo?
+Steven quiere dividir una colección de tarjetas en grupos de 6. Steven tiene 30 cartas. ¿Cuántos grupos se crearán?
+Eric tiene 9306 borradores. Si los comparte entre 99 amigos, ¿cuántos borradores recibe cada amigo?
+Diana tiene 3840 borradores. Si los comparte entre 48 amigos, ¿cuántos borradores recibe cada amigo?
+Ashley vendió 12 cajas de Samoas. ¿Cuántas cajas de 12 cajas, más cajas adicionales, necesita Ashley?
+Ashley vendió 12 cajas de Samoas. ¿Cuántas cajas de 12 cajas, más cajas adicionales, necesita Ashley?
+Ashley vendió 12 cajas de Samoas. ¿Cuántas cajas de 12 cajas, más cajas adicionales, necesita Ashley?
+Ashley vendió 12 cajas de Samoas. ¿Cuántas cajas de 12 cajas, más cajas adicionales, necesita Ashley?
+Sarah vendió 24 cajas de Lemon Chalet Cremes. ¿Cuántas cajas de 12 cajas, más cajas adicionales, necesita Sarah?
+Si Karen vendió 36 cajas de Tagalongs, ¿cuántas cajas de 12 cajas recoge Karen de la mamá de las galletas?
+Si Karen vendió 36 cajas de Tagalongs, ¿cuántas cajas de 12 cajas recoge Karen de la mamá de las galletas?
+Si Karen vendió 36 cajas de Tagalongs, ¿cuántas cajas de 12 cajas recoge Karen de la mamá de las galletas?
+Si Madison vendió 24 cajas de Tagalongs, ¿cuántas cajas de 12 cajas recoge Madison de la mamá de las galletas?
+Si Karen vendió 36 cajas de Tagalongs, ¿cuántas cajas de 12 cajas recoge Karen de la mamá de las galletas?
+Si Harold dividió 15 manzanas entre 3 personas de su clase y se quedó con las sobras, ¿cuántas manzanas recibió cada compañero?
+Si Víctor dividió 25 Skittles entre 5 personas de su clase y se quedó con los sobrantes, ¿cuántos Skittles recibió cada compañero?
+Jenny vendió 24 cajas de Trefoils. ¿Cuántas cajas de 8 cajas, más cajas adicionales, necesita entregar Jenny?
+Los chicles vienen en paquetes de 5. Nathan se comió 20 chicles. ¿Cuántas cajas enteras se comió y cuántos chicles le quedaron?
+Shirley vendió 20 cajas de Do-Si-Dos. ¿Cuántas cajas de 4 cajas, más cajas adicionales, necesita entregar Shirley?
+Las cabezas de limón vienen en paquetes de 6. Louis se comió 54 cabezas de limón. ¿Cuántas cajas enteras se comió y cuántas cabezas de limón le quedaron?
+Las cabezas de limón vienen en paquetes de 6. Louis se comió 54 cabezas de limón. ¿Cuántas cajas enteras se comió y cuántas cabezas de limón le quedaron?
+Las cabezas de limón vienen en paquetes de 6. Louis se comió 54 cabezas de limón. ¿Cuántas cajas enteras se comió y cuántas cabezas de limón le quedaron?
+Marilyn comienza con 51 tapas de botellas. Comparte 36 con Nancy. ¿Con cuántas tapas de botella termina Marilyn?
+William tiene 2 tapas de botellas. Compra 41 más. ¿Cuántas tapas de botellas tiene William en total?
+Carol comienza con 42 bloques. Ella pierde 25 . ¿Con cuántos bloques termina Carol?
+Lillian recolecta 88 dulces. El padre de Lillian le da a Lillian 5 más. ¿Cuántos dulces tiene Lillian?
+William tiene 2 tapas de botellas. Compra 41 más. ¿Cuántas tapas de botellas tiene William en total?
+Hay 8 manzanas apiladas sobre el escritorio. Cada manzana viene en un paquete de 11 . Se añaden 5 manzanas a la pila. ¿Cuántas manzanas hay en la pila?
+Sean tiene 9 manzanas. Susan le da a Sean 8 más. Más tarde, Sean compra 18 boletos en la tienda. ¿Cuántas manzanas tiene Sean en total?
+Hay 2 plátanos amontonados sobre el escritorio. Cada plátano viene en un paquete de 17 . Se añaden 7 plátanos a la pila. ¿Cuántos plátanos hay en la pila?
+Hay 6 dulces amontonados sobre el escritorio. Cada caramelo viene en un paquete de 15. Se añaden 4 caramelos a la pila. ¿Cuántos dulces hay en la pila?
+Kimberly tiene 5 bolos. Ella compra 7 más. Luego, Kimberly compra 18 naranjas en la tienda. ¿Cuántos bolos tiene Kimberly en total?
+Clarence tiene 5 naranjas. Obtiene 3 más de Joyce. Más tarde, Clarence compra 9 Skittles en la tienda. ¿Cuántas naranjas tiene Clarence en total?
+Hay 2 manzanas apiladas sobre el escritorio. Cada manzana viene en un paquete de 7 . Se añaden 4 manzanas a la pila. ¿Cuántas manzanas hay en la pila?
+Kimberly tiene 5 bolos. Ella compra 7 más. Luego, Kimberly compra 18 naranjas en la tienda. ¿Cuántos bolos tiene Kimberly en total?
+Annie tiene 6 manzanas. Obtiene 6 más de Nathan. Más tarde, Annie compra 10 crayones en la tienda. ¿Cuántas manzanas tiene Annie en total?
+Joyce tiene 8 huevos. Marie le da a Joyce 6 más. Más tarde, Joyce compra 13 borradores en la tienda. ¿Cuántos óvulos tiene Joyce en total?
+Hay 2 plátanos amontonados sobre el escritorio. Cada plátano viene en un paquete de 13. Se añaden 7 plátanos a la pila. ¿Cuántos plátanos hay en la pila?
+Kenneth tiene 3 canicas. Compra 6 más. Más tarde, Kenneth compra 15 manzanas en la tienda. ¿Cuántas canicas tiene Kenneth en total?
+Arturo tiene 6 cartas. Aaron tiene 5 cartas. Aaron encuentra otros 62 . ¿Con cuántas cartas termina Aaron?
+Scott tiene 4 boletos. Ernest tiene 9 boletos. Ernest encuentra otros 72 . ¿Con cuántos billetes termina Ernesto?
+Diane tiene 37 crayones. Ella recibe 5 más de Frances. Más tarde, Diane compra 16 tarjetas en la tienda. ¿Cuántos crayones tiene Diane en total?
+Adam tiene 13 bloques. Ann tiene 9 bloques. Ann encuentra otros 44 . ¿Con cuántos bloques termina Ann?
+Ronald tiene 13 bloqueos. Martha tiene con 4 bloques. Martha encuentra otros 80 . ¿Con cuántos bloques termina Marta?
+Albert tiene 9 tapas de botellas. Anne tiene 10 tapas de botellas. Anne encuentra otros 5 . ¿Con cuántas tapas de botellas termina Ana?
+Evelyn tiene 95 canicas. Ella recibe 9 más de Henry. Luego, Evelyn compra 6 tarjetas en la tienda. ¿Cuántas canicas tiene Evelyn en total?
+David tiene 8 plátanos. Recibe 50 más de Christopher. Más tarde, David compra 9 tarjetas en la tienda. ¿Cuántos plátanos tiene David en total?
+Emily colecciona 63 cartas. El padre de Emily le da a Emily 7 más. Bruce tiene 13 manzanas. ¿Cuántas cartas tiene Emily?
+Carolyn comienza con 47 canicas y 6 naranjas. Comparte 42 con Diana. ¿Con cuántas canicas termina Carolyn?
+Willie tiene 48 plátanos. Charles tiene 14 plátanos. Pierde 35 . ¿Cuántos plátanos tendrá Willie?
+Hay 55 naranjas en una caja. Deborah tiene 11 naranjas en una bolsa. Susan saca 35 naranjas de la caja. ¿Cuántas naranjas quedan en la caja?
+Hay 77 manzanas en una caja. Louise tiene 9 manzanas en una bolsa. Scott saca 75 manzanas de la caja. ¿Cuántas manzanas quedan en la caja?
+Bruce tiene 75 huevos. Kimberly tiene 17 huevos. Pierde 70 . ¿Cuántos óvulos tendrá Bruce?
+Hay 69 borradores en una caja. Jane tiene 15 borradores en una bolsa. Doris saca 54 borradores de la caja. ¿Cuántos borradores quedan en la caja?
+Hay 97 borradores en una caja. Ernest tiene 17 borradores en una bolsa. Mark saca 97 borradores de la caja. ¿Cuántos borradores quedan en la caja?
+Hay 88 dulces en una caja. Lisa tiene 18 dulces en una bolsa. Diana saca 6 caramelos de la caja. ¿Cuántos dulces quedan en la caja?
+Brandon tiene 96 bolos. Bonnie tiene 4 bolos. Pierde 9 . ¿Cuántos bolos tendrá Brandon?
+Teresa tiene 32 crayones. Janice tiene 12 crayones. Comparte 13 con Nancy. ¿Cuántos crayones tendrá Teresa?
+Craig tiene 20 manzanas. Judy tiene 11 manzanas. Comparte 7 con Eugene. ¿Cuántas manzanas tendrá Craig?
+Heather pesa 87 libras. Emily pesa 9 libras. Isabel pesa 8 libras. ¿Cuánto más pesa Heather que Emily?
+George tiene 2 cajas de bloques. Cada caja contiene 6 bloques y hay 5 cajas en un estuche. ¿Cuántos bloques tiene George?
+María tiene 3 cajas de huevos. Cada caja contiene 7 huevos y hay 8 cajas en una caja. ¿Cuántos óvulos tiene María?
+Gloria tiene 9 cajas de boletos. Cada caja contiene 5 boletos y hay 10 cajas en un estuche. ¿Cuántos boletos tiene Gloria?
+George tiene 5 cajas de huevos. Cada caja contiene 3 huevos y hay 9 cajas en una caja. ¿Cuántos huevos tiene George?
+Jacqueline tiene 4 cajas de borradores. Cada caja contiene 10 borradores y hay 9 cajas en un estuche. ¿Cuántos borradores tiene Jacqueline?
+Marilyn tiene 40 plátanos que deben guardarse en cajas. Daniel viene a ayudar y trae 10 galletas para compartir con Marilyn. Si hay 8 cajas, ¿cuántos plátanos deben ir en cada caja?
+Rose tiene 9 manzanas y 12 borradores. Si comparte las manzanas entre 3 amigos, ¿cuántas manzanas recibe cada amigo?
+Joshua tiene 40 bolos y 6 huevos. Si comparte los Skittles entre 5 amigos, ¿cuántos Skittles recibe cada amigo?
+Ryan tiene 72 canicas y 17 bloques. Si comparte las canicas entre 9 amigos, ¿cuántas canicas recibe cada amigo?
+Ruby tiene 36 dulces y 6 plátanos. Si comparte los dulces entre 9 amigos, ¿cuántos dulces recibe cada amigo?
+Scott tiene 56 naranjas que deben guardarse en cajas. Terry viene a ayudar y trae 11 galletas para compartir con Scott. Si hay 8 cajas, ¿cuántas naranjas deben ir en cada caja?
+Joyce tiene 40 plátanos que deben guardarse en cajas. Fred viene a ayudar y trae 18 galletas para compartir con Joyce. Si hay 10 cajas, ¿cuántos plátanos deben ir en cada caja?
+Joe tiene 45 naranjas que deben guardarse en cajas. Daniel viene a ayudar y trae 16 galletas para compartir con Joe. Si hay 9 cajas, ¿cuántas naranjas deben ir en cada caja?
+Ernest tiene 45 plátanos que deben guardarse en cajas. Julie viene a ayudar y trae 3 galletas para compartir con Ernest. Si hay 5 cajas, ¿cuántos plátanos deben ir en cada caja?
+Virginia tiene 16 huevos y 8 bolos. Si comparte los huevos entre 4 amigos, ¿cuántos huevos recibe cada amigo?
+Shawn tiene 13 bloques. Mildred tiene 2 bloques. Mildred encuentra otros 84 . ¿Con cuántos bloques termina Mildred?
+Si Anne deambuló durante 3 horas a 2 millas por hora. ¿Hasta dónde llegó Ana?
+Amanda tardó 3 horas en caminar hasta la casa de Kimberly a 2 millas por hora. ¿Qué distancia hay entre la casa de Amanda y la casa de Kimberly?
+Si Stephanie corrió durante 3 horas a 5 millas por hora. ¿Hasta dónde llegó Stephanie?
+Si Charles caminó 6 millas a 3 millas por hora, ¿cuánto tiempo viajó Charles?
+Carl tardó 5 horas en llegar a la casa de Ralph a 2 millas por hora. ¿Qué distancia hay entre la casa de Carl y la casa de Ralph?
+Emily corrió hacia la casa de Timothy. Hay 10 millas desde la casa de Emily hasta la casa de Timothy. Emily tardó 2 horas en llegar. ¿Qué tan rápido fue Emily?
+Si Norma deambuló durante 5 horas a 3 millas por hora. ¿Hasta dónde llegó Norma?
+Si Charles caminó 6 millas a 3 millas por hora, ¿cuánto tiempo viajó Charles?
+Si Anne deambuló durante 3 horas a 2 millas por hora. ¿Hasta dónde llegó Ana?
+Si Rose caminó durante 4 horas a 2 millas por hora. ¿Hasta dónde llegó Rosa?
+Amanda tardó 2 horas en caminar hasta la casa de Kimberly a 4 millas por hora. ¿Qué distancia hay entre la casa de Amanda y la casa de Kimberly?
+Martin caminó hasta la casa de Lawrence. Hay 12 millas desde la casa de Martin hasta la casa de Lawrence. Martín tardó 6 horas en llegar. ¿Qué tan rápido fue Martín?
+Amanda tardó 5 horas en caminar hasta la casa de Kimberly a 2 millas por hora. ¿Qué distancia hay entre la casa de Amanda y la casa de Kimberly?
+Martin caminó hasta la casa de Lawrence. Hay 12 millas desde la casa de Martin hasta la casa de Lawrence. Martín tardó 6 horas en llegar. ¿Qué tan rápido fue Martín?
+Emily corrió hacia la casa de Timothy. Hay 10 millas desde la casa de Emily hasta la casa de Timothy. Emily tardó 2 horas en llegar. ¿Qué tan rápido fue Emily?
+José caminó hasta la casa de Jane. Hay 24 millas desde la casa de José hasta la casa de Jane. José tardó 12 horas en llegar. ¿Qué tan rápido fue José?
+Katherine tardó 3 horas en correr hasta la casa de Louis a 8 millas por hora. ¿Qué distancia hay entre la casa de Katherine y la casa de Louis?
+Patrick corrió hasta la casa de Aaron. Hay 14 millas desde la casa de Patrick hasta la casa de Aaron. Patrick tardó 2 horas en llegar. ¿Qué tan rápido fue Patricio?
+Rachel caminó hasta la casa de Nicholas. Hay 10 millas desde la casa de Rachel hasta la casa de Nicholas. Rachel tardó 5 horas en llegar. ¿Qué tan rápido fue Raquel?
+Si Joan recorrió 25 millas en bicicleta a 5 millas por hora, ¿cuánto tiempo recorrió Joan?
+Mark corrió 24 millas a 6 millas por hora. ¿Cuánto tiempo corrió Mark?
+Si Benjamín caminó 14 millas a 2 millas por hora, ¿cuánto tiempo viajó Benjamín?
+Mark corrió 24 millas a 6 millas por hora. ¿Cuánto tiempo corrió Mark?
+Si Joan recorrió 25 millas en bicicleta a 5 millas por hora, ¿cuánto tiempo recorrió Joan?
+Christine caminó 20 millas a 4 millas por hora. ¿Cuánto tiempo estuvo vagando Christine?
+Christine caminó 20 millas a 4 millas por hora. ¿Cuánto tiempo estuvo vagando Christine?
+James recorrió 80 millas a 16 millas por hora. ¿Cuánto tiempo cabalgó James?
+Juan corrió 80 millas a 10 millas por hora. ¿Cuánto tiempo corrió Juan?
+James recorrió 80 millas a 16 millas por hora. ¿Cuánto tiempo cabalgó James?
+Lisa voló 256 millas a 32 millas por hora. ¿Cuánto tiempo voló Lisa?
+Lisa voló 256 millas a 32 millas por hora. ¿Cuánto tiempo voló Lisa?
+Christopher caminó 5 millas a 4 millas por hora. ¿Cuánto tiempo caminó Cristóbal?
+José caminó 4 kilómetros a 2 kilómetros por hora. ¿Cuánto tiempo estuvo vagando José?
+Si Teresa trotó 25 kilómetros a 5 kilómetros por hora, ¿cuánto tiempo estuvo trotando Teresa?
+Si Teresa trotó 25 kilómetros a 5 kilómetros por hora, ¿cuánto tiempo estuvo trotando Teresa?
+Si Teresa trotó 25 kilómetros a 5 kilómetros por hora, ¿cuánto tiempo estuvo trotando Teresa?
+Si Benjamín patinó 80 kilómetros a 10 kilómetros por hora, ¿cuánto tiempo estuvo patinando Benjamín?
+Si Heather anduvo en bicicleta 40 kilómetros a 8 kilómetros por hora, ¿cuánto tiempo estuvo Heather en bicicleta?
+Si Benjamín patinó 80 kilómetros a 10 kilómetros por hora, ¿cuánto tiempo estuvo patinando Benjamín?
+Jeremy caminó 20 kilómetros a 2 kilómetros por hora. ¿Cuánto tiempo caminó Jeremy?
+Jeremy caminó 20 kilómetros a 2 kilómetros por hora. ¿Cuánto tiempo caminó Jeremy?
+Si Lawrence caminó 4 kilómetros a 3 kilómetros por hora, ¿cuánto tiempo caminó Lawrence?
+Tienes 7 globos y tu amigo tiene 5 globos. ¿Cuántos globos más tienes que tu amigo?
+Había 2 pájaros posados en la cerca. 4 pájaros más se unieron a ellos. ¿Cuántos pájaros hay posados en la cerca?
+Has recogido 7 grillos. ¿Cuántos grillos más necesitas recolectar para tener 11 grillos?
+Una abeja tiene 6 patas. ¿Cuántas patas tienen 2 abejas?
+Hay 6 pájaros y 3 nidos. ¿Cuántas aves hay más que nidos?
+Hay 5 flores y 3 abejas. ¿Cuántas abejas menos que flores hay?
+Había 3 búhos sentados en la cerca. Se les unieron 2 búhos más. ¿Cuántos búhos hay ahora en la cerca?
+2 castores estaban trabajando en su casa. Fui a nadar. ¿Cuántos castores siguen trabajando en su casa?
+2 tucanes están sentados en la rama de un árbol. Se les une 1 tucán más. ¿Cuántos tucanes en total?
+Hay 4 ardillas en un árbol con 2 nueces. ¿Cuántas ardillas hay más que nueces?
+Señora . Hilt compró un yoyo por 24 centavos y un silbato por 14 centavos. ¿Cuánto gastó en total en los dos juguetes?
+En la Sra. En la casa de Hilt, hubo 29 pulgadas de nieve, y la Escuela Primaria Brecknock recibió 17 pulgadas de nieve. ¿Cuánta más nieve nevó la Sra. ¿La casa de Hilt tiene?
+Señora . Hilt lee 5 libros al día. ¿Cuántos libros lee en 3 días?
+Señora . Hilt vio 3 insectos comerse 2 flores cada uno. ¿Cuántas flores en total se comieron los insectos?
+Señora . Hilt tenía 15 centavos. Compró un lápiz por 11 centavos. ¿Cuánto dinero le quedó?
+Señora . Hilt compró 2 pizzas. Cada pizza tenía 8 porciones. ¿Cuántas porciones de pizza comió en total?
+Señora . Hilt comía 5 manzanas cada hora. ¿Cuántas manzanas había comido al cabo de 3 horas?
+La mamá de Mary se está preparando para la fiesta de cumpleaños de Mary. Ella infló 6 globos esta mañana y 5 globos esta tarde. ¿Cuántos globos infló en total?
+La maestra de Shelby otorga estrellas doradas por un excelente trabajo de matemáticas. Ayer, Shelby obtuvo 4 estrellas doradas. Hoy ganó 3 más. ¿Cuántas estrellas doradas ganó Shelby en total?
+La patrulla de basura recogió el sábado 10 botellas de vidrio y 8 latas de aluminio. ¿Cuántas piezas de basura recogieron en total?
+&quot;La maestra de Carson otorga estrellas doradas por un excelente trabajo de matemáticas&quot;. Ayer, Carson obtuvo 6 estrellas doradas. Hoy ganó 9 más . ¿Cuántas estrellas doradas ganó Carson en total?
+En el autobús escolar viajaban 10 estudiantes. En la primera parada, 3 estudiantes se bajaron del autobús. ¿Cuántos estudiantes quedan en el autobús?
+Lucy fue al supermercado. Compró 12 paquetes de galletas y 16 paquetes de fideos. ¿Cuántos paquetes de comestibles compró en total?
+Roden fue a una tienda de mascotas. Compró 15 peces dorados y 7 peces azules. ¿Cuántos peces compró?
+Ayer leí 21 páginas de mi libro en inglés. Hoy leí 17 páginas. ¿Cuál es el número total de páginas que leí?
+En una escuela hay 542 niñas y 387 niños. ¿Cuántos alumnos hay en esa escuela?
+Linda tiene 34 dulces. Cloe tiene 28 . ¿Cuántos dulces tienen en total?
+Gino tiene 63 palitos de helado. Tengo 50 palitos de helado. ¿Cuál es la suma de nuestros palitos de helado?
+Lino recogió 292 conchas en la orilla del mar por la mañana y 324 por la tarde. ¿Cuántas balas recogió en total?
+Había 105 padres en el programa y también 698 alumnos. ¿Cuántas personas estuvieron presentes en el programa?
+El sábado pasado, Marie vendió 425 revistas y 275 periódicos. ¿Cuál es el número total de materiales de lectura que vendió?
+Hay 12 pájaros en la cerca. 8 pájaros más aterrizan en la cerca. ¿Cuántos pájaros hay en la cerca?
+22 niños cayeron por el tobogán. 13 niños más cayeron por el tobogán. ¿Cuántos niños cayeron por el tobogán?
+13 patos nadan en un lago. 20 patos más se unen a ellos. ¿Cuántos patos nadan en el lago?
+30 perros ladran. 10 perros más empiezan a ladrar. ¿Cuántos perros ladran?
+Bobby se comió 26 dulces. Luego se comió 17 más. ¿Cuántos dulces se comió Bobby?
+Sandy tenía 26 peces como mascota. Compró 6 peces más. ¿Cuántos peces tiene Sandy como mascota ahora?
+El payaso infló 47 globos. Luego infló 13 globos más. ¿Cuántos globos tiene ahora el payaso?
+Nuestra clase obtuvo 54 libros de la biblioteca. Luego obtuvimos 23 libros más de la biblioteca. ¿Cuántos libros sacó nuestra clase de la biblioteca?
+Tessa tiene 4 manzanas. Anita le dio 5 más. Necesita 10 manzanas para hacer un pastel. ¿Tiene suficiente para hacer un pastel?
+Molly tenía 14 velas en su pastel de cumpleaños. Ella creció y puso 6 más en su pastel de cumpleaños. ¿Qué edad tiene Molly ahora?
+James comió 22 palitos de zanahoria antes de cenar y 15 más después de cenar. ¿Cuántos palitos de zanahoria se comió?
+Jovana llenó su balde con 5 libras de conchas. Si agrega 12 libras más de concha para llenar su balde, ¿cuántas libras le quedan?
+El lápiz de Isha mide 12 cubos de largo. Si toma otro lápiz que tiene 12 cubos de largo, ¿cuántos cubos tienen ambos lápices?
+El cabello de Isabella mide 18 cubos de largo. Si su cabello crece 4 pulgadas más, ¿cuánto largo tendrá?
+Señora . Sheridan tiene 17 gatos. Señor . Sheridan le dio 14 gatos más. ¿Cuántos gatos tiene la Sra. Sheridan tiene en total?
+Señora . Sheridan tiene 22 peces. Su hermana le dio 47 peces más. ¿Cuántos peces tiene ahora?
+Señora . Heine está comprando golosinas de San Valentín para sus 2 perros. Si quiere comprarles 3 galletas de corazón a cada una, ¿cuántas galletas necesita comprar?
+Cade tenía 87 canicas. Le dio 8 a Dylan. ¿Cuantos le quedan?
+Michael tiene algunos peces en su pecera. Ben le dio 18 peces más. Ahora tiene 49 . ¿Cuántos peces tenía al principio?
+Alyssa tenía 129 galletas. Aiyanna tiene 140 . ¿Cuántas galletas más tiene Aiyanna que Alyssa?
+Daniel comió unos fideos. Le dio 12 fideos a William. Ahora Daniel sólo tiene 54 fideos. ¿Cuántos fideos tenía Daniel al principio?
+Hayley tenía 25 albóndigas en su plato. Kirsten robó algunas de sus albóndigas. Ahora tiene 11 albóndigas en su plato. ¿Cuántas albóndigas robó Kirsten?
+El cabello de Isabella mide 18 pulgadas de largo. Si se corta el cabello y ahora su cabello mide 9 pulgadas de largo, ¿cuánto cabello le cortaron a Isabella?
+El cabello de Isabella mide 18 pulgadas de largo. Al final del año su cabello mide 24 pulgadas de largo. ¿Cuánto pelo le creció?
+Jovana tenía 5 libras de conchas en su balde. Añadió algunas conchas y ahora tiene 28 libras de conchas. ¿Cuántas libras añadió?
+El lápiz de Isha mide 31 pulgadas de largo. Si lo afila, ahora su lápiz mide 14 pulgadas de largo. ¿Cuánto le sacó punta a su lápiz?
+Señora . Sheridan tiene 11 gatos. ¿Cuántos gatos más tiene la Sra. ¿Sheridan necesita tener 43 gatos?
+Señora . Sheridan tiene 11 gatos. Señora . Garrett tiene 24 gatos. ¿Cuántos gatos más tiene la Sra. Garrett tiene que la Sra. ¿Sheridan?
+Señora . Wong tuvo 30 tarjetas de San Valentín. Regaló 8 tarjetas de San Valentín a sus hijos. ¿Cuantos le quedan?
+Señora . Franklin tuvo 58 tarjetas de San Valentín. Señora . Franklin les dio algunos a sus alumnos. Ahora tiene 16. ¿Cuántas tarjetas de San Valentín celebró la Sra. ¿Franklin le dio a sus alumnos?
+Señora . Snyder hizo 86 galletas con forma de corazón. Hizo 36 galletas rojas y el resto son rosas. ¿Cuántas galletas rosas hizo?
+Señora . Santiago tiene 58 rosas rojas. Señora . Garrett tiene 24 . ¿Cuántas rosas rojas más tiene la Sra. Santiago tiene que la Sra. Garrett?
+14 pájaros estaban posados en un árbol. 21 pájaros más volaron hasta el árbol. ¿Cuántos pájaros había en total en el árbol?
+29 pájaros estaban posados en un árbol. Algunos más vuelan hasta el árbol. Entonces había 42 pájaros en el árbol. ¿Cuántos más volaron hasta el árbol?
+La mamá de Cindy horneó 41 galletas. El papá de Paul horneó 38 galletas. Ambos los llevaron a la escuela para una fiesta. ¿Cuántas galletas tenían en total?
+En el autobús viajaban 18 niños. En la parada del autobús, algunos niños más subieron al autobús. En el autobús viajaban entonces 25 niños en total. ¿Cuántos niños subieron al autobús en la parada?
+Misha tiene 34 dólares. ¿Cuántos dólares más tiene que ganar para tener 47 dólares?
+Había 28 niñas y 35 niños en el patio de recreo durante el recreo. ¿Cuántos niños había en total?
+Había 44 niños y 53 niñas en el patio de recreo durante el recreo. ¿Cuántos niños había en total en el patio de recreo?
+En el pantano había 58 gansos y 37 patos. ¿Cuántos pájaros había en total?
+Paul tenía 42 fresas en su canasta. Recogió 78 fresas más. ¿Cuántas fresas tenía entonces?
+Robin tenía 18 chicles. Su hermano le dio algunas piezas más. Ahora Robin tiene 44 piezas en total. ¿Cuántos chicles le dio el hermano de Robin?
+Bobby tiene 142 libros. Kristi tiene 78 libros. ¿Cuántos libros más tiene Bobby que Kristi?
+Tommy tenía algunos globos. Su mamá le regaló 34 globos más para su cumpleaños. Entonces Tommy tenía 60 globos. ¿Con cuántos globos tenía Tommy al empezar?
+Había 14 niños en la cancha de fútbol. 22 niños decidieron unirse. Ahora ¿cuántos niños hay en la cancha de fútbol?
+Jane tiene 28 hojas viejas de papel de dibujo marrón y 27 hojas viejas de papel de dibujo amarillo. ¿Cuántas hojas de papel de dibujo tiene?
+Mikey tenía 356 hojas. Algunas de sus hojas volaron. Ahora le quedan 112 hojas. ¿Cuántas de sus hojas se volaron?
+Marcus tiene 210 tarjetas de béisbol. Tiene 58 más que Carter. ¿Cuántas tarjetas de béisbol tiene Carter?
+Gavin tiene 23 camisetas. 6 son azules el resto son verdes. ¿Cuántas camisas verdes tiene Gavin?
+Ethan tiene 31 regalos. Alissa tiene 22 más que Ethan. ¿Cuántos regalos tiene Alissa?
+El primer día de la semana, Pat tenía 39 calcomanías. Pat ganó 22 más durante la semana. ¿Cuántas calcomanías tenía Pat al final de la semana?
+Kelly tenía 56 manzanas. ¿Cuántas manzanas más necesita recoger Kelly para tener 105 manzanas en total?
+Todd tiene chicle. Steve le dio 16 chicles más. Ahora Todd tiene 54 chicles. ¿Con cuántas piezas tenía Todd al empezar?
+Josh tenía 142 lápices. Le dio 31 lápices a Dorothy. ¿Cuántos lápices le quedan a Josh?
+Nell colecciona tarjetas de béisbol. Tenía 304 tarjetas. Le dio algunas de sus tarjetas a Jeff y ahora le quedan 276 tarjetas. ¿Cuántas tarjetas le dio Nell a Jeff?
+Sarah tenía algunos camiones. Le dio 13 a Jeff y ahora le quedan 38 camiones. ¿Con cuántos camiones tenía Sarah al empezar?
+Hay 40 niños y algunas niñas en el patio de recreo. Hay 117 niños en total. ¿Cuántas niñas hay en el patio de recreo?
+Megan tenía 49 marcadores. Robert le dio 39 marcadores más. ¿Cuántos marcadores tiene Megan en total?
+Cada estante para CD tiene capacidad para 8 CD. Un estante puede contener 4 estantes. ¿Cuántos CD en total caben en el estante?
+Carla tiene algunas canicas. Compró 134 canicas. Ahora tiene 187 canicas. ¿Con cuántos empezó?
+Kelly tiene 50 juegos de Nintendo. ¿Cuántos necesita regalar para que le queden 35 juegos?
+Connie tenía algunas canicas. Ella le dio 73 a Juan. Ahora le quedan 70 canicas. ¿Con cuántos tenía ella para empezar?
+Connie tiene 41 marcadores rojos y 64 marcadores azules. ¿Cuántos marcadores tiene en total?
+Iesha tiene 58 libros. 19 son sobre la escuela y el resto sobre deportes. ¿Cuántos libros sobre deportes tiene Iesha?
+James tiene 232 globos. Amy tiene 101 globos. ¿Cuántos globos más tiene James que Amy?
+Sean tiene 45 silbatos. Tiene 32 pitos más que Charles. ¿Cuántos silbatos tiene Charles?
+Connie tiene 39 canicas. Juan tiene 25 canicas más que Connie. ¿Cuántas canicas tiene Juan?
+Joe tenía 50 carritos de juguete. Si consigue 12 autos más, ¿cuántos autos tendrá entonces?
+Hay 64 cerdos en el establo. Algunos más vienen a unirse a ellos. Ahora hay 86 cerdos. ¿Cuántos cerdos se unieron a ellos?
+Rosa tenía 67 flores. Andre le dio más flores. Ahora Rosa tiene 90 flores. ¿Cuántas flores le dio André a Rosa?
+Adolfo hizo una torre con 35 bloques. Añadió algunos bloques más y ahora tiene 65 bloques. ¿Cuántos tuvo que sumar?
+Josh tenía 16 canicas en su colección. Perdió 7 canicas. ¿Cuántas canicas tiene ahora?
+Megan tiene 19 conchas marinas. ¿Cuántas conchas más necesita encontrar para tener 25 conchas en su colección?
+Brad tiene 17 globos. 8 globos son rojos y el resto son verdes. ¿Cuántos globos verdes tiene Brad?
+Hay 38 libros en el estante. Marta puso 10 libros más en el estante. ¿Cuántos libros hay ahora en el estante?
+Una abeja tiene 6 patas. ¿Cuántas patas tienen 8 abejas?
+Señora . Hilt compró un cono de helado por 99 centavos. ¿Cuánto costarían 2 conos de helado?
+Señora . Hilt quiere hacer un borde alrededor de su jardín. Necesita 125 piedras para completar la frontera. Tiene 64 piedras. ¿Cuántas piedras más necesita para completar el borde?
+Señora . Hilt y su hermana manejaron hasta un concierto a 78 millas de distancia. Condujeron 32 millas y luego se detuvieron para cargar gasolina. Su hermana puso 28 galones de gasolina en el auto. ¿Cuántas millas les quedaron por recorrer?
+Señora . Hilt compró 6 hot dogs. Cada hot dog cuesta 50 centavos. ¿Cuánto dinero pagó por todos los hot dogs?
+Señora . La empuñadura tiene 50 centavos. Un lápiz cuesta 5 centavos. ¿Cuántos lápices puede comprar con el dinero que tiene?
+Señora . Hilt compró 3 pizzas a $8 cada una. ¿Cuál fue el monto total que pagó por las tres pizzas?
+Los Hawks anotaron 3 touchdowns por valor de 7 puntos cada uno. ¿Cuantos puntos tienen?
+Zach anotó 42 puntos en el partido de fútbol. Ben anotó 21 puntos. ¿Cuántos puntos más anotó Zach?
+Kate tiene 223 centavos. John tiene 388 centavos. ¿Cuántos centavos más tiene John?
+Tim tenía 50 centavos. Pagó 45 centavos por una barra de chocolate. ¿Cuánto cambio recibirá?
+Mark tiene 13 árboles en su patio trasero. Si planta 12 más, ¿cuántos árboles tendrá?
+Kim tiene 4 primos. Quiere darle a cada primo 5 chicles. ¿Cuánto chicle necesitará?
+Dan tiene $3.00. Compró una barra de chocolate por $1,00. ¿Cuánto dinero queda?
+Hay 5 barcos en el lago. Cada barco tiene 3 personas. ¿Cuántas personas hay en botes en el lago?
+Charlie tiene 31 bolas de nieve más que Lucy. Tiene 19 bolas de nieve. ¿Cuántos tiene Charlie?
+Randy tiene 78 bloques. Utiliza 19 bloques para construir una torre. ¿Cuantos bloques quedan?
+Bryan tiene 50 bolos. Ben tiene 20 M&amp;M. ¿Quién tiene más? ¿Cuántos más tiene?
+Paul recibió una caja de 479 crayones para su cumpleaños. Al final del año escolar, sólo le quedaban 134. ¿Cuántos crayones se habían perdido o regalado?
+179 pájaros estaban posados en un árbol. 38 pájaros más volaron hasta el árbol. ¿Cuántos pájaros había en total en el árbol?
+La mamá de Cindy horneó 1215 galletas. El papá de Paul horneó 1112 galletas. Ambos los llevaron a la escuela para una fiesta. ¿Cuántas galletas tenían en total?
+231 pájaros estaban posados en un árbol. Algunos más vuelan hasta el árbol. Entonces había 312 pájaros en el árbol. ¿Cuántos más vuelan hasta el árbol?
+En el autobús viajaban 64 niños. En la parada del autobús, algunos niños más subieron al autobús. En total, en el autobús viajaban 78 niños. ¿Cuántos niños subieron al autobús en la parada?
+Misha tiene 34 dólares. ¿Cuántos dólares tiene que ganar para tener 47 dólares y comprar un perro?
+Elisa tiene 37 dólares. ¿Cuántos dólares más tiene que ganar para tener 53 dólares?
+James tenía 39 calcomanías. Recibió algunas pegatinas más para su cumpleaños. Luego tenía 61 pegatinas. ¿Cuántas calcomanías recibió James por su cumpleaños?
+Había 27 niños y 35 niñas en el patio de recreo durante el recreo. ¿Cuántos niños había en el patio de recreo durante el recreo?
+En el pantano había 58 gansos y 37 patos. ¿Cuántos pájaros había en el pantano?
+Paul tenía 28 fresas en su canasta. Recogió 35 fresas más. ¿Cuántas fresas tenía entonces?
+Gary tenía 73 dólares. Gastó 55 dólares en una serpiente como mascota. ¿Cuántos dólares le quedaron a Gary?
+Hay 397 mariposas. Cada mariposa tiene 12 puntos negros y 17 puntos amarillos. ¿Cuántos puntos negros hay en total?
+¿Cuántas galletas tendrías si tuvieras 37 bolsas de galletas con 19 galletas en cada bolsa?
+¿Cuánto costarían 136 chicles si cada uno cuesta 18 centavos?
+Para la obra de quinto grado, las sillas se colocaron en 27 filas con 16 sillas en cada fila. ¿Cuántas sillas se han colocado para la obra?
+La noria del Paradise Park tiene 14 asientos. Cada asiento tiene capacidad para 6 personas. ¿Cuántas personas pueden montar en la noria al mismo tiempo?
+Un jardín tiene 52 hileras y 15 columnas de planos de frijoles. ¿Cuántas plantas hay en total?
+Un arenero mide 312 centímetros de largo y 146 centímetros de ancho. ¿Cuántos centímetros cuadrados de terreno cubre el arenero?
+Sarah recogió 45 manzanas. Su hermano recogió 9 manzanas. ¿Cuántas veces más manzanas recogió Sara?
+Hay 261 peceras. Cada pecera tiene 23 peces. Cuantos peces hay ?
+Pedimos 21 pizzas. Cada pizza tiene 8 porciones. ¿Cuántas porciones de pizza hay en total?
+Emily recogió huevos de la gallina y los puso en 303 cestas. Puso 28 huevos en cada canasta. ¿Cuántos huevos recogió Emily?
+Había 150 estanterías para libros. Cada estantería tenía 15 libros. ¿Cuántos libros había en los estantes?
+Hay 84 hojas. Hay 139 mariquitas en cada hoja. ¿Cuántas mariquitas hay en total?
+Hay 37 cestas. Hay 17 manzanas en cada canasta. ¿Cuántas manzanas hay en total?
+Hay 544 macetas. Cada maceta tiene 32 flores. ¿Cuántas flores hay en total?
+Tu clase va a tener una fiesta de pizza. Compras 5 pizzas. Cada pizza tiene 4 porciones. ¿Cuántas rebanadas son en total?
+Beth tiene 4 paquetes de crayones. Cada paquete tiene 10 crayones. También tiene 6 crayones extra. ¿Cuántos crayones tiene Beth en total?
+Ted tiene 15 barras de chocolate. Quiere ponerlos en 5 bolsas para que haya la misma cantidad de barras de chocolate en cada bolsa. ¿Cuántas barras de chocolate deben ir en cada bolsa?
+Una tienda de dulces tiene 6 cajas de chocolates. Cada caja tiene 500 piezas. ¿Cuántas piezas hay en total en las cajas?
+Marta compró 18 pasteles pequeños. Tiene 3 hijos. Le gustaría dividir los pasteles entre sus hijos para que cada uno reciba la misma cantidad. ¿Cuántos pasteles recibiría cada niño?
+Julian está escribiendo un cómic. Su historia tiene 143 fotogramas en total. Si quiere poner exactamente 11 cuadros en cada página, ¿cuántas páginas tendría?
+La habitación de Jesse mide 12 pies de largo y 8 pies de ancho. ¿Cuánta alfombra necesita para cubrir todo el piso?
+Hay 5 personas en el equipo de atletismo de Green Bay High. Si una carrera de relevos tiene una longitud de 150 metros, ¿qué distancia tendrá que correr cada miembro del equipo?
+Se necesitan 4 pies de algodón para hacer una camiseta. ¿Cuántas camisetas se pueden hacer con 60 pies de material?
+Lukas promedia 12 puntos por partido en baloncesto. ¿Cuántos puntos anotaría en 5 juegos?
+Mi auto recorre 20 millas por galón. ¿Cuántas millas puedo conducir con 5 galones de gasolina?
+Se necesitan 7 minutos para hornear un molde de galletas. ¿Cuánto tiempo llevará hornear 4 moldes de galletas?
+Mi auto recorre 20 millas por galón de gasolina. Si la casa de la abuela está a 100 millas de distancia, ¿cuántos galones de gasolina se necesitarían para llegar a su casa?
+Melissa anotó 120 puntos en cada juego. ¿Cuántos puntos anotó en 10 juegos?
+Johnny practicó para el equipo de atletismo y corrió 3 vueltas por minuto. ¿Cuántos minutos le tomó a Johnny correr 10 vueltas?
+Nuestras sandías tienen 100 semillas cada una. Si tenemos 4 sandías, ¿cuántas semillas debería haber cuando se quiten todas las semillas de las sandías?
+Robin tiene 9 paquetes de chicles. Hay 15 piezas en cada paquete. ¿Cuántos chicles tiene Robin?
+63 personas van al zoológico. Hay 3 autos para llevar a la gente al zoológico. ¿Cuántos irán en cada auto si en cada auto va el mismo número?
+Tengo 80 centavos para comprar dulces. Si cada gomita cuesta 4 centavos, ¿cuántas gomitas puedo comprar?
+Maggi tenía 3 paquetes de pastelitos. Hay 4 cupcakes en cada paquete. Se comió 5 pastelitos. Cuántos quedan ?
+58 niños van en autobús al zoológico. En cada asiento se sientan 2 niños. ¿Cuántos asientos necesitarán los niños en total?
+Marlee tiene 12 invitados a su fiesta de Halloween. Cada mesa tendrá capacidad para 3 invitados. ¿Cuántas mesas necesitará?
+Warren tiene 252 invitados a su fiesta. Cada mesa tendrá capacidad para 4 invitados. ¿Cuántas mesas necesitará?
+Arthur horneó 35 muffins. ¿Cuántos muffins más tiene que hornear Arthur para tener 83 muffins?
+Hay 10 pegatinas en una página. Si tienes 22 páginas de pegatinas, ¿cuántas pegatinas tienes?
+Hay 96 pastelitos para que los compartan 8 niños. ¿Cuánto recibirá cada persona si reparten los pastelitos en partes iguales?
+José tiene 85 maníes. Kenia tiene 48 más que José. ¿Cuántos maní tiene Kenia?
+Las camisetas blancas se pueden comprar en paquetes de 6 . Si mamá compra 71 paquetes, ¿cuántas camisetas blancas tendrá?
+Tengo 648 lápices. Si pongo 4 lápices en cada caja de lápices, ¿cuántas cajas de lápices llenaré?
+El tío Dave compró 143 sándwiches de helado. Si quiere dárselos a sus 11 sobrinas hambrientas, ¿cuántos puede recibir cada sobrina?
+Megan tenía 217 marcadores. Robert le dio 109 marcadores más. ¿Cuántos marcadores tiene Megan en total?
+Un libro en DVD tiene capacidad para 126 DVD. Ya hay 81 DVD en el libro. ¿Cuántos DVD más se pueden poner en el libro?
+Carla tiene algunas canicas. Compró 489 canicas. Ahora tiene 2778 canicas en total. ¿Con cuántos empezó?
+Kelly tiene 121 juegos de Nintendo. ¿Cuántos necesita regalar para que le queden 22 juegos?
+Connie tenía algunas canicas. Ella le dio 183 a Juan. Ahora le quedan 593 canicas. ¿Con cuántos tenía ella para empezar?
+Connie tiene 2315 marcadores rojos y 1028 marcadores azules. ¿Cuántos marcadores tiene en total?
+Iesha tiene 344 libros. 136 son sobre escuela y el resto sobre deportes. ¿Cuántos libros sobre deportes tiene Iesha?
+Sean tiene 223 silbatos. Tiene 95 pitos más que Charles. ¿Cuántos silbatos tiene Charles?
+Robin tiene 27 paquetes de chicles. Hay 18 piezas en cada paquete. ¿Cuántos chicles tiene Robin?
+Adam tiene $5,00 para comprar un avión que cuesta $4,28. ¿Cuánto cambio recibirá?
+Si cada bola cuesta $1.54, ¿cuánto debe pagar Kyoko por 3 bolas?
+Señor . Guzmán compró 48 donas empaquetadas en partes iguales en 4 cajas. ¿Cuántas donas había en cada caja?
+La familia Sumata se tomó unas vacaciones de cinco días en coche. Cada día conducían 250 millas. ¿Cuántas millas en total recorrieron?
+La ciudad de Milburg tiene 5256 adultos y 2987 niños. ¿Cuánta gente vive en Milburg?
+Lisa alquiló 4 DVD por $4,80. ¿Cuánto costó el alquiler de cada DVD?
+Había 3409 dulces en un frasco. Si 145 piezas eran rojas y el resto eran azules, ¿cuántas eran azules?
+Los alumnos de tercer grado fueron a un concierto en 8 autobuses. Cada autobús llevaba 45 estudiantes. ¿Cuántos estudiantes asistieron al concierto?
+Hay 124 estudiantes que hacen 3 estrellas cada uno para la pared de la escuela. ¿Cuántas estrellas formarán en total?
+Había 6 estudiantes sentados en cada mesa del comedor. Hay 34 mesas. ¿Cuántos estudiantes estaban sentados en el comedor?
+Tyler tenía 15 perros. Cada perro tuvo 5 cachorros. ¿Cuántos cachorros tiene ahora Tyler?
+El granjero tenía 127 manzanas. Le dio 88 manzanas a su vecino. ¿Cuántas manzanas tiene ahora?
+Jill invitó a 37 personas a su fiesta de cumpleaños. Cada uno comió 8 porciones de pizza. ¿Cuántas porciones de pizza comieron?
+Señora . Hilt usa 2 onzas de detergente para lavar una libra de ropa. ¿Cuántas onzas de jabón usará para lavar 9 libras de ropa?
+Señora . Hilt fue a un concierto. Al concierto asistieron un total de 65.899 personas. La semana siguiente, asistió a un segundo concierto, al que asistieron 119 personas más. ¿Cuántas personas había en el segundo concierto?
+Señora . Pasteles horneados el fin de semana pasado para una cena navideña. Horneó 16 pasteles de nueces y 14 pasteles de manzana. Si quiere colocar todos los pasteles en filas de 5 pasteles cada una, ¿cuántas filas tendrá?
+Señora . Hilt necesita compartir $3.75 en partes iguales entre 3 personas en total. ¿Cuánto dinero recibirá cada persona?
+Señora . Hilt leyó 4 libros. Cada libro tenía 17 capítulos. ¿Cuántos capítulos escribió la Sra. ¿Lectura de empuñadura?
+Señora . Hilt vio 144 abejas en la colmena. Al día siguiente vio 3 veces más. ¿Cuántas abejas vio el segundo día?
+Señora . Hilt midió la distancia desde su escritorio hasta la fuente de agua. Eran 30 pies. ¿Cuántos pies medirá la Sra. ¿Camina con empuñadura en sus viajes a la fuente si hoy va a la fuente de agua 4 veces?
+Lucy tiene un acuario con 212 peces. Quiere comprar 68 peces más. ¿Cuántos peces tendría Lucy entonces?
+Lucy tiene 212 peces. ¿Cuántos peces más necesita comprar para tener 280 peces?
+Rupert y Ronald obtuvieron excelentes resultados en su examen de matemáticas. Así que ayer su madre les compró un maravilloso trampolín. Ronald saltó 157 veces en el trampolín. Rupert saltó 86 veces más que Ronald. ¿Cuántas veces saltaron en total?
+Harry Hound tuvo ayer un terrible dolor de oído. Cuando miré dentro de sus oídos ayer, encontré 36 pulgas juguetonas haciendo una fiesta en su oído derecho y 85 pulgas bebés durmiendo pacíficamente en su oído izquierdo. Limpié las orejas de Harry Hound. ¿Cuántas pulgas murieron?
+Una tienda de artículos para mascotas tiene 600 bolsas de comida para perros y 327 bolsas de comida para gatos. ¿Cuántas bolsas más de comida para perros hay que de comida para gatos?
+532 personas están viendo una película en un cine. El teatro tiene 750 asientos. ¿Cuántas butacas hay vacías en el teatro?
+Cada bolsa contiene 23 libras de naranjas. ¿Cuántas libras de naranjas hay en 45 bolsas?
+Ellen fue a una venta de garaje para comprar sillas. Cada silla cuesta 15 dólares. ¿Cuánto dinero gastó Elena en las 12 sillas que compró?
+Albert tiene dos serpientes. La serpiente de jardín mide 10 pulgadas de largo. La boa constrictor es 7 veces más larga que la serpiente de jardín. ¿Cuánto mide la boa constrictor?
+El huerto de repollos de Albert tiene 12 hileras de repollos. En cada fila hay 15 cabezas de repollo. ¿Cuántas cabezas de repollo tiene Alberto en total?
+Marie puede andar en bicicleta a una velocidad de 12 millas por hora. ¿Qué distancia puede recorrer en bicicleta en 31 horas?
+Tammy condujo 55 millas en una hora. A ese ritmo, ¿qué distancia puede recorrer en 36 horas?
+Se necesitan 4 manzanas para hacer 1 pastel. ¿Cuántas manzanas se necesitan para hacer 504 pasteles?
+Tienes 24 cookies y quieres compartirlas a partes iguales con 6 personas. ¿Cuántas galletas recibiría cada persona?
+Estás leyendo un libro de 120 páginas. Si quieres leer el mismo número de páginas cada noche, ¿cuántas tendrías que leer cada noche para terminar en 10 días?
+Una caja de cereal tiene capacidad para 18 tazas de cereal. Cada porción son 2 tazas. ¿Cuántas porciones hay en toda la caja?
+Una caja de libros pesa 42 libras. Cada libro pesa 3 libras. ¿Cuántos libros hay en la caja?
+La madre de Sue hizo 75 galletas. Puso las galletas en bolsas, con 3 galletas en cada bolsa. ¿Cuántas bolsas podría llenar?
+Frank trabajó 8 horas los primeros 4 días de la semana. ¿Cuántas horas trabajó en total?
+La familia de Sue se fue de vacaciones. Su mamá conducía el auto a 60 mph. Acamparon en un campamento después de viajar durante 5 horas. ¿A qué distancia estaba el campamento de su casa?
+Brett condujo 55 millas cada hora. ¿Cuántas millas recorrería en 8 horas?
+Una puntuación perfecta es 21 puntos. ¿Cuántos puntos tendrías después de 3 juegos perfectos seguidos?
+El auto de Brian recorre 20 millas por galón. En su último viaje usó 3 galones de gasolina. ¿Cuántas millas recorrió en su último viaje?
+El auto de Bob recorre 10 kilómetros por galón. ¿Qué distancia puede recorrer con 10 galones de gasolina?
+Cada taza contiene 8 onzas. ¿Cuántas onzas hay en 33 tazas?
+Una receta de galletas con chispas de chocolate requiere 2 tazas de chispas de chocolate. Quieres hacer 23 recetas para una venta de pasteles. ¿Cuántas tazas de chispas de chocolate se necesitarán para preparar todas las recetas de galletas?
+Tengo un golden retriever como mascota. Cada año gana 11 libras. Tiene 8 años . ¿Cuántas libras pesa?
+El auto de Mary recorre 20 millas por galón de gasolina. ¿Qué distancia puede recorrer con 14 galones de gasolina?
+Caminé 2 millas en 1 hora para Relay for Life. Si mantuve este ritmo durante las 8 horas que camino, ¿cuántas millas en total caminaré?
+Camino 1 milla cada 15 minutos. Caminé 3 millas. ¿Cuántos minutos me tomó?
+Lansing tiene 25 escuelas primarias. Hay 247 estudiantes en cada escuela. ¿Cuántos estudiantes de primaria hay en total en Lansing?
+256 estudiantes van al zoológico. Hay que dividirlos en grupos para que cada profesor tenga un grupo. Hay 8 profesores. ¿Cuántos estudiantes habrá en cada grupo?
+Una granja frutícola empaca naranjas en cajas con capacidad para 10 cada una. Un día empaca 2650 naranjas. ¿Cuántas cajas usaron?
+Quieres regalar tus tarjetas de béisbol a tus 5 mejores amigos. Tienes 455 tarjetas de béisbol. ¿Cuántos obtendría cada uno si los repartiera en partes iguales?
+Ellen tenía 2080 Legos, pero perdió 17 Legos. ¿Cuántos Legos tiene ahora?
+Arthur horneó 115 muffins. James horneó 12 veces más. ¿Cuántas magdalenas horneó James?
+Hay 14240 libros en una biblioteca. Están dispuestos en estantes con capacidad para 8 libros cada uno. ¿Cuántos estantes hay en la biblioteca?
+219 personas van al zoológico y hay 3 autobuses para llevar gente. ¿Cuántos irán en cada autobús si en cada uno van el mismo número y todas las personas van al zoológico?
+Tengo 224 centavos para comprar dulces. Si cada caramelo a granel cuesta 8 centavos, ¿cuántas gomitas puedo comprar?
+Mi perro tenía algunos huesos. Luego, desenterró 367 huesos. Ahora tiene 860 huesos. ¿Con cuántos huesos empezó?
+Jazmín tenía 1209 muñecas y Geraldine tenía 2186 muñecas. Si juntaran sus muñecos ¿cuántos tendrían?
+Mariela estaba en el hospital y recibió 403 tarjetas de recuperación de todo el país. Cuando llegó a casa recibió 287 tarjetas más de amigos y familiares. ¿Cuántas tarjetas de recuperación recibió Mariela?
+Cody tiene 14 años. Su abuela tiene 6 veces la edad de él. ¿Qué edad tiene la abuela de Cody?
+Jorge marcó 156 goles jugando al fútbol la temporada pasada. Esta temporada marcó 187 goles. ¿Cuál es el número total de goles que marcó jorge?
+César necesita leer un libro de 563 páginas para la escuela. Ya ha leído 147 páginas. ¿Cuántas páginas le quedan por leer?
+Omar y Karen prepararon rollitos de huevo para compartir en la comida compartida de la escuela. Omar hizo 219 rollitos de huevo. Karen hizo 229 rollos de huevo. ¿Cuál es el número total de rollos de huevo que hicieron Omar y Karen?
+Beka voló 873 millas para visitar a su tía. Jackson voló 563 millas para visitar a su tía. ¿Cuántas millas más voló Beka que Jackson?
+Darius condujo 679 millas para visitar a su abuela. Julia condujo 998 millas para visitar a su abuela. ¿Cuál es el número total de millas que recorrieron Darío y Julia?
+Isabel compró 900 hojas de papel. Usó 156 pedazos de papel. ¿Cuántos pedazos de papel le quedan?
+Señora . Hilt miró el odómetro de su auto antes de un viaje. El odómetro mostró que había recorrido 212,3 millas. Cuando se detuvo para almorzar, el odómetro marcaba 372,0. ¿Cuántas millas había viajado?
+Señora . Hilt impresionó a 2.436 aficionados en el partido de baloncesto del viernes. Si los fanáticos estaban sentados en grupos iguales en 3 juegos de gradas, ¿cuántos fanáticos había en cada juego?
+Tu clase tuvo una fiesta de pizza. Sobró 0,375 de una pizza y sobró 0,5 de otra pizza. Los pones a ambos en una sola caja. ¿Cuánta pizza tienes en total?
+Una receta de pastel requiere 0,6 taza de azúcar para el glaseado y 0,2 taza de azúcar para el pastel. ¿Cuánta azúcar es eso en total?
+Después de una fiesta sobran 0.625 del pastel. Esa noche, el hermano mayor se come 0,25 del pastel. ¿Cuánto queda después de eso?
+Sales a dar un largo paseo. Caminas 0,75 milla y luego te sientas a descansar. Luego caminas 0,25 de milla. ¿Qué distancia recorriste en total?
+Juan necesita $2.50. Tiene $0,75. ¿Cuánto dinero más necesita?
+Jane compra una manzana por $0,75 y paga con un billete de $5,00. ¿Cuánto cambio recibirá?
+John camina 0,7 millas hasta la escuela y Nina camina 0,4 millas hasta la escuela. ¿Cuánto más camina John que Nina?
+Un lápiz pesa 28,3 gramos. ¿Cuánto pesan 5 lápices?
+Andrew pasó 3 días trabajando en su informe científico. Trabajó 2,5 horas cada día. ¿Cuántas horas trabajó?
