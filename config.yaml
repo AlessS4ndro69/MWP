@@ -3,7 +3,7 @@ duplication: False
 test: postfix
 # Model specification
 model: False
-layers: 5
+layers: 6
 heads: 8
 d_model: 256
 dff: 1024
@@ -26,5 +26,5 @@ reorder: False
 tagging: lst
 # Other behavior
 input: False
-seed: 420367
+seed: 420368
 save: True
