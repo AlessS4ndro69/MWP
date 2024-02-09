@@ -3,12 +3,12 @@ duplication: False
 test: postfix
 # Model specification
 model: False
-layers: 3
+layers: 4
 heads: 8
 d_model: 256
 dff: 1024
 lr: scheduled
-dropout: 0.12
+dropout: 0.15
 # Training
 epochs: 300
 batch: 128
@@ -26,5 +26,5 @@ reorder: False
 tagging: lst
 # Other behavior
 input: False
-seed: 420365
+seed: 420366
 save: True
