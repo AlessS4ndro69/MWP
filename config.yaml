@@ -3,7 +3,7 @@ duplication: False
 test: postfix
 # Model specification
 model: False
-layers: 4 
+layers: 5
 heads: 8
 d_model: 512
 dff: 1024
