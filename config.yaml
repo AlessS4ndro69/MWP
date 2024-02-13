@@ -8,7 +8,7 @@ heads: 8
 d_model: 512
 dff: 1024
 lr: scheduled
-dropout: 0.10
+dropout: 0.15
 # Training
 epochs: 300
 batch: 128
